@@ -283,7 +283,7 @@ def main():
             sectPr = child
         if isinstance(child, CT_P):
             t = "".join(child.itertext()).strip()
-            if t.startswith("五、回测设计"):
+            if t.startswith("六、回测设计") or t.startswith("五、回测设计"):
                 si = idx
                 break
     if si is None:

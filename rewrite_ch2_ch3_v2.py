@@ -304,15 +304,21 @@ def generate_chapter2(doc, ref, opt, mgr, perf_lu):
         f"全球使用期权ETF总AUM约{total_opt_aum_亿:.2f}亿美元。")
 
     # Strategic positioning (moved from old 2.6)
+    jpm_n = len(opt[opt['Firm Name'] == 'JPMorgan'])
+    neos_n = len(opt[opt['Firm Name'] == 'Neos Funds'])
+    ft_n = len(opt[opt['Firm Name'] == 'First Trust'])
+    innov_n = len(opt[opt['Firm Name'] == 'Innovator ETFs'])
+    gx_n = len(opt[opt['Firm Name'] == 'Global X Funds'])
+    gx_aum = opt[opt['Firm Name'] == 'Global X Funds']['Fund Size USD'].sum() / 1e8
     add_p(doc, ref,
         "从策略路径看，五家管理人呈现出三种差异化的定位："
-        "JPMorgan和NEOS以少数核心产品驱动规模——JPMorgan仅7只产品达到896亿美元，"
-        "Top3产品AUM集中度达98.9%；NEOS仅8只产品达到249亿美元，Top3集中度96.9%。"
-        "First Trust和Innovator则以产品矩阵的广度取胜——分别以138只和165只产品覆盖不同月份、"
+        f"JPMorgan和NEOS以少数核心产品驱动规模——JPMorgan仅{jpm_n}只产品达到896亿美元，"
+        f"Top3产品AUM集中度达98.9%；NEOS仅{neos_n}只产品达到249亿美元，Top3集中度96.9%。"
+        f"First Trust和Innovator则以产品矩阵的广度取胜——分别以{ft_n}只和{innov_n}只产品覆盖不同月份、"
         "缓冲深度和底层资产，Top3集中度仅为27.8%和15.9%。"
         "Global X作为最早布局covered call ETF的管理人（QYLD/XYLD均于2013年发行），"
         "虽拥有显著的先发时间窗口，但后续产品线扩张速度明显落后，"
-        "18只产品仅贡献134亿美元AUM，且近1年出现资金净流出。")
+        f"{gx_n}只产品仅贡献{gx_aum:.0f}亿美元AUM，且近1年出现资金净流出。")
 
     # ---- Per-manager sections ----
     for i, firm in enumerate(top5_firms):
@@ -404,9 +410,17 @@ def generate_chapter2(doc, ref, opt, mgr, perf_lu):
             ["时间窗口", "净流量合计（亿美元）", "产品分布", "流入/流出明细", "最大贡献产品"],
             flow_rows, font_size=7.8)
         add_src(doc, ref, "Morningstar资金流数据。净流量为管理人旗下所有使用期权产品对应时间窗口的资金净流入之和。")
+        # Count products with Flow_3Yr data per manager
+        fl_counts = {}
+        for mgr in ['JPMorgan', 'First Trust', 'Innovator ETFs', 'Neos Funds', 'Global X Funds']:
+            sub = opt[opt['Firm Name'] == mgr]
+            with_flow = sub[sub['Flow_3Yr'].notna()]
+            fl_counts[mgr] = f"{len(with_flow)}/{len(sub)}"
         add_note(doc, ref,
-            "Flow_3Yr仅覆盖成立满3年的产品（JPMorgan 3/7只、First Trust 55/138只、Innovator 75/165只、"
-            "NEOS 1/8只、Global X 14/18只），与较短时间窗口数据不可直接横向对比。"
+            f"Flow_3Yr仅覆盖成立满3年的产品（JPMorgan {fl_counts['JPMorgan']}只、"
+            f"First Trust {fl_counts['First Trust']}只、Innovator {fl_counts['Innovator ETFs']}只、"
+            f"NEOS {fl_counts['Neos Funds']}只、Global X {fl_counts['Global X Funds']}只），"
+            "与较短时间窗口数据不可直接横向对比。"
             "流入/流出明细为各产品正/负流向各自加总，两者相抵后等于净流量合计。")
 
 
