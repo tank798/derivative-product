@@ -1,0 +1,262 @@
+[
+  {
+    "name": "iShares Systematic Alternatives Actv ETF",
+    "ticker": "IALT",
+    "secid": "F00001T734",
+    "aum": "4608837043",
+    "judgment": "是",
+    "source": "https://www.sec.gov/Archives/edgar/data/1761055/000119312525277298/d85910d497k.htm",
+    "confidence": "中",
+    "explanation": "多策略另类ETF，组合股票、信用、宏观策略，可能通过子策略间接使用期权，但期权非核心；iShares招募说明书列明可投资options、options on futures/swaps等衍生品，且衍生品可能较大；但产品不是以期权策略为核心卖点。"
+  },
+  {
+    "name": "iShares COLCAP",
+    "ticker": "ICOLCAP",
+    "secid": "F00000NBEX",
+    "aum": "2743494890.490759",
+    "judgment": "否",
+    "source": "https://www.blackrock.com/co/individual/productos/251519/ishares-colcap-fondo-bursatil-fund",
+    "confidence": "高",
+    "explanation": "跟踪哥伦比亚COLCAP指数的纯股票ETF，不使用期权；iShares COLCAP 追踪 COLCAP 股票指数，公开资料未见期权卖出、期权保护或FLEX option结构。"
+  },
+  {
+    "name": "NYLI Hedge Multi-Strategy Tracker ETF",
+    "ticker": "QAI",
+    "secid": "FOUSA08POD",
+    "aum": "1019729021",
+    "judgment": "否",
+    "source": "https://www.nylim.com/etf/nyli-hedge-multi-strategy-tracker-etf-qai",
+    "confidence": "低",
+    "explanation": "通过持有其他ETF（浮动利率债券、发达国家股票、短期国债等）模拟对冲基金收益，不直接使用期权；NYLI官方页说明跟踪hedge multi-strategy index、复制对冲基金风险收益特征；公开摘要未确认期权持仓或期权主导。"
+  },
+  {
+    "name": "Calamos Tax-Aware Collateral ETF",
+    "ticker": "CBOX",
+    "secid": "F00001TJM2",
+    "aum": "994715452",
+    "judgment": "是",
+    "source": "https://www.calamos.com/funds/etf/cbox/calamos-sp-500-structured-alt-protection-etf-february/",
+    "confidence": "高",
+    "explanation": "核心策略为投资FLEX期权箱式价差(box spreads)，主要基于SPY期权，期权是核心持仓；基金文件/官网明确为 box spread 或 FLEX option 结构，属于以期权组合构建的短久期/保护型策略。"
+  },
+  {
+    "name": "Franklin Systematic Style Premia ETF",
+    "ticker": "FLSP",
+    "secid": "F000013Z48",
+    "aum": "937412170",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "低",
+    "explanation": "多资产多空策略，基于质量、价值、动量、利差四因子，主要通过掉期和期货实现，非期权核心；根据产品名称、管理人、类别和公开检索入口，未见 covered call、put/call writing、FLEX options、buffer、box spread 等期权策略证据。"
+  },
+  {
+    "name": "TREND LBMA OURO FIIM",
+    "ticker": "GOLD11",
+    "secid": "F0000168H1",
+    "aum": "526746134.6574452",
+    "judgment": "否",
+    "source": "https://www.wisdomtree.com/investments/etfs/alternatives/gdt ; https://ci.com/en/investment-solutions/funds/ci-auspice-broad-commodity-fund ; https://www.auspicecapital.com/indices/broad-commodity-index",
+    "confidence": "中",
+    "explanation": "巴西黄金ETF，跟踪LBMA黄金价格，纯商品敞口，不使用期权；公开资料显示暴露主要来自商品、利率、黄金/白银或期货指数；未见期权策略说明。"
+  },
+  {
+    "name": "iPath® B S&P 500® VIX S/T Futs™ ETN",
+    "ticker": "VXX",
+    "secid": "F0000100UM",
+    "aum": "493448215",
+    "judgment": "否",
+    "source": "https://ipathetn.barclays/vxx ; https://www.proshares.com/our-etfs/strategic/vixm ; https://www.spglobal.com/spdji/en/indices/strategy/sp-500-vix-short-term-futures-index/",
+    "confidence": "高",
+    "explanation": "ETN产品，提供VIX短期期货敞口，持有VIX期货合约，不使用期权；产品暴露为 S&P 500 VIX Short-Term/Mid-Term Futures 等 VIX 期货指数；VIX指数由期权隐含波动率计算，但该产品本身不是持有期权或卖期权的期权策略产品。"
+  },
+  {
+    "name": "Brompton Split Corp. PreferredShareETF",
+    "ticker": "SPLT",
+    "secid": "F00001GDZH",
+    "aum": "477255584.8151991",
+    "judgment": "否",
+    "source": "https://www.bromptongroup.com/product/brompton-split-corp-preferred-share-etf/ ; https://www.bromptongroup.com/product/brompton-split-corp-enhanced-equity-income-etf/",
+    "confidence": "中",
+    "explanation": "投资加拿大分割公司优先股组合，以稳定月度分红和资本保全为目标，不使用期权；Brompton官方页面显示核心是投资split share preferred/class A shares；未见ETF层面直接卖期权作为核心策略。底层split corp可能另有covered call，不等于该ETF为期权策略产品。"
+  },
+  {
+    "name": "Saba Closed-End Funds ETF",
+    "ticker": "CEFS",
+    "secid": "F00000YC30",
+    "aum": "428101599",
+    "judgment": "否",
+    "source": "https://www.sabaetf.com/cefs ; https://www.calamos.com/funds/etf/ccef/calamos-cef-income-arbitrage-etf/",
+    "confidence": "中",
+    "explanation": "主动投资于折价交易的封闭式基金（CEF），通过CEF折价收窄获利，不使用期权；CEFS 主要投资闭端基金组合，本身不是期权策略ETF；底层基金可能各有策略，但公开目标不显示期权主导。"
+  },
+  {
+    "name": "WisdomTree Bloomberg US Dllr Bullish ETF",
+    "ticker": "USDU",
+    "secid": "F00000QEPV",
+    "aum": "421578844",
+    "judgment": "否",
+    "source": "https://www.invesco.com/us/financial-products/etfs/product-detail?productId=ETF-UUP ; https://www.invesco.com/us/financial-products/etfs/product-detail?productId=ETF-UDN ; https://www.wisdomtree.com/investments/etfs/currency/usdu",
+    "confidence": "中",
+    "explanation": "做多美元对一篮子货币，使用货币远期/期货合约，不使用期权；公开资料显示主要为美元/货币指数或货币期货暴露，未见期权作为核心策略。"
+  },
+  {
+    "name": "HASHDEX NASDAQ CRYPTO INDEX FIIM",
+    "ticker": "HASH11",
+    "secid": "F000016XA5",
+    "aum": "408775873.9729266",
+    "judgment": "否",
+    "source": "https://www.hashdex.com/en-US/products/hash11 ; https://www.hashdex.com/en-US/products ; https://www.qrasset.com.br/",
+    "confidence": "中",
+    "explanation": "巴西加密资产指数ETF，直接持有加密资产组合（比特币、以太坊等），不使用期权；公开信息显示主要跟踪数字资产、加密指数或相关策略，未见使用期权构建收益/缓冲/对冲结构。"
+  },
+  {
+    "name": "Amundi EUR Infl Expct 2-10Y ETF Acc",
+    "ticker": "INFL",
+    "secid": "F00000X8XK",
+    "aum": "400044102.7962531",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "低",
+    "explanation": "跟踪欧元区盈亏平衡通胀率指数，通过通胀挂钩债券和掉期实现，不使用期权；根据产品名称、管理人、类别和公开检索入口，未见 covered call、put/call writing、FLEX options、buffer、box spread 等期权策略证据。"
+  },
+  {
+    "name": "Invesco DB US Dollar Bullish",
+    "ticker": "UUP",
+    "secid": "FOUSA06B4X",
+    "aum": "396679502",
+    "judgment": "否",
+    "source": "https://www.invesco.com/us/financial-products/etfs/product-detail?productId=ETF-UUP ; https://www.invesco.com/us/financial-products/etfs/product-detail?productId=ETF-UDN ; https://www.wisdomtree.com/investments/etfs/currency/usdu",
+    "confidence": "中",
+    "explanation": "跟踪美元指数期货，持有美元期货合约，不使用期权；公开资料显示主要为美元/货币指数或货币期货暴露，未见期权作为核心策略。"
+  },
+  {
+    "name": "Harvest Diversified Monthly Income ETF A",
+    "ticker": "HDIF",
+    "secid": "F00001DH3I",
+    "aum": "390557468.9613224",
+    "judgment": "是",
+    "source": "https://harvestportfolios.com/etf/hdif/ ; https://harvestportfolios.com/etf/hpye/ ; https://harvestportfolios.com/etf/hpyb/ ; https://harvestportfolios.com/etf/hbie/",
+    "confidence": "高",
+    "explanation": "核心策略包含covered call期权写作，结合现有持仓产生增强收益，期权是收入策略核心；Harvest 相关产品公开材料说明采用 covered call/option writing 或 calls and puts 增强收益。"
+  },
+  {
+    "name": "Roundhill Ultra Shrt Dur No Div TrgtETF",
+    "ticker": "XBOX",
+    "secid": "F00001SY65",
+    "aum": "303592485",
+    "judgment": "是",
+    "source": "https://www.roundhillinvestments.com/etf/xbox/",
+    "confidence": "高",
+    "explanation": "核心策略为期权箱式价差(box spreads)，利用合成多空期权组合实现短期固收类回报；基金文件/官网明确为 box spread 或 FLEX option 结构，属于以期权组合构建的短久期/保护型策略。"
+  },
+  {
+    "name": "Evolve Canadian Utilities Enh Yld IdxETF",
+    "ticker": "UTES",
+    "secid": "F00001N3HB",
+    "aum": "298332884.8974918",
+    "judgment": "是",
+    "source": "https://evolveetfs.com/product/utes/ ; https://evolveetfs.com/product/oily/",
+    "confidence": "高",
+    "explanation": "投资加拿大公用事业股，并采用covered call期权写作计划增强收益；Evolve产品页明确标注active covered call strategy并配合杠杆增强收益。"
+  },
+  {
+    "name": "iShares Flexible Monthly Income ETF CADH",
+    "ticker": "XFLX",
+    "secid": "F00001NLHL",
+    "aum": "293192856.9895166",
+    "judgment": "是",
+    "source": "https://www.ishares.com/us/products/333705/ishares-systematic-alternatives-active-etf ; https://etfdb.com/etf/IALT/ ; https://www.blackrock.com/ca/investors/en/products/333798/ishares-flexible-monthly-income-etf",
+    "confidence": "中",
+    "explanation": "主动投资全球固定收益证券， opportunistic债券策略，不使用期权；资料显示为灵活月度收益/信用收益产品，策略文件允许使用包括 options 在内的衍生品；不是以期权为核心命名的收益增强ETF。"
+  },
+  {
+    "name": "AGF U.S. Market Neutral Anti-Beta",
+    "ticker": "BTAL",
+    "secid": "F00000MM7Z",
+    "aum": "276343547",
+    "judgment": "否",
+    "source": "https://agfiq.com/etf/btal ; https://www.bmo.com/main/personal/investments/mutual-funds/etf/bmo-long-short-us-equity-etf-zlsu/ ; https://www.firsttrust.ca/Retail/Etf/EtfSummary.aspx?Ticker=FTLS ; https://www.arrow-capital.com/funds/adiv/ ; https://www.desjardins.com/ca/personal/savings-investment/investment-products/exchange-traded-funds/market-neutral-etf/index.jsp",
+    "confidence": "中",
+    "explanation": "做空高beta美股、做多低beta美股的市场中性策略，纯股票多空，不使用期权；公开资料显示核心为多空股票、市场中性或低/高Beta配对，不是以期权构建的策略产品。"
+  },
+  {
+    "name": "Hamilton Enhanced Canadian Eq DayMAX ETF",
+    "ticker": "CDAY",
+    "secid": "F00001RWFO",
+    "aum": "269073850.2271995",
+    "judgment": "是",
+    "source": "https://hamiltonetfs.com/daymax/ ; https://hamiltonetfs.com/etf/cday/ ; https://hamiltonetfs.com/etf/qday/ ; https://etfgi.com/news/stories/2025/07/hamilton-etfs-launches-daymaxtm-etfs-canadas-first-0dte-etfs",
+    "confidence": "高",
+    "explanation": "加拿大首个0DTE（零日到期）期权策略ETF，每日卖出看涨期权并配合25%杠杆增强收入；Hamilton DayMAX官方材料明确写明通过卖出同日到期(0DTE) call options获取收入。"
+  },
+  {
+    "name": "CI Auspice Broad Commodity Fund Hdg Acc",
+    "ticker": "CCOM",
+    "secid": "F00001EHN0",
+    "aum": "259361514.1865541",
+    "judgment": "否",
+    "source": "https://www.wisdomtree.com/investments/etfs/alternatives/gdt ; https://ci.com/en/investment-solutions/funds/ci-auspice-broad-commodity-fund ; https://www.auspicecapital.com/indices/broad-commodity-index",
+    "confidence": "中",
+    "explanation": "跟踪Auspice大宗商品指数，通过商品期货合约实现多元化商品敞口，不使用期权；公开资料显示暴露主要来自商品、利率、黄金/白银或期货指数；未见期权策略说明。"
+  },
+  {
+    "name": "NYLI Merger Arbitrage ETF",
+    "ticker": "MNA",
+    "secid": "F000002PIJ",
+    "aum": "251148434",
+    "judgment": "否",
+    "source": "https://www.newyorklifeinvestments.com/etf/mna ; https://www.altshares.com/funds/arb/ ; https://www.proshares.com/our-etfs/strategic/mrgr ; https://www.ftportfolios.com/retail/etf/etfsummary.aspx?Ticker=MARB",
+    "confidence": "高",
+    "explanation": "并购套利策略，做多收购目标、做空全球股指，通过股票多空实现，不使用期权；公开资料显示核心为并购套利、事件驱动、SPAC/新发行证券等，未见期权为核心构建工具。"
+  },
+  {
+    "name": "NBI Liquid Alternatives ETF",
+    "ticker": "NALT",
+    "secid": "F000011UT0",
+    "aum": "250075977.6736198",
+    "judgment": "是",
+    "source": "https://www.nbinvestments.ca/products/nbi-funds/liquid-alternatives-etf-nalt.html ; https://www.nbinvestments.ca/content/dam/bni/en/fund/regulatory/fund-facts/NALT-fund-facts.pdf",
+    "confidence": "低",
+    "explanation": "多策略另类ETF，投资于金融衍生品多空仓位（可能包括期货、掉期、期权），期权可能为辅助工具但非核心；NBI资料说明可使用衍生品和杠杆，但未在可见摘要中明确期权策略或期权持仓。"
+  },
+  {
+    "name": "AGF US Market Neutral Anti-Bt CAD-HETF",
+    "ticker": "QBTL",
+    "secid": "F000014963",
+    "aum": "248099740.2411535",
+    "judgment": "否",
+    "source": "https://agfiq.com/etf/btal ; https://www.bmo.com/main/personal/investments/mutual-funds/etf/bmo-long-short-us-equity-etf-zlsu/ ; https://www.firsttrust.ca/Retail/Etf/EtfSummary.aspx?Ticker=FTLS ; https://www.arrow-capital.com/funds/adiv/ ; https://www.desjardins.com/ca/personal/savings-investment/investment-products/exchange-traded-funds/market-neutral-etf/index.jsp",
+    "confidence": "中",
+    "explanation": "BTAL的加元对冲版本，做空高beta/做多低beta美股，纯股票多空策略，不使用期权；公开资料显示核心为多空股票、市场中性或低/高Beta配对，不是以期权构建的策略产品。"
+  },
+  {
+    "name": "Hamilton Enhanced Technology DayMAX ETF",
+    "ticker": "QDAY",
+    "secid": "F00001RWFQ",
+    "aum": "228029877.2764678",
+    "judgment": "是",
+    "source": "https://hamiltonetfs.com/daymax/ ; https://hamiltonetfs.com/etf/cday/ ; https://hamiltonetfs.com/etf/qday/ ; https://etfgi.com/news/stories/2025/07/hamilton-etfs-launches-daymaxtm-etfs-canadas-first-0dte-etfs",
+    "confidence": "高",
+    "explanation": "DayMAX系列，使用0DTE期权策略（每日卖出看涨期权）并配合25%杠杆，期权是核心收入来源；Hamilton DayMAX官方材料明确写明通过卖出同日到期(0DTE) call options获取收入。"
+  },
+  {
+    "name": "HASHDEX NASDAQ BITCOIN REF PRICE FIIM",
+    "ticker": "BITH11",
+    "secid": "F00001CLU1",
+    "aum": "227025435.9520009",
+    "judgment": "否",
+    "source": "https://www.hashdex.com/en-US/products/hash11 ; https://www.hashdex.com/en-US/products ; https://www.qrasset.com.br/",
+    "confidence": "中",
+    "explanation": "巴西比特币参考价格ETF，直接持有比特币，不使用期权；公开信息显示主要跟踪数字资产、加密指数或相关策略，未见使用期权构建收益/缓冲/对冲结构。"
+  },
+  {
+    "name": "SEI DBi Multi-Strategy Alternative ETF",
+    "ticker": "QALT",
+    "secid": "F00001FAAJ",
+    "aum": "193358744",
+    "judgment": "是",
+    "source": "https://www.seic.com/financial-advisors/flexible-investment-solutions/etfs/sei-dbi-multi-strategy-alternative-etf-qalt ; https://seidocs.filepoint.live/assets/pdfs/SAIs/SEI_ETF_DBiMultiStrategyAlternative_SAI.pdf",
+    "confidence": "高",
+    "explanation": "官方说明明确投资交易所衍生品包括期货、期权和掉期，期权为策略组成部分；SEI官方材料写明主要投资交易所衍生品，包括futures、options和swaps；但产品定位是多策略另类而非期权收入/结构化结果ETF。"
+  }
+]

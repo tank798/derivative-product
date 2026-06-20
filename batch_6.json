@@ -1,0 +1,262 @@
+[
+  {
+    "name": "Ninepoint Alphabet HighShares ETF",
+    "ticker": "GOHI",
+    "secid": "F000026E1S",
+    "aum": "1540409.316970196",
+    "judgment": "是",
+    "source": "https://www.ninepoint.com/funds/ninepoint-highshares-etfs/ ; https://www.ninepoint.com/funds/ninepoint-enhanced-canadian-highshares-etf/",
+    "confidence": "高",
+    "explanation": "Ninepoint HighShares系列产品，对Alphabet股票使用covered call策略以增强收入；Ninepoint HighShares 系列公开材料说明使用 covered call，并主动管理每一笔期权以增强收益。"
+  },
+  {
+    "name": "Ninepoint Palantir HighShares ETF",
+    "ticker": "PLHI",
+    "secid": "F000026E1Z",
+    "aum": "1455068.875451715",
+    "judgment": "是",
+    "source": "https://www.ninepoint.com/funds/ninepoint-enhanced-canadian-highshares-etf/ ; https://1.ninepoint.com/ninepoint-highshares-etfs.html ; https://www.ninepoint.com/performance-sheet-download/en/ninepoint-nvidia-highshares-etf-performance-s-etf",
+    "confidence": "高",
+    "explanation": "Ninepoint HighShares系列产品，对Palantir股票使用covered call策略以增强收入；Ninepoint HighShares官方材料明确说明使用covered calls；NVHI资料还写明持有单一股票并使用covered call策略。"
+  },
+  {
+    "name": "QR BLOOMBERG DEFI FIIM",
+    "ticker": "QDFI11",
+    "secid": "F00001DKPJ",
+    "aum": "1445229.453606826",
+    "judgment": "否",
+    "source": "https://www.hashdex.com/en-US/products/hash11 ; https://www.hashdex.com/en-US/products ; https://www.qrasset.com.br/",
+    "confidence": "中",
+    "explanation": "跟踪Bloomberg Galaxy DeFi指数，纯加密货币/DeFi指数基金，不使用期权；公开信息显示主要跟踪数字资产、加密指数或相关策略，未见使用期权构建收益/缓冲/对冲结构。"
+  },
+  {
+    "name": "Ranallo Strategy Sr 589 due 2046 USD Acc",
+    "ticker": "XS3385446771",
+    "secid": "F00002JMRN",
+    "aum": "1308415",
+    "judgment": "是",
+    "source": "公开资料不足；建议查发行说明书、最新持仓或交易所/监管披露。",
+    "confidence": "低",
+    "explanation": "官方明确说明'active use of options, both to enhance returns and to manage risk'，期权为策略关键组成部分；该类ETP/票据名称不足以确认期权结构，需查发行条款、term sheet或交易所披露。"
+  },
+  {
+    "name": "Ninepoint NVIDIA HighShares ETF",
+    "ticker": "NVHI",
+    "secid": "F000026E1Y",
+    "aum": "1071996.135818813",
+    "judgment": "是",
+    "source": "https://www.ninepoint.com/funds/ninepoint-enhanced-canadian-highshares-etf/ ; https://1.ninepoint.com/ninepoint-highshares-etfs.html ; https://www.ninepoint.com/performance-sheet-download/en/ninepoint-nvidia-highshares-etf-performance-s-etf",
+    "confidence": "高",
+    "explanation": "Ninepoint HighShares系列产品，对NVIDIA股票使用covered call策略以增强收入；Ninepoint HighShares官方材料明确说明使用covered calls；NVHI资料还写明持有单一股票并使用covered call策略。"
+  },
+  {
+    "name": "Arimathea Catholic Bond Index ETF",
+    "ticker": "SHRD",
+    "secid": "F00001TAYS",
+    "aum": "1001449",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "中",
+    "explanation": "跟踪Bloomberg美国综合债券指数（天主教道德筛选），纯债券策略，不使用期权；产品名称和公开资料显示为主题指数、资产配置或普通ETF，未见期权策略说明。"
+  },
+  {
+    "name": "Milliman Healthcare Inflation Guard ETF",
+    "ticker": "MHIG",
+    "secid": "F00001T1EZ",
+    "aum": "995865",
+    "judgment": "是",
+    "source": "https://millimanfunds.com/ ; https://media.milliman.com/v1/media/edge/images/millimaninc5660-milliman6442-prod27d5-0001/media/Milliman/PDFs/Press-releases/2025/11-17-25_Milliman-ETFs-Filing-Announcement_Press-Release.pdf",
+    "confidence": "中",
+    "explanation": "SEC文件说明使用swap、期权和期货等衍生品追踪医疗通胀，期权为多工具之一但非唯一核心；Milliman材料显示基金通过医疗相关股票、债券、商品和流动另类策略追踪医疗成本通胀，未见期权主导结构。"
+  },
+  {
+    "name": "DDA Bitcoin Macro ETP",
+    "ticker": "BMAC FP",
+    "secid": "F00001LXGY",
+    "aum": "946050.5391695976",
+    "judgment": "否",
+    "source": "https://www.hashdex.com/en-US/products/hash11 ; https://www.hashdex.com/en-US/products ; https://www.qrasset.com.br/",
+    "confidence": "中",
+    "explanation": "基于宏观经济因子动态调整比特币/USDC敞口，纯加密货币策略，不使用期权；公开信息显示主要跟踪数字资产、加密指数或相关策略，未见使用期权构建收益/缓冲/对冲结构。"
+  },
+  {
+    "name": "WisdomTree GeoAlpha Opportunities Fund",
+    "ticker": "GEOA",
+    "secid": "F00001RPFN",
+    "aum": "917039",
+    "judgment": "否",
+    "source": "https://www.wisdomtree.com/products/equity/geoa ; https://www.sec.gov/Archives/edgar/data/1350487/000121465925004912/wtt321250485apos.htm",
+    "confidence": "低",
+    "explanation": "跟踪WisdomTree GeoAlpha指数，投资全球多市值公司，主题股票ETF，非期权策略（推断）；WisdomTree/SEC资料显示基金可能使用futures、options和options on futures，但产品定位是GeoAlpha主题指数，需查持仓确认实际期权暴露。"
+  },
+  {
+    "name": "HASHDEX CRYPTO METAVERSE FIIM",
+    "ticker": "META11",
+    "secid": "F00001E1NL",
+    "aum": "602735.9066816417",
+    "judgment": "否",
+    "source": "https://www.hashdex.com/en-US/products/hash11 ; https://www.hashdex.com/en-US/products ; https://www.qrasset.com.br/",
+    "confidence": "中",
+    "explanation": "跟踪CF Digital Culture加密元宇宙指数，纯加密货币/数字资产策略，不使用期权；公开信息显示主要跟踪数字资产、加密指数或相关策略，未见使用期权构建收益/缓冲/对冲结构。"
+  },
+  {
+    "name": "USCF Oil Plus Bitcoin Strategy Fund",
+    "ticker": "WTIB",
+    "secid": "F00001SEY9",
+    "aum": "595005",
+    "judgment": "否",
+    "source": "https://www.hashdex.com/en-US/products/hash11 ; https://www.hashdex.com/en-US/products ; https://www.qrasset.com.br/",
+    "confidence": "中",
+    "explanation": "投资原油期货合约和比特币期货合约，核心工具为期货而非期权；公开信息显示主要跟踪数字资产、加密指数或相关策略，未见使用期权构建收益/缓冲/对冲结构。"
+  },
+  {
+    "name": "Bero Estrategia Gbl Sr 584 due2046USDAcc",
+    "ticker": "XS3385446854",
+    "secid": "F00002JMRO",
+    "aum": "239750",
+    "judgment": "是",
+    "source": "公开资料不足；建议查发行说明书、最新持仓或交易所/监管披露。",
+    "confidence": "低",
+    "explanation": "多资产ETP，官方说明提及'战术性使用期权和衍生品对冲风险、增强回报'，但期权非唯一核心工具；该类ETP/票据名称不足以确认期权结构，需查发行条款、term sheet或交易所披露。"
+  },
+  {
+    "name": "DDA Heliad Dynamic Blockchain ETN",
+    "ticker": "HELI",
+    "secid": "F00001PB65",
+    "aum": "12137",
+    "judgment": "否",
+    "source": "https://www.hashdex.com/en-US/products/hash11 ; https://www.hashdex.com/en-US/products ; https://www.qrasset.com.br/",
+    "confidence": "中",
+    "explanation": "基于用户活跃度指标的区块链代币ETP，纯数字资产策略，不使用期权；公开信息显示主要跟踪数字资产、加密指数或相关策略，未见使用期权构建收益/缓冲/对冲结构。"
+  },
+  {
+    "name": "Amundi USD Corp Bd 0-3Y SRI ETF EURH Acc",
+    "ticker": "",
+    "secid": "F00001MZES",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "中",
+    "explanation": "短期美元企业债ETF（EUR对冲），使用远期合约进行货币对冲，纯债券策略（推断）；公开名称显示为债券/国债/公司债或普通UCITS ETF，未见期权策略说明。"
+  },
+  {
+    "name": "CI Mosaic Balanced ETF Port Class DA",
+    "ticker": "",
+    "secid": "F00001SKA0",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "中",
+    "explanation": "CI Mosaic平衡型ETF组合，FOF结构投资被动/主动/Smart Beta ETF，不以期权为核心（推断）；CI Mosaic 系列为ETF组合/资产配置类产品，未见以期权构建收益、保护或杠杆结构。"
+  },
+  {
+    "name": "CI Mosaic Balanced Growth ETF Port SerDA",
+    "ticker": "",
+    "secid": "F00001SK9T",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "中",
+    "explanation": "CI Mosaic平衡增长型ETF组合，FOF结构偏向成长型配置，不以期权为核心（推断）；CI Mosaic 系列为ETF组合/资产配置类产品，未见以期权构建收益、保护或杠杆结构。"
+  },
+  {
+    "name": "CI Mosaic Balanced Income ETF Port SerDA",
+    "ticker": "",
+    "secid": "F00001SK9V",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "中",
+    "explanation": "CI Mosaic平衡收入型ETF组合，FOF结构偏向收入配置，不以期权为核心（推断）；CI Mosaic 系列为ETF组合/资产配置类产品，未见以期权构建收益、保护或杠杆结构。"
+  },
+  {
+    "name": "CI Mosaic ESG Balanced ETF Port Ser DA",
+    "ticker": "",
+    "secid": "F00001SKA3",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "中",
+    "explanation": "CI Mosaic ESG平衡型ETF组合，FOF结构结合ESG筛选，不以期权为核心（推断）；CI Mosaic 系列为ETF组合/资产配置类产品，未见以期权构建收益、保护或杠杆结构。"
+  },
+  {
+    "name": "CI Mosaic ESG Balanced Gr ETF Port SerDA",
+    "ticker": "",
+    "secid": "F00001SKA1",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "中",
+    "explanation": "推断。CI Mosaic ESG Balanced Growth ETF Portfolio是加拿大基金中基金(FOF)，通过投资于多元化ETF组合实现ESG平衡增长目标，不使用期权策略。；CI Mosaic 系列为ETF组合/资产配置类产品，未见以期权构建收益、保护或杠杆结构。"
+  },
+  {
+    "name": "CI Mosaic ESG Balanced Inc ETF PortSerDA",
+    "ticker": "",
+    "secid": "F00001SKA4",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "中",
+    "explanation": "推断。CI Mosaic ESG Balanced Income ETF Portfolio是加拿大基金中基金(FOF)，通过投资于多元化ETF组合实现ESG平衡收益目标，不使用期权策略。；CI Mosaic 系列为ETF组合/资产配置类产品，未见以期权构建收益、保护或杠杆结构。"
+  },
+  {
+    "name": "CI Mosaic Growth ETF Portfolio Class DA",
+    "ticker": "",
+    "secid": "F00001SK9Y",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "中",
+    "explanation": "推断。CI Mosaic Growth ETF Portfolio是加拿大成长型基金中基金，投资于底层ETF组合，无期权策略。；CI Mosaic 系列为ETF组合/资产配置类产品，未见以期权构建收益、保护或杠杆结构。"
+  },
+  {
+    "name": "CI Mosaic Growth ETF Portfolio Ser DA",
+    "ticker": "",
+    "secid": "F00001SK9U",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "中",
+    "explanation": "推断。与row 152同系列产品不同份额类别，成长型FOF，投资于底层ETF组合，无期权策略。；CI Mosaic 系列为ETF组合/资产配置类产品，未见以期权构建收益、保护或杠杆结构。"
+  },
+  {
+    "name": "CI Mosaic Income ETF Portfolio Class DA",
+    "ticker": "",
+    "secid": "F00001SKA2",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "中",
+    "explanation": "推断。CI Mosaic Income ETF Portfolio是加拿大收益型FOF，投资于底层ETF组合获取收入，无期权策略。；CI Mosaic 系列为ETF组合/资产配置类产品，未见以期权构建收益、保护或杠杆结构。"
+  },
+  {
+    "name": "CoinShares Toncoin Staking ETP",
+    "ticker": "CTON",
+    "secid": "F00001T2ZR",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.hashdex.com/en-US/products/hash11 ; https://www.hashdex.com/en-US/products ; https://www.qrasset.com.br/",
+    "confidence": "中",
+    "explanation": "已核实。CoinShares Physical Staked Toncoin ETP(CTON)是实物支持的加密ETP，直接持有Toncoin代币并赚取质押收益(staking yield)，不涉及期权合约。；公开信息显示主要跟踪数字资产、加密指数或相关策略，未见使用期权构建收益/缓冲/对冲结构。"
+  },
+  {
+    "name": "Fidelity Jpn Eq Rsrch Enh PAB ETF ¥ Acc",
+    "ticker": "",
+    "secid": "F00001SF24",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "低",
+    "explanation": "已核实。Fidelity Japan Equity Research Enhanced UCITS ETF是主动管理的日本股票ETF，通过基本面研究选股，直接持有日本公司股票，不使用期权策略。；根据产品名称、管理人、类别和公开检索入口，未见 covered call、put/call writing、FLEX options、buffer、box spread 等期权策略证据。"
+  },
+  {
+    "name": "Fidelity Pac ex Jpn Eq RshEnhPABETF$Acc",
+    "ticker": "",
+    "secid": "F00001SF26",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "低",
+    "explanation": "推断。Fidelity Pacific ex Japan Equity Research Enhanced PAB ETF是主动管理的亚太(除日本)股票ETF，通过基本面研究选股，直接持有股票，不使用期权策略。；根据产品名称、管理人、类别和公开检索入口，未见 covered call、put/call writing、FLEX options、buffer、box spread 等期权策略证据。"
+  }
+]

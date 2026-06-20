@@ -1,0 +1,262 @@
+[
+  {
+    "name": "Mega TPExFactSet SmcndClNetZeroEltTR ETN",
+    "ticker": "020041",
+    "secid": "F00001SHOF",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.twse.com.tw/en/ETN/list ; https://www.twse.com.tw/en/products/securities/ETN/ETN_QA",
+    "confidence": "中",
+    "explanation": "推断。台湾ETN产品，追踪FactSet半导体净零碳排放指数，ETN为无担保债务凭证追踪指数回报，通常通过互换或股票复制，不使用期权。；台湾 ETN/期货指数产品通常跟踪指数或期货指数；公开交易所资料显示为 ETN/Index/Futures Index，不属于期权策略产品。"
+  },
+  {
+    "name": "Mercer Park Brand Acquisition Corp. A RV",
+    "ticker": "BRND.U",
+    "secid": "F000013M0A",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "低",
+    "explanation": "已核实。该公司为加拿大SPAC（后更名为Glass House Brands），专注于大麻行业收购，SPAC不使用期权策略。；根据产品名称、管理人、类别和公开检索入口，未见 covered call、put/call writing、FLEX options、buffer、box spread 等期权策略证据。"
+  },
+  {
+    "name": "President HSTECH Futures Index ETN",
+    "ticker": "020033",
+    "secid": "F00001SHOJ",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.wisdomtree.com/investments/etfs/alternatives/gdt ; https://ci.com/en/investment-solutions/funds/ci-auspice-broad-commodity-fund ; https://www.auspicecapital.com/indices/broad-commodity-index",
+    "confidence": "中",
+    "explanation": "推断。台湾ETN产品，名称明确为期货指数ETN，使用期货合约追踪HSTECH指数，不使用期权。；台湾 ETN/期货指数产品通常跟踪指数或期货指数；公开交易所资料显示为 ETN/Index/Futures Index，不属于期权策略产品。"
+  },
+  {
+    "name": "President Low Volatility HD 20 TR ETN",
+    "ticker": "020011",
+    "secid": "F00001SHOG",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.twse.com.tw/en/ETN/list ; https://www.twse.com.tw/en/products/securities/ETN/ETN_QA",
+    "confidence": "中",
+    "explanation": "推断。台湾ETN产品，追踪低波动率高分红指数，ETN通过股票或互换复制指数回报，不使用期权。；台湾 ETN/期货指数产品通常跟踪指数或期货指数；公开交易所资料显示为 ETN/Index/Futures Index，不属于期权策略产品。"
+  },
+  {
+    "name": "President NYSE FactSet Asia Semi NTR ETN",
+    "ticker": "020025",
+    "secid": "F00001SHOK",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.twse.com.tw/en/ETN/list ; https://www.twse.com.tw/en/products/securities/ETN/ETN_QA",
+    "confidence": "中",
+    "explanation": "推断。台湾ETN产品，追踪亚洲半导体指数，ETN标准指数追踪结构，不使用期权。；台湾 ETN/期货指数产品通常跟踪指数或期货指数；公开交易所资料显示为 ETN/Index/Futures Index，不属于期权策略产品。"
+  },
+  {
+    "name": "President TIP Cust TW IC Design TR ETN",
+    "ticker": "020031",
+    "secid": "F00001SHOI",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.twse.com.tw/en/ETN/list ; https://www.twse.com.tw/en/products/securities/ETN/ETN_QA",
+    "confidence": "中",
+    "explanation": "推断。台湾ETN产品，追踪台湾IC设计指数，ETN标准指数追踪结构，不使用期权。；台湾 ETN/期货指数产品通常跟踪指数或期货指数；公开交易所资料显示为 ETN/Index/Futures Index，不属于期权策略产品。"
+  },
+  {
+    "name": "President TIP FactSet TWSmartMobEVTR ETN",
+    "ticker": "020030",
+    "secid": "F00001SHOH",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.twse.com.tw/en/ETN/list ; https://www.twse.com.tw/en/products/securities/ETN/ETN_QA",
+    "confidence": "中",
+    "explanation": "推断。台湾ETN产品，追踪台湾智能出行电动车指数，ETN标准指数追踪结构，不使用期权。；台湾 ETN/期货指数产品通常跟踪指数或期货指数；公开交易所资料显示为 ETN/Index/Futures Index，不属于期权策略产品。"
+  },
+  {
+    "name": "President US Treasury 7-10 Years Idx ETN",
+    "ticker": "02001B",
+    "secid": "F00001SHOL",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.twse.com.tw/en/ETN/list ; https://www.twse.com.tw/en/products/securities/ETN/ETN_QA",
+    "confidence": "中",
+    "explanation": "推断。台湾ETN产品，追踪美国7-10年期国债指数，通过债券或期货复制指数回报，不使用期权。；台湾 ETN/期货指数产品通常跟踪指数或期货指数；公开交易所资料显示为 ETN/Index/Futures Index，不属于期权策略产品。"
+  },
+  {
+    "name": "Psagot Sal FTSE 250 MidCap (4Da')",
+    "ticker": "PSFT1.81",
+    "secid": "F00000YSBA",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。由KSM管理的以色列Tracker基金(4Da'类别)，追踪FTSE 250中盘指数，标准股票被动复制策略，不使用期权。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "Psagot Sal FTSE 250 MidCap ILS 40a",
+    "ticker": "PSFT1.91",
+    "secid": "F00000YSBB",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。由KSM管理的以色列Tracker基金(40a类别)，追踪FTSE 250中盘指数（谢克尔对冲），标准股票被动复制策略，不使用期权。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "Psagot SAL FTSE China 50",
+    "ticker": "PSCHN.56",
+    "secid": "F00000YSBC",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。由KSM管理的以色列Tracker基金，追踪FTSE China 50指数，标准股票被动复制策略，不使用期权。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "Psagot Sal Real Estate Europe",
+    "ticker": "PEPRA.15",
+    "secid": "F00000YSBD",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。由KSM管理的以色列Tracker基金，追踪欧洲房地产指数，标准股票/REIT被动复制策略，不使用期权。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "Psagot Sal Russell 2000",
+    "ticker": "PRUSS.52",
+    "secid": "F00000YSBE",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。由KSM管理的以色列Tracker基金，追踪Russell 2000小盘指数，标准股票被动复制策略，不使用期权。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "Psagot Sal Russell 2000 ILS",
+    "ticker": "PSRTY.66",
+    "secid": "F00000YSBF",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。由KSM管理的以色列Tracker基金，追踪Russell 2000指数（谢克尔对冲），标准股票被动复制策略，不使用期权。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "Samsung KOSDAQ 150 TR ETN",
+    "ticker": "",
+    "secid": "F00001QAF2",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://ipathetn.barclays/vxx ; https://www.proshares.com/our-etfs/strategic/vixm ; https://www.spglobal.com/spdji/en/indices/strategy/sp-500-vix-short-term-futures-index/",
+    "confidence": "高",
+    "explanation": "推断。韩国ETN产品，追踪KOSDAQ 150指数，通过股票复制指数回报，不使用期权。；产品暴露为 S&P 500 VIX Short-Term Futures 等 VIX 期货指数；VIX指数本身源自期权隐含波动率，但产品不是持有期权的期权策略产品。"
+  },
+  {
+    "name": "SSIAM VNX50 ETF",
+    "ticker": "FUESSV50",
+    "secid": "F000014SY3",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "低",
+    "explanation": "已核实。越南SSIAM管理的被动ETF，追踪VNX50指数。官方月报明确声明'基金采用被动投资策略，不主动寻求高于追踪指数的回报，也不使用防御性策略'，不使用期权。；根据产品名称、管理人、类别和公开检索入口，未见 covered call、put/call writing、FLEX options、buffer、box spread 等期权策略证据。"
+  },
+  {
+    "name": "T50 J.P. Morgan Resilient EM Bond ETF",
+    "ticker": "",
+    "secid": "F00001T9LB",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "中",
+    "explanation": "推断。J.P. Morgan Asset Management管理的新兴市场债券UCITS ETF，2025年12月在Euronext Dublin上市，标准债券指数追踪策略，不使用期权。；公开名称显示为债券/国债/公司债或普通UCITS ETF，未见期权策略说明。"
+  },
+  {
+    "name": "Tachlit China",
+    "ticker": "TCCHN.38",
+    "secid": "F00000YSBG",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。由KSM管理的以色列Tracker基金，追踪中国股票指数，标准股票被动复制策略，不使用期权。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "Tachlit FTSE 250 Midcap ILS",
+    "ticker": "TCFT1.02",
+    "secid": "F00000YSBH",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。由KSM管理的以色列Tracker基金，追踪FTSE 250中盘指数（谢克尔对冲），标准股票被动复制策略，不使用期权。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "Tachlit Italy FTSE MIB (NTR) ILS (40a')",
+    "ticker": "TCFTS.87",
+    "secid": "F00000YSBI",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。由KSM管理的以色列Tracker基金，追踪意大利FTSE MIB指数，标准股票被动复制策略，不使用期权。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "Tachlit Russell 2000",
+    "ticker": "TCRS.66",
+    "secid": "F00000YSBJ",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。由KSM管理的以色列Tracker基金，追踪Russell 2000小盘指数，标准股票被动复制策略，不使用期权。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "Tema Memory ETF",
+    "ticker": "",
+    "secid": "F0000276HF",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.sec.gov/Archives/edgar/data/1944285/000199937126008171/tema-485apos_041326.htm",
+    "confidence": "高",
+    "explanation": "已核实。Tema Memory ETF（也可能以Roundhill Memory ETF/DRAM上市）为主动管理型股票ETF，投资于半导体存储技术公司（DRAM、NAND、HBM），至少80%资产投资于存储公司股权，不使用期权策略。；SEC招募文件显示其主要投资 memory companies 相关股票/ADR/GDR，不是期权策略产品。"
+  },
+  {
+    "name": "Yuanta ESG HD (Payout) ETN",
+    "ticker": "020038",
+    "secid": "F00001SH8T",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.twse.com.tw/en/ETN/list ; https://www.twse.com.tw/en/products/securities/ETN/ETN_QA",
+    "confidence": "中",
+    "explanation": "推断。台湾元大证券ETN产品，追踪ESG高股息指数（派息版），ETN标准指数追踪结构，不使用期权。；台湾 ETN/期货指数产品通常跟踪指数或期货指数；公开交易所资料显示为 ETN/Index/Futures Index，不属于期权策略产品。"
+  },
+  {
+    "name": "Yuanta ESG HD ETN",
+    "ticker": "020029",
+    "secid": "F00001SH8O",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.twse.com.tw/en/ETN/list ; https://www.twse.com.tw/en/products/securities/ETN/ETN_QA",
+    "confidence": "中",
+    "explanation": "推断。台湾元大证券ETN产品，追踪ESG高股息指数，ETN标准指数追踪结构，不使用期权。；台湾 ETN/期货指数产品通常跟踪指数或期货指数；公开交易所资料显示为 ETN/Index/Futures Index，不属于期权策略产品。"
+  },
+  {
+    "name": "Yuanta EVR Total Return ETN",
+    "ticker": "020028",
+    "secid": "F00001SH8N",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.twse.com.tw/en/ETN/list ; https://www.twse.com.tw/en/products/securities/ETN/ETN_QA",
+    "confidence": "中",
+    "explanation": "推断。台湾元大证券ETN产品，追踪EVR总回报指数，ETN标准指数追踪结构，不使用期权。；台湾 ETN/期货指数产品通常跟踪指数或期货指数；公开交易所资料显示为 ETN/Index/Futures Index，不属于期权策略产品。"
+  },
+  {
+    "name": "Yuanta Financial DH TR (Payout) ETN",
+    "ticker": "020036",
+    "secid": "F00001SH8R",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.twse.com.tw/en/ETN/list ; https://www.twse.com.tw/en/products/securities/ETN/ETN_QA",
+    "confidence": "中",
+    "explanation": "推断。台湾元大证券ETN产品，追踪金融类股息对冲总回报指数（派息版），ETN标准指数追踪结构，不使用期权。；台湾 ETN/期货指数产品通常跟踪指数或期货指数；公开交易所资料显示为 ETN/Index/Futures Index，不属于期权策略产品。"
+  }
+]

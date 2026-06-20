@@ -1,0 +1,262 @@
+[
+  {
+    "name": "Brompton Flhy & Cmn Enh Inv Grd Pfd ETF",
+    "ticker": "BEPR",
+    "original_judgment": "否",
+    "verified_judgment": "是",
+    "agreement": "不一致",
+    "confidence": "高",
+    "reasoning": "Prospectus confirms the fund employs a covered call option writing strategy on up to 33% of the portfolio to generate additional premium income, though primary yield enhancement comes from leverage. The original judgment stated '不使用期权' which is contradicted by the fund's disclosed strategy.",
+    "sources_checked": "bromptongroup.com product page, BEPR ETF Facts PDF, Brompton covered calls overview page, Brompton final prospectus"
+  },
+  {
+    "name": "Fidelity Advantage Ether ETF L",
+    "ticker": "FETH",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Fidelity Ethereum Fund is a spot ether ETF. The prospectus explicitly states: 'No Derivatives: The Trust does not invest in derivatives, does not use leverage, and does not loan or pledge assets.' The fund itself does not use options, though third parties may trade options on FETH shares.",
+    "sources_checked": "Fidelity crypto funds prospectus, capedge.com FETH 424B3 filing, fidelity.com"
+  },
+  {
+    "name": "ProShares VIX Mid-Term Futures",
+    "ticker": "VIXM",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "VIXM holds a portfolio of VIX futures contracts with ~5-month average maturity. The fund tracks the S&P 500 VIX Mid-Term Futures Index and does not use options as part of its investment strategy. VIX index itself is derived from option implied volatilities, but the product holds only futures.",
+    "sources_checked": "ProShares VIXM product page, Vanguard profile, ProShares prospectus, TipRanks"
+  },
+  {
+    "name": "HASHDEX NASDAQ ETHEREUM REF PRICE FIIM",
+    "ticker": "ETHE11",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Brazilian Ethereum ETF tracking the Nasdaq Ether Reference Price Index. The fund holds shares of Hashdex Nasdaq Ethereum ETF and does not use options or derivatives. No evidence of options-based strategies found in any fund documentation.",
+    "sources_checked": "B3 fund document (CVM), StockAnalysis ETHE11 page, Morningstar ETHE11, Nasdaq Ether Reference Price Index"
+  },
+  {
+    "name": "Simplify Multi-QIS Alternative ETF",
+    "ticker": "QIS",
+    "original_judgment": "是",
+    "verified_judgment": "是",
+    "agreement": "一致",
+    "confidence": "中",
+    "reasoning": "Fund invests primarily through total return swaps in 10-20 third-party quantitative investment strategies. Some QIS strategies may incorporate options-based approaches, providing indirect options exposure. The fund itself does not directly trade options but the underlying QIS strategies may include them.",
+    "sources_checked": "Simplify QIS summary prospectus, Simplify QIS fact sheets, Simplify US ETFs page, SEC Edgar filings"
+  },
+  {
+    "name": "INVESTO MKT VECTOR BITCOIN RATE FIIM",
+    "ticker": "HODL11",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "中",
+    "reasoning": "Brazilian Bitcoin ETF tracking the CME CF Bitcoin Reference Rate. The fund directly tracks bitcoin price through a passive index replication strategy. No evidence of options or derivatives use found in available documentation. Limited Portuguese-language source availability.",
+    "sources_checked": "B3 HODL11 operational procedures manual, Investo Bitcoin Benchmark Rate ETF docs"
+  },
+  {
+    "name": "Purpose Credit Opportunities Class ETF",
+    "ticker": "CROC",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "中",
+    "reasoning": "Credit opportunities fund that invests primarily in debt and equity securities of non-investment grade issuers. The prospectus permits the use of derivatives including call options to gain indirect exposure, but the core strategy is credit/loan-like investing. Options are legally permissible but not a principal strategy component.",
+    "sources_checked": "Purpose Investments CROC page, TSX exchange bulletin, TSX listing documents, SEDAR+ prospectus"
+  },
+  {
+    "name": "MAXIS Japan Eq Hi Div 70 Mkt Netrl ETF",
+    "ticker": "1499",
+    "original_judgment": "否",
+    "verified_judgment": "是",
+    "agreement": "不一致",
+    "confidence": "高",
+    "reasoning": "JPX documentation explicitly states: 'The fund conducts stock index futures trading AND stock index options trading (株価指数オプション取引) to track the Nomura Japan Equity High Dividend 70 Market Neutral Index.' The fund uses TOPIX index options as part of its market-neutral hedging strategy. Original judgment of '否' is incorrect.",
+    "sources_checked": "JPX official ETF listing page, JPX product outline PDF (1499outline.pdf), ETF Stream article, investing.com 1499 page"
+  },
+  {
+    "name": "Return Stacked® Global Bal & Mac ETF",
+    "ticker": "RGBM",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "中",
+    "reasoning": "Fund uses futures, forwards, and swaps to achieve 'return stacking' - combining a global balanced allocation with a systematic macro strategy. Derivatives used include equity index futures, government bond futures, currency forwards. No evidence of options as a core instrument, though the alternative mutual fund structure permits broad derivative use.",
+    "sources_checked": "ReturnStacked ETFs Canada product page, LongPoint ETFs RGBM page, SEDAR+ prospectus, TSX exchange bulletin"
+  },
+  {
+    "name": "Quadravest Pref Split Shr ETF CAD Inc",
+    "ticker": "PREF",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "中",
+    "reasoning": "Fund invests in an actively managed portfolio of Canadian split corporation preferred shares. No mention of options use in fund documentation or product features. Some underlying split share corporations may use options, but PREF itself does not directly employ options strategies.",
+    "sources_checked": "Quadravest PREF fund features page, Quadravest prospectus (SEDAR+), TSX exchange bulletin, GlobeNewswire launch announcement"
+  },
+  {
+    "name": "iPath® B S&P 500® VIX Md-Trm Futs™ ETN",
+    "ticker": "VXZ",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Barclays-issued ETN tracking the S&P 500 VIX Mid-Term Futures Index Total Return. Holds a rolling long position in VIX futures (4th-7th month contracts). It is an unsecured debt obligation, not an ETF, and does not pay interest or dividends. No options are used in the product's strategy.",
+    "sources_checked": "SEC EDGAR Barclays VXZ filings, Charles Schwab VXZ page, financialcontent.com, Nasdaq Trader circular"
+  },
+  {
+    "name": "Accelerate Arbitrage ETF",
+    "ticker": "ARB",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "中",
+    "reasoning": "Fund executes merger arbitrage and SPAC arbitrage through long/short equity positions. The prospectus permits derivatives (including options) for non-hedging purposes, but the core strategy is stock-based arbitrage. Options are legally permissible but not a principal investment strategy component.",
+    "sources_checked": "Accelerate Shares ARB fund page, SEDAR prospectus filings, Accelerate press releases, MarketScreener"
+  },
+  {
+    "name": "Desjardins Abs Ret Glbl Eq Mkts ETF CA$H",
+    "ticker": "DAMG",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "中",
+    "reasoning": "Absolute return fund using long/short positions on global equity index futures and currency forwards. The fund is an alternative mutual fund that may use equity index futures and currency forwards. No specific mention of options as a principal instrument. Leverage limited to 300% of NAV across all derivatives.",
+    "sources_checked": "Desjardins DAMG ETF facts PDF, SEDAR+ filings, Desjardins ETF product page, FT market data"
+  },
+  {
+    "name": "Unlimited HFND Multi-Strgy Ret Trckr ETF",
+    "ticker": "HFND",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Fund uses futures contracts, swap agreements, and short selling of underlying ETFs to replicate hedge fund returns. The prospectus explicitly does not mention options contracts as a principal investment instrument. Core derivatives are futures and swaps, with no options usage confirmed.",
+    "sources_checked": "HFND summary prospectus (Unlimited ETFs), SEC EDGAR filings, Schwab HFND research page, U.S. News fund profile"
+  },
+  {
+    "name": "Calamos CEF Income & Arbitrage ETF",
+    "ticker": "CCEF",
+    "original_judgment": "是",
+    "verified_judgment": "是",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Fund writes covered call and put options to generate premium income and purchases put options for hedging. The prospectus details a multi-pronged options approach including writing options on equity securities, broad-based indexes, and ETFs, plus buying put options for downside protection.",
+    "sources_checked": "Calamos CCEF fact sheet, SEC EDGAR filings (summary prospectus), Calamos CCEF SAI, Calamos.com"
+  },
+  {
+    "name": "Harvest Premium Yield Cndn Bk ETF Cl A",
+    "ticker": "HPYB",
+    "original_judgment": "是",
+    "verified_judgment": "是",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Fund employs a dual option writing strategy: covered call options written on equity securities held in the portfolio and covered put options to generate additional income. Combined with moderate leverage for enhanced yield. This is Harvest's 'Premium Yield' strategy.",
+    "sources_checked": "Harvest HPYB product page, Harvest preliminary prospectus filing, TSX exchange bulletin, Harvest Q&A document"
+  },
+  {
+    "name": "Accelerate Absolute Return Fd",
+    "ticker": "HDGE",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Quantitative long-short equity fund using a multi-factor model ranking ~3,500-4,000 North American stocks. Goes long top-ranked stocks and short bottom-ranked stocks. The fund does not utilize an options-based strategy - it is purely a long-short equity fund achieving returns through stock selection.",
+    "sources_checked": "Accelerate Shares HDGE fund page, 2025 HDGE ETF Facts, 2025 full prospectus, Accelerate press releases"
+  },
+  {
+    "name": "Mulvihill Enhanced Split Pref Share ETF",
+    "ticker": "SPFD",
+    "original_judgment": "否",
+    "verified_judgment": "是",
+    "agreement": "不一致",
+    "confidence": "高",
+    "reasoning": "Year-end results and fund documentation confirm: 'The Fund employs options strategies to enhance returns: Writing call options (covered calls) on a portion of its portfolio to generate investment returns; Writing put options to acquire securities at predetermined prices.' Original judgment of '否' is clearly incorrect.",
+    "sources_checked": "Mulvihill SPFD year-end results press release (GlobeNewswire), StockWatch, Manila Times, TradingView"
+  },
+  {
+    "name": "Arrow EC Equity Advantage AlternativeETF",
+    "ticker": "ADIV",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "中",
+    "reasoning": "Long/short equity fund investing primarily in North American equities using a market-neutral strategy. The simplified prospectus permits the use of options for both hedging and non-hedging purposes, but the core strategy is stock-based long/short. No evidence options are a principal component of the strategy.",
+    "sources_checked": "Arrow Capital ADIV product page, Simplified Prospectus PDF (June 2025), TSX exchange bulletin, SEDAR+ filings"
+  },
+  {
+    "name": "FIBRATC 14 ETF",
+    "ticker": "FIBRATC",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "中",
+    "reasoning": "Passive Mexican REIT ETF tracking the S&P/BMV Fibras Index. The fund holds 9 major Mexican FIBRAS and is a passive index tracker. No evidence of direct options usage by the ETF itself. Limited prospectus availability in English makes full verification challenging.",
+    "sources_checked": "StockAnalysis FIBRATC14 page, Actinver prospectus documents, S&P/BMV Fibras Index methodology"
+  },
+  {
+    "name": "Ninepoint Cameco Highshares ETF",
+    "ticker": "CCHI",
+    "original_judgment": "是",
+    "verified_judgment": "是",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Fund holds Cameco Corp stock on a levered basis (up to 25% leverage) and writes covered call options on up to 50% of NAV. The covered call strategy is a core component, reviewed monthly to ensure cash flow sustainability. Options premium income is distributed as monthly cash distributions.",
+    "sources_checked": "Ninepoint CCHI product page, Ninepoint HighShares simplified prospectus, Globe and Mail CCHI profile, Ninepoint press releases"
+  },
+  {
+    "name": "Evolve Canadian Ey Enh Y Idx ETF CAD UnH",
+    "ticker": "OILY",
+    "original_judgment": "是",
+    "verified_judgment": "是",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Fund seeks to replicate up to 1.25x the Solactive Canada Energy Top 10 Index with an active covered call option writing program. Covered calls are written on up to 100% of equity securities at the Manager's discretion. Combined with ~25% leverage for enhanced yield.",
+    "sources_checked": "Evolve OILY product page, Evolve prospectus (March 2025), TSX exchange bulletin, Yahoo Finance announcement"
+  },
+  {
+    "name": "Harvest Premium Yield Enhanced ETF Cl A",
+    "ticker": "HPYE",
+    "original_judgment": "是",
+    "verified_judgment": "是",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Fund employs both covered call and covered put options on a diversified portfolio of large-cap U.S. equities. Combined with moderate leverage to generate enhanced yield. This is explicitly marketed as a 'Premium Yield' strategy using dual option writing for income and downside mitigation.",
+    "sources_checked": "Harvest HPYE product page, Harvest preliminary prospectus filing, TSX exchange bulletin, Harvest Q&A document"
+  },
+  {
+    "name": "BB RF PRE IND FUT TX JUROS S&P/B3 FIIM",
+    "ticker": "FIXA11",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Brazilian fixed-income ETF tracking the S&P/B3 Interest Rate Futures Index - DI 3 Years ER. The fund holds DI Futures (DI1) contracts + LFT bonds. Regulatory documents explicitly confirm 'Opção Disponível: Não' (Options Available: No). Purely an interest rate futures strategy.",
+    "sources_checked": "BB FIXA11 monthly fact sheets, Mirae Asset FIXA11 documents, B3 ETF bulletin, S&P DJI index page"
+  },
+  {
+    "name": "BetaShares Aus Equities Bear Hedge ETF",
+    "ticker": "BEAR",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Fund invests in cash and cash equivalents and shorts ASX SPI 200 futures to provide inverse exposure to the Australian equity market. The fund does NOT use options as its primary instrument. The product disclosure statement confirms futures-based strategy targeting -0.9x to -1.1x daily short exposure.",
+    "sources_checked": "BetaShares BEAR brochure PDF, BetaShares website, Morningstar BEAR page, BetaShares '3 Bears' insights article"
+  },
+  {
+    "name": "ProShares Hedge Replication",
+    "ticker": "HDG",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Fund tracks the Merrill Lynch Factor Model by investing in swap agreements, futures contracts, equity securities, and money market instruments. The summary prospectus does not mention options contracts as a principal investment strategy. Core derivatives are swaps and futures only.",
+    "sources_checked": "ProShares HDG summary prospectus (SEC filing), ProShares HDG product page, ROIC AI HDG page, SEC EDGAR filings"
+  }
+]

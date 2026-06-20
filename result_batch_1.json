@@ -1,0 +1,262 @@
+[
+  {
+    "name": "iShares Systematic Alternatives Actv ETF",
+    "ticker": "IALT",
+    "original_judgment": "是",
+    "verified_judgment": "是",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Prospectus confirms the fund can invest extensively in derivatives including options on securities, options on futures, and options on swaps. Options are a permitted and used instrument in the systematic multi-strategy approach.",
+    "sources_checked": "iShares prospectus 2025 (SEC EDGAR), Seeking Alpha, Ainvest, BlackRock"
+  },
+  {
+    "name": "iShares COLCAP",
+    "ticker": "ICOLCAP",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Pure equity index ETF replicating the MSCI COLCAP Index (Colombian equities). Holds 20+ Colombian stocks. No options strategy or derivative overlay identified in any BlackRock documentation.",
+    "sources_checked": "BlackRock fact sheet, StockAnalysis, Investing.com, Citivalores prospectus"
+  },
+  {
+    "name": "NYLI Hedge Multi-Strategy Tracker ETF",
+    "ticker": "QAI",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "中",
+    "reasoning": "Passive fund-of-funds tracking NYLI Hedge Multi-Strategy Index by holding other ETFs (iShares Floating Rate Bond, Vanguard Short-Term Treasury, etc.). No direct options strategy. Options are available for trading ON QAI shares but the fund itself does not use options.",
+    "sources_checked": "ETF Strategy, Schwab, Barchart, Investing.com"
+  },
+  {
+    "name": "Calamos Tax-Aware Collateral ETF",
+    "ticker": "CBOX",
+    "original_judgment": "是",
+    "verified_judgment": "是",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Core strategy is FLEX options box spreads on SPY. Holdings show ~92% in SPY long put box spread positions and ~7% in SPY long call positions. Options are the primary investment vehicle for this fund.",
+    "sources_checked": "Calamos website, SEC EDGAR filings (FAST-EDGAR), Schwab, MarketWatch, U.S. News"
+  },
+  {
+    "name": "Franklin Systematic Style Premia ETF",
+    "ticker": "FLSP",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Uses equity index futures, interest rate futures, commodity futures, total return swaps, and currency forwards for factor-based long/short exposure. No options (puts/calls) as primary instruments. ETF Strategy article confirms it is not a traditional options-writing ETF.",
+    "sources_checked": "Franklin Templeton prospectus (SEC EDGAR), ETF Strategy, Ainvest, Schwab"
+  },
+  {
+    "name": "TREND LBMA OURO FIIM",
+    "ticker": "GOLD11",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Brazilian gold ETF that holds ~100% iShares Gold Trust (IAU), which holds physical gold bars. No options or derivatives based on available holding data. Pure physical gold exposure.",
+    "sources_checked": "Investing.com, B3 data (Brazil), Morningstar"
+  },
+  {
+    "name": "iPath® B S&P 500® VIX S/T Futs™ ETN",
+    "ticker": "VXX",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "ETN tracking S&P 500 VIX Short-Term Futures Index via daily rolling long positions in VIX futures. Uses futures contracts, not options. While VIX index is derived from option prices, the product itself holds futures, not options.",
+    "sources_checked": "Yahoo Finance, TradingBlock, tastytrade, Schaeffer's Research, AvaTrade"
+  },
+  {
+    "name": "Brompton Split Corp. PreferredShareETF",
+    "ticker": "SPLT",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Invests in preferred shares of Canadian split corporations. Top holdings are preferred shares (Dividend 15 Split Corp., North American Financial 15 Split Corp., etc.). No options strategy at the ETF level. Underlying split corps may use options but SPLT itself does not.",
+    "sources_checked": "Brompton Group, MRFP annual report, NBF Weekly ETF report"
+  },
+  {
+    "name": "Saba Closed-End Funds ETF",
+    "ticker": "CEFS",
+    "original_judgment": "否",
+    "verified_judgment": "是",
+    "agreement": "不一致",
+    "confidence": "中",
+    "reasoning": "SEC filing (Jan 17, 2024 supplement) explicitly authorizes put and call options (including on indices and futures) for both hedging and speculative positioning. While the core strategy is activist CEF arbitrage, options are a permitted part of the investment strategy, not just a minor tool.",
+    "sources_checked": "SEC EDGAR filing (Jan 2024), Seeking Alpha, Schwab, Composer.trade"
+  },
+  {
+    "name": "WisdomTree Bloomberg US Dllr Bullish ETF",
+    "ticker": "USDU",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Uses currency forward contracts to achieve long USD exposure against a basket of currencies. No options involved. The primary derivatives are short-term currency forwards.",
+    "sources_checked": "WisdomTree website, ETF Strategy, Schwab, TipRanks"
+  },
+  {
+    "name": "HASHDEX NASDAQ CRYPTO INDEX FIIM",
+    "ticker": "HASH11",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Brazilian crypto index ETF holding physical crypto assets (Bitcoin, Ethereum). While OTC options on HASH11 shares were launched on B3, the fund itself does not use options as part of its investment strategy. It holds crypto directly.",
+    "sources_checked": "Hashdex, B3, BingX news, KuCoin news"
+  },
+  {
+    "name": "Amundi EUR Infl Expct 2-10Y ETF Acc",
+    "ticker": "INFL",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Swap-based synthetic UCITS ETF tracking Markit iBoxx EUR Breakeven Euro-Inflation Index. Uses OTC swap contracts for indirect replication. No options involved. The ETF is classified as Relative Value Arbitrage but uses swaps, not options.",
+    "sources_checked": "Morningstar, Amundi prospectus, Fundinfo"
+  },
+  {
+    "name": "Invesco DB US Dollar Bullish",
+    "ticker": "UUP",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Futures-based ETF tracking Deutsche Bank Long USD Currency Portfolio Index via ICE US Dollar Index futures (DX contracts). No options strategy. Options are available for trading ON UUP shares but the fund itself uses futures.",
+    "sources_checked": "Invesco, SEC filings (424B3), Schwab, Public.com options chain"
+  },
+  {
+    "name": "Harvest Diversified Monthly Income ETF A",
+    "ticker": "HDIF",
+    "original_judgment": "是",
+    "verified_judgment": "是",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Fund-of-funds where each underlying Harvest ETF actively writes covered call options on up to ~33% of holdings. Options premium generates monthly income. Options are core to the income strategy. 25% leverage further boosts yield.",
+    "sources_checked": "Harvest Portfolios, Yahoo Finance, Motley Fool, YCharts"
+  },
+  {
+    "name": "Roundhill Ultra Shrt Dur No Div TrgtETF",
+    "ticker": "XBOX",
+    "original_judgment": "是",
+    "verified_judgment": "是",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Core strategy is box spreads using FLEX options on broad market indexes (S&P 500, Nasdaq 100). Market-neutral synthetic position replicates short-term financing rates. Options are the primary investment vehicle.",
+    "sources_checked": "Roundhill Investments, Structured Retail Products, Ainvest, Cboe Listings"
+  },
+  {
+    "name": "Evolve Canadian Utilities Enh Yld IdxETF",
+    "ticker": "UTES",
+    "original_judgment": "是",
+    "verified_judgment": "是",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Actively managed covered call writing program on Canadian utility stocks. Applies covered calls on ~33% of portfolio combined with 25% leverage. Options are core to the enhanced yield strategy.",
+    "sources_checked": "Evolve ETFs product page, Solactive, YCharts"
+  },
+  {
+    "name": "iShares Flexible Monthly Income ETF CADH",
+    "ticker": "XFLX",
+    "original_judgment": "是",
+    "verified_judgment": "否",
+    "agreement": "不一致",
+    "confidence": "中",
+    "reasoning": "Primarily invests 99.9% in BINC (BlackRock Flexible Income Active ETF), a fixed-income ETF. While classified as an Alternative Mutual Fund that permits derivatives including options for hedging/income, the core investment is flexible fixed income. The original data's own explanation stated '不使用期权' (does not use options), contradicting its '是' judgment.",
+    "sources_checked": "BlackRock prospectus (Sept 2024), RBC iShares, StockAnalysis, Wealth Professional"
+  },
+  {
+    "name": "AGF U.S. Market Neutral Anti-Beta",
+    "ticker": "BTAL",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "中",
+    "reasoning": "Core strategy is long low-beta / short high-beta US equities via total return swaps and direct equity positions. Options are permitted and may be used for efficient execution, but the primary strategy is stock long-short. Per criteria, 'stock long-short alone = 否'.",
+    "sources_checked": "AGF website, Schwab, Barchart, AGF whitepaper"
+  },
+  {
+    "name": "Hamilton Enhanced Canadian Eq DayMAX ETF",
+    "ticker": "CDAY",
+    "original_judgment": "是",
+    "verified_judgment": "是",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Canada's first 0DTE (zero-days-to-expiry) options ETF. Daily writing of call options on S&P 500 index generates premium income ~250 times per year. Options are the defining strategy of this DayMAX suite product.",
+    "sources_checked": "Hamilton ETFs official site, Cboe Canada press release, Investment Executive, ETFGI, Structured Retail Products"
+  },
+  {
+    "name": "CI Auspice Broad Commodity Fund Hdg Acc",
+    "ticker": "CCOM",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Tracks Auspice Broad Commodity Excess Return Index using 12 diversified commodity futures contracts (crude oil, natural gas, metals, agriculture). Uses futures only, no options strategy.",
+    "sources_checked": "CI Global Asset Management, Auspice Capital, The Globe and Mail, TradingView"
+  },
+  {
+    "name": "NYLI Merger Arbitrage ETF",
+    "ticker": "MNA",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Merger arbitrage strategy: long merger/acquisition targets, short acquirers and broad equity indices. Core is event-driven stock long/short. No options strategy. While options trade on MNA shares, the fund itself does not use options.",
+    "sources_checked": "NYLI, ETF Strategy, Schwab, OptionsAmurai, Finviz"
+  },
+  {
+    "name": "NBI Liquid Alternatives ETF",
+    "ticker": "NALT",
+    "original_judgment": "是",
+    "verified_judgment": "否",
+    "agreement": "不一致",
+    "confidence": "中",
+    "reasoning": "Systematic global macro strategy using primarily futures contracts on bonds, currencies, and commodities. No evidence found of options use in the strategy. Search results explicitly note: 'did not find evidence that NALT uses options strategies.' Original '是' judgment had low confidence and appears inaccurate.",
+    "sources_checked": "NBI prospectus, NBI Glass Box Series, StockAnalysis, Yahoo Finance"
+  },
+  {
+    "name": "AGF US Market Neutral Anti-Bt CAD-HETF",
+    "ticker": "QBTL",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "中",
+    "reasoning": "CAD-hedged version of BTAL. Same strategy: long low-beta / short high-beta US equities via total return swaps and direct equity positions. Options are permitted but not core. Primary exposure is through swaps, not options.",
+    "sources_checked": "AGF, YCharts, StockAnalysis, Seeking Alpha, TradingView"
+  },
+  {
+    "name": "Hamilton Enhanced Technology DayMAX ETF",
+    "ticker": "QDAY",
+    "original_judgment": "是",
+    "verified_judgment": "是",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "DayMAX suite ETF using 0DTE options strategy: daily writing of call options on Nasdaq 100 index. 25% leverage enhances income. Options are the defining and core strategy.",
+    "sources_checked": "Hamilton ETFs official site, Cboe Canada, Investment Executive, ETFGI"
+  },
+  {
+    "name": "HASHDEX NASDAQ BITCOIN REF PRICE FIIM",
+    "ticker": "BITH11",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Brazilian Bitcoin ETF tracking Nasdaq Bitcoin Reference Price Index. Holds ~99.84% in Bitcoin (HN BTC Classe B). No options strategy. Pure crypto price exposure.",
+    "sources_checked": "Hashdex, Yahoo Finance, Morningstar, Investing.com, Financial Times"
+  },
+  {
+    "name": "SEI DBi Multi-Strategy Alternative ETF",
+    "ticker": "QALT",
+    "original_judgment": "是",
+    "verified_judgment": "是",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Prospectus confirms investment in exchange-traded derivative instruments including futures contracts, options (exchange-traded), swaps, and forwards. Options are explicitly part of the multi-strategy approach to replicate hedge fund returns.",
+    "sources_checked": "SEI prospectus (Jan 2026, SEC EDGAR), Schwab, Markets Insider, Nasdaq"
+  }
+]

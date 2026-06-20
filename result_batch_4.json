@@ -1,0 +1,262 @@
+[
+  {
+    "name": "Ninepoint Cnr Highshares ETF",
+    "ticker": "CRHI",
+    "original_judgment": "是",
+    "verified_judgment": "是",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Ninepoint HighShares系列单股票ETF，持有Canadian National Railway(CNR)股票并卖出covered call期权（最多NAV的50%），使用最高25%杠杆增强收益。Simplified Prospectus明确说明covered call策略为核心收入产生机制。",
+    "sources_checked": "https://www.ninepoint.com/funds/ninepoint-cnr-highshares-etf?series=ETF; https://www.ninepoint.com/media/ypkh0unj/highshares-simplified-prospectus.pdf"
+  },
+  {
+    "name": "Ninepoint Shopify Highshares ETF",
+    "ticker": "SHHI",
+    "original_judgment": "是",
+    "verified_judgment": "是",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Ninepoint HighShares系列单股票ETF，持有Shopify(SHOP)股票并卖出covered call期权（最多NAV的50%），使用最高25%杠杆。Ninepoint官网及招股书确认covered call为核心月度收入策略。",
+    "sources_checked": "https://www.ninepoint.com/funds/ninepoint-shopify-highshares-etf/; https://www.ninepoint.com/media/ypkh0unj/highshares-simplified-prospectus.pdf"
+  },
+  {
+    "name": "Global X Enh All-Eq Asst Allc ETF CAD",
+    "ticker": "HEQL",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "通过现金借贷实现约125%（1.25x）杠杆的纯股票配置ETF，投资于HEQT（全球股票ETF组合）。Global X Fact Sheet确认核心机制为physical borrowing（实物借贷）而非期权。姐妹基金EQCL（covered call+杠杆）才使用期权策略。无可用期权交易链。",
+    "sources_checked": "https://www.globalx.ca/wp-content/uploads/2025/08/HEQL-ETF_Fact_Sheet-EN.pdf; https://www.globalx.ca/news/press-releases/horizons-etfs-expands-asset-allocation-suite-for-canadians-with-covered-call-and-enhanced-strategies"
+  },
+  {
+    "name": "First Trust Merger Arbitrage ETF",
+    "ticker": "MARB",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "并购套利策略，做多收购标的、做空收购方股票。新策略（2026年Q2转型为NTRL市场中性）将使用期货和总收益互换。招股书提及或使用期权等衍生品，但核心为股票多空套利，非期权驱动。ETFrc确认无可交易期权。",
+    "sources_checked": "https://www.ftportfolios.com/Common/ContentFileLoader.aspx?ContentGUID=8f50481d-286d-4bda-a4b8-70e93b6504c7; https://www.etfrc.com/MARB; https://finance.yahoo.com/news/first-trust-announces-changes-investment-142500456.html"
+  },
+  {
+    "name": "Accelerate OneChoice Altrntv MA",
+    "ticker": "ONEC",
+    "original_judgment": "是",
+    "verified_judgment": "否",
+    "agreement": "不一致",
+    "confidence": "中",
+    "reasoning": "多资产替代策略FOF（基金中的基金），持有其他替代策略ETF/基金（绝对收益、并购套利、多空股票、管理期货等）。ETF Facts显示投资于10只底层基金，部分可能间接持有期权，但ONEC自身不直接使用期权。按规则间接/非核心=否。",
+    "sources_checked": "http://accelerateshares.com/wp-content/uploads/2025/05/2025-ETF-Facts-ONEC-English.pdf; https://accelerateshares.com/investment-solutions/onec/; https://pictureperfectportfolios.com/accelerate-onechoice-etf-onec-to-the-ultimate-alternative-portfolio/"
+  },
+  {
+    "name": "Ninepoint Crypto and AI Leaders ETF",
+    "ticker": "TKN.U",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "主动管理ETF，投资于加密和AI领域公司股票（Coinbase、NVIDIA、Microsoft等）及数字资产ETF（比特币、以太坊等），最高允许30%配置于数字资产ETF。Ninepoint评论确认核心为股票选股和战术调仓，无期权策略。Barchart确认无可用期权。",
+    "sources_checked": "https://www.ninepoint.com/funds/ninepoint-crypto-and-ai-leaders-etf/; https://www.ninepoint.com/alt-thinking/commentaries/2025/11/crypto-and-ai-leaders-etf/; https://www.barchart.com/etfs-funds/quotes/TKN.TO/comparison"
+  },
+  {
+    "name": "Ninepoint TD Highshares ETF",
+    "ticker": "TDHI",
+    "original_judgment": "是",
+    "verified_judgment": "是",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Ninepoint HighShares系列单股票ETF，持有TD Bank股票并卖出covered call期权（最多NAV的50%），使用最高25%杠杆。Ninepoint官方页面确认covered call核心策略，月度分红$0.10/单位。",
+    "sources_checked": "https://www.ninepoint.com/funds/ninepoint-td-highshares-etf?series=ETF; https://stockanalysis.com/quote/tsx/TDHI/"
+  },
+  {
+    "name": "Ninepoint Royal Bank Highshares ETF",
+    "ticker": "RYHI",
+    "original_judgment": "是",
+    "verified_judgment": "是",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Ninepoint HighShares系列单股票ETF，持有Royal Bank(RY)股票并卖出covered call期权（最多NAV的50%），使用最高25%杠杆。Simplified Prospectus明确说明covered call策略，参考S&P/TSX 60 Covered Call 2% OTM Monthly Index。",
+    "sources_checked": "https://www.ninepoint.com/funds/ninepoint-royal-bank-highshares-etf/; https://www.ninepoint.com/media/ypkh0unj/highshares-simplified-prospectus.pdf"
+  },
+  {
+    "name": "Mackenzie GQE US Alpha Extension ETF",
+    "ticker": "MALX",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "130/30多空股票策略ETF，使用Mackenzie的量化模型对美国股票进行做多(130% NAV)和做空(30% NAV)。核心为股票多空和杠杆，不使用期权。TSX上市公告确认通过传统股票多空和物理卖空实现策略。",
+    "sources_checked": "https://uat.mackenzieinvestments.com/en/products/etfs/mackenzie-gqe-us-alpha-extension-etf-malx; https://www.tsx.com/en/news/new-company-listings?id=2030"
+  },
+  {
+    "name": "ProShares Merger",
+    "ticker": "MRGR",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "跟踪S&P Merger Arbitrage Index的并购套利ETF。所有空头敞口通过总收益互换协议(Swap)取得，多头部分也通过互换增强。使用货币远期合约管理汇率风险。核心工具为互换协议而非期权。Barchart和ETFrc确认无期权交易。",
+    "sources_checked": "https://www.etfrc.com/MRGR; https://www.ainvest.com/etfs/CBOE-MRGR/; https://in.investing.com/etfs/proshares-merger-profile"
+  },
+  {
+    "name": "Fidelity Global Opportunities L/S ETF",
+    "ticker": "FLSE",
+    "original_judgment": "是",
+    "verified_judgment": "否",
+    "agreement": "不一致",
+    "confidence": "中",
+    "reasoning": "全球多空股票基金，Fidelity官方资料确认核心为基本面多空选股（约135%多头/35%空头），净敞口约100%。招股书允许使用期权和衍生品，但期权仅为广泛衍生品权限之一，非核心策略工具。按规则'可能使用但非核心=否'。",
+    "sources_checked": "https://www.fidelity.ca/en/products/etfs/flse/?series=ETF; https://www.fidelity.ca/en/insights/videos/introducing-global-opportunities-long-short/; https://sg.finance.yahoo.com/news/fidelity-investments-canada-launches-fidelity-123300759.html"
+  },
+  {
+    "name": "SSIAM VNFIN LEAD ETF",
+    "ticker": "FUESSVFL",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "越南VN金融领先指数ETF，由SSI Asset Management管理，采用被动完全复制策略跟踪VNFIN LEAD Index。投资组合持有23只越南金融板块股票（银行75%、证券16%）。纯股票指数复制，无期权使用。",
+    "sources_checked": "https://ssiam.com.vn/en/fund-information-vnfinlead; https://ssiam.com.vn/upload/files/QuanLyQuy/Prospectus%20SSIAM%20VNFIN%20LEAD%20ETF%202023%20b%E1%BA%A3n%20n%C3%A0y%20up%20website.pdf"
+  },
+  {
+    "name": "INVESTO MSCI US REAL ESTATE FIIM",
+    "ticker": "ALUG11",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "巴西上市ETF（FIIM分类），被动跟踪MSCI US IMI Real Estate 25/50指数，通过VNQ ETF持有约150只美国REITs。纯被动指数复制策略，INVESTO官方确认非主动管理产品，不使用期权。",
+    "sources_checked": "https://stockanalysis.com/quote/bvmf/ALUG11/; https://www.investing.com/etfs/alug11"
+  },
+  {
+    "name": "BetaPro S&P 500 VIX ST Futures ETF",
+    "ticker": "VOLX",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "跟踪S&P 500 VIX Short-Term Futures Index，持有近月和次月VIX期货合约（约79%+21%），其余为现金抵押品。BetaPro Fact Sheet确认核心工具为VIX期货而非期权。VIX指数由SPX期权计算但不代表该产品使用期权。无可用期权交易链。",
+    "sources_checked": "https://betapro.ca/product/VOLX; https://stockanalysis.com/quote/tsx/VOLX/; http://betapro.ca/wp-content/uploads/2025/01/VOLX-ETF_Fact_Sheet-EN.pdf"
+  },
+  {
+    "name": "QR CME CF ETHER REF RATE FIIM",
+    "ticker": "QETH11",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "拉丁美洲首只以太坊ETF，由QR Asset Management管理，100%持有实物ETH，跟踪CME CF Ether-Dollar Reference Rate。巴西B3交易所上市。纯加密货币现货敞口，无期权策略。Yahoo Finance确认无活跃期权交易。",
+    "sources_checked": "https://nz.finance.yahoo.com/quote/QETH11.SA/options/; https://stockanalysis.com/quote/bvmf/QETH11/; https://www.businessinsider.in/cryptocurrency/news/brazil-gives-the-green-light-to-latin-americas-1st-ethereum-etf/articleshow/84425390.cms"
+  },
+  {
+    "name": "Ninepoint Barrick Highshares ETF",
+    "ticker": "ABHI",
+    "original_judgment": "是",
+    "verified_judgment": "是",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Ninepoint HighShares系列单股票ETF，持有Barrick Gold(ABX)股票并卖出covered call期权（最多NAV的50%），使用最高25%杠杆。Ninepoint官方资料和Simplified Prospectus确认covered call核心策略。",
+    "sources_checked": "https://www.ninepoint.com/funds/ninepoint-barrick-highshares-etf/?series=ETF; https://stockanalysis.com/quote/tsx/ABHI/; https://www.ninepoint.com/media/ypkh0unj/highshares-simplified-prospectus.pdf"
+  },
+  {
+    "name": "Ninepoint Enbridge Highshares ETF",
+    "ticker": "ENHI",
+    "original_judgment": "是",
+    "verified_judgment": "是",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Ninepoint HighShares系列单股票ETF，持有Enbridge(ENB)股票并卖出covered call期权（最多NAV的50%），使用最高25%杠杆。Ninepoint官方页面确认covered call策略，月度分红$0.10/单位。",
+    "sources_checked": "https://www.ninepoint.com/funds/ninepoint-enbridge-highshares-etf/; https://stockanalysis.com/quote/tsx/ENHI/; https://www.ninepoint.com/media/ypkh0unj/highshares-simplified-prospectus.pdf"
+  },
+  {
+    "name": "AltShares Event-Driven ETF",
+    "ticker": "EVNT",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "中",
+    "reasoning": "事件驱动多空策略ETF，核心为并购套利、荷兰竞标、SPAC等事件驱动机会的股票多空头寸。招股书明确授权使用衍生品（包括写作和购买期权、互换、期货、远期），但期权为众多工具之一，核心策略仍为事件驱动股票多空。按规则'可能使用但非核心=否'。",
+    "sources_checked": "https://www.altsharesetfs.com/evnt; https://finviz.com/quote.ashx?t=EVNT&ta=1&p=d&b=1&r=m3; https://www.schwab.wallst.com/Prospect/Research/etfs/summary.asp?symbol=evnt"
+  },
+  {
+    "name": "Ossiam Global Perspectives ETF 1D € Dis",
+    "ticker": "",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "中",
+    "reasoning": "Ossiam Lux SICAV下多资产子基金，跟踪Global Multi-Asset Risk-Control Index。该指数通过均值方差优化在风险资产组合和现金组合之间分配，通过总收益互换(Swap)实现合成复制。核心工具为互换，非期权策略。",
+    "sources_checked": "https://ossiam.com/files/Legal%20documents/2020/LU/1593680528_KII_OSSIAM_GLOBAL_MULTI-ASSET_RISK-CONTROL_UCITS_ETF_1C(EUR)_Luxembourg_EN_26062020.pdf; https://api.fundinfo.com/document/787b6e457b3fc8b2cd890e815d5f3a95_5113109/PR_CH_en_LU0599613147_YES_2024-10-10.pdf"
+  },
+  {
+    "name": "Ninepoint Bce Highshares ETF",
+    "ticker": "BCHI",
+    "original_judgment": "是",
+    "verified_judgment": "是",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Ninepoint HighShares系列单股票ETF，持有BCE股票并卖出covered call期权（最多NAV的50%），使用最高25%杠杆。Ninepoint官方页面确认covered call为核心收入策略，月度分红$0.10/单位。",
+    "sources_checked": "https://www.ninepoint.com/funds/ninepoint-bce-highshares-etf/?series=ETF; https://stockanalysis.com/quote/tsx/BCHI/"
+  },
+  {
+    "name": "DCVFMVNMIDCAP ETF",
+    "ticker": "FUEDCMID",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "越南首只中盘股ETF，由Dragon Capital管理，被动跟踪VN Midcap Index。采用完全复制法投资于越南中盘股票。纯股票指数复制，不使用期权。",
+    "sources_checked": "https://finance.yahoo.com/quote/FUEDCMID.VN/profile/; https://bizhub.vietnamnews.vn/first-mid-cap-etf-listed-on-hose-post337768.html"
+  },
+  {
+    "name": "EMPIRICUS TEVA CRIPTOMOEDAS TOP 20 FIIM",
+    "ticker": "CRPT11",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "巴西上市加密货币Top20指数ETF，跟踪Teva Cryptocurrencies Top 20 Index。投资于实物加密资产和加密期货多头头寸。纯数字资产指数敞口，不使用期权策略。",
+    "sources_checked": "https://stockanalysis.com/quote/bvmf/CRPT11/; https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=915767&cvm=true"
+  },
+  {
+    "name": "TREND IFIX-L FIIM",
+    "ticker": "XFIX11",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "巴西被动指数ETF，跟踪IFIX-L（高流动性巴西房地产投资基金指数），持有约88-92只巴西FII股份。纯被动指数复制策略，不使用期权或衍生品。",
+    "sources_checked": "https://stockanalysis.com/quote/bvmf/XFIX11/; https://za.investing.com/etfs/xfix11-holdings"
+  },
+  {
+    "name": "WisdomTree Efficient TIPS Plus Gold Fund",
+    "ticker": "GDT",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "主动管理ETF，使用衍生品叠加实现约90% TIPS债券+约86-90%黄金期货的高效暴露。核心工具为黄金期货合约和通胀互换(Inflation Swaps)。WisdomTree官方页面确认'Options Available: No'。不使用期权。",
+    "sources_checked": "https://www.wisdomtree.com/us/products/capital-efficient/gdt; https://www.benzinga.com/etfs/new-etfs/26/01/50186767/gold-meets-inflation-hedging-can-wisdomtrees-new-etfs-beat-the-sp-500"
+  },
+  {
+    "name": "HASHDEX NASDAQ SOLANA FIIM",
+    "ticker": "SOLH11",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "巴西上市Solana指数ETF，由Hashdex管理，跟踪Nasdaq Solana Reference Price Index(NQSOL)，约99.75%资金投资于Hashdex Nasdaq Solana ETF。纯被动加密货币指数敞口，不使用期权或衍生品策略。",
+    "sources_checked": "https://stockanalysis.com/quote/bvmf/SOLH11/; https://www.morningstar.com/etfs/bvmf/solh11/quote"
+  },
+  {
+    "name": "Ninepoint Suncor Highshares ETF",
+    "ticker": "SUHI",
+    "original_judgment": "是",
+    "verified_judgment": "是",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Ninepoint HighShares系列单股票ETF，持有Suncor Energy(SU)股票并卖出covered call期权（最多NAV的50%），使用最高25%杠杆。Ninepoint官方页面确认covered call核心策略，月度分红$0.14/单位。",
+    "sources_checked": "https://www.ninepoint.com/funds/ninepoint-suncor-highshares-etf/?series=ETF; https://stockanalysis.com/quote/tsx/SUHI/"
+  }
+]

@@ -1,0 +1,262 @@
+[
+  {
+    "name": "KSM STOXX EUROPE 600 Banks (4Da')",
+    "ticker": "KSTE.149",
+    "secid": "F00000YBMC",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪STOXX欧洲600银行行业指数，实物持有成份股，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM STOXX Europe 600 Banks(NTR)ILS(40a')",
+    "ticker": "KEU6.150",
+    "secid": "F00000YBM1",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪STOXX欧洲600银行ILS对冲份额，实物复制或互换，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM STOXX Europe 600 Health Care (4Da')",
+    "ticker": "K6HC.155",
+    "secid": "F00000YBM5",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪STOXX欧洲600医疗保健行业指数，实物持有成份股，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM STOXX EUROPE 600 Technology (4Da')",
+    "ticker": "KES6.153",
+    "secid": "F00000YBM4",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪STOXX欧洲600科技行业指数，实物持有成份股，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM STOXX Global Select Div 100 (4Da')",
+    "ticker": "KSDGL.44",
+    "secid": "F00000YBIM",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪STOXX全球精选股息100指数，实物持有成份股，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM STOXX MCXP Mid 200 ILS (40a')",
+    "ticker": "KSMD.147",
+    "secid": "F00000YBLY",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪STOXX中盘200 ILS对冲份额，实物复制或互换，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM STOXX MCXP Mid 200(4Da')",
+    "ticker": "KSMID.31",
+    "secid": "F00000YBIL",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪STOXX中盘200指数，实物复制或互换，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Swiss Market (4Da')",
+    "ticker": "KSWX.161",
+    "secid": "F00000YBMA",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪瑞士SMI指数，实物复制或互换，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM TA BlueTech (40A)",
+    "ticker": "KBT50.34",
+    "secid": "F00000YBKC",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪特拉维夫BlueTech科技指数，实物持有成份股，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM TA Oil & Gas (40A)",
+    "ticker": "KSMC.123",
+    "secid": "F00000YBLB",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪特拉维夫石油天然气指数，实物持有成份股，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM TA-25 (40A)",
+    "ticker": "KSM25.9",
+    "secid": "F00000YBJN",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM是以色列主要Tracker基金发行商，(40A)类别为股票指数追踪基金，追踪TA-25指数，使用实物复制或互换合约，不使用期权。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM TA-75 (40A)",
+    "ticker": "KTA75.31",
+    "secid": "F00000YBKA",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM股票指数Tracker基金(40A类别)，追踪TA-75指数，标准被动指数复制策略，不使用期权。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM TA-Biomed (40A)",
+    "ticker": "KSBO.126",
+    "secid": "F00000YBLA",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM股票指数Tracker基金(40A类别)，追踪TA-Biomed指数，标准被动指数复制策略，不使用期权。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM TA-Composite (40A)",
+    "ticker": "KSMC.122",
+    "secid": "F00000YBL9",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM股票指数Tracker基金(40A类别)，追踪TA-Composite指数，标准被动指数复制策略，不使用期权。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM TA-Finance (40A)",
+    "ticker": "KSM.PNN8",
+    "secid": "F00000YBJM",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM股票指数Tracker基金(40A类别)，追踪TA-Finance指数，标准被动指数复制策略，不使用期权。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM TA-Maala (40A)",
+    "ticker": "KMALA.32",
+    "secid": "F00000YBKB",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM股票指数Tracker基金(40A类别)，追踪TA-Maala指数，标准被动指数复制策略，不使用期权。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Tel Bond-CPI Linked Bank (00A)",
+    "ticker": "KSBN.148",
+    "secid": "F00000YBM0",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM债券指数Tracker基金(00A类别)，追踪CPI挂钩银行债券指数，标准债券被动复制策略，不使用期权。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Tel Bond-Yields (00A)",
+    "ticker": "KSM.139",
+    "secid": "F00000YBLJ",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM债券指数Tracker基金(00A类别)，追踪债券收益率指数，标准债券被动复制策略，不使用期权。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Tel-Bond 20 (00A)",
+    "ticker": "KST20.32",
+    "secid": "F00000YBIJ",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM债券指数Tracker基金(00A类别)，追踪Tel-Bond 20指数，标准债券被动复制策略，不使用期权。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Tel-Bond 40 (00A)",
+    "ticker": "KSBND.63",
+    "secid": "F00000YBJ3",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM债券指数Tracker基金(00A类别)，追踪Tel-Bond 40指数，标准债券被动复制策略，不使用期权。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Tel-Bond 60 (000)",
+    "ticker": "KSBND.64",
+    "secid": "F00000YBJ4",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM债券指数Tracker基金(000类别)，追踪Tel-Bond 60指数，标准债券被动复制策略，不使用期权。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Tel-Bond Composite (00A)",
+    "ticker": "KSBN.172",
+    "secid": "F00000YBML",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM债券指数Tracker基金(00A类别)，追踪Tel-Bond Composite指数，标准债券被动复制策略，不使用期权。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Tel-Bond CPI Linked (00A)",
+    "ticker": "KSM.132",
+    "secid": "F00000YBLF",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM债券指数Tracker基金(00A类别)，追踪CPI挂钩债券指数，标准债券被动复制策略，不使用期权。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Tel-Bond CPI Linked SmallCap (00A)",
+    "ticker": "KSM.133",
+    "secid": "F00000YBLG",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM债券指数Tracker基金(00A类别)，追踪CPI挂钩小盘债券指数，标准债券被动复制策略，不使用期权。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Tel-Bond Shekel (00A)",
+    "ticker": "KTBSK.88",
+    "secid": "F00000YBJB",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM债券指数Tracker基金(00A类别)，追踪谢克尔债券指数，标准债券被动复制策略，不使用期权。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM US BuyBack ILS (40a')",
+    "ticker": "KSBY.143",
+    "secid": "F00000YBLU",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM股票指数Tracker基金(40a'类别)，追踪美国回购指数，标准股票被动复制策略，不使用期权。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  }
+]

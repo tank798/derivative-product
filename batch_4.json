@@ -1,0 +1,262 @@
+[
+  {
+    "name": "Ninepoint Cnr Highshares ETF",
+    "ticker": "CRHI",
+    "secid": "F00001SEX8",
+    "aum": "21394215.8932341",
+    "judgment": "是",
+    "source": "https://www.ninepoint.com/funds/ninepoint-enhanced-canadian-highshares-etf/ ; https://1.ninepoint.com/ninepoint-highshares-etfs.html ; https://www.ninepoint.com/performance-sheet-download/en/ninepoint-nvidia-highshares-etf-performance-s-etf",
+    "confidence": "高",
+    "explanation": "Ninepoint HighShares系列产品，明确使用covered call策略加适度杠杆以产生高月度收入；Ninepoint HighShares官方材料明确说明使用covered calls；NVHI资料还写明持有单一股票并使用covered call策略。"
+  },
+  {
+    "name": "Ninepoint Shopify Highshares ETF",
+    "ticker": "SHHI",
+    "secid": "F00001SEXD",
+    "aum": "21108360.22755734",
+    "judgment": "是",
+    "source": "https://www.ninepoint.com/funds/ninepoint-enhanced-canadian-highshares-etf/ ; https://1.ninepoint.com/ninepoint-highshares-etfs.html ; https://www.ninepoint.com/performance-sheet-download/en/ninepoint-nvidia-highshares-etf-performance-s-etf",
+    "confidence": "高",
+    "explanation": "Ninepoint HighShares系列产品，使用covered call策略对Shopify股票进行期权写作以增强收入；Ninepoint HighShares官方材料明确说明使用covered calls；NVHI资料还写明持有单一股票并使用covered call策略。"
+  },
+  {
+    "name": "Global X Enh All-Eq Asst Allc ETF CAD",
+    "ticker": "HEQL",
+    "secid": "F00001H2DL",
+    "aum": "20150786.07463594",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "中",
+    "explanation": "通过25%杠杆叠加增强全球股票配置回报，使用swap等衍生品实现杠杆，非期权核心策略（推断）；产品名称和公开资料显示为主题指数、资产配置或普通ETF，未见期权策略说明。"
+  },
+  {
+    "name": "First Trust Merger Arbitrage ETF",
+    "ticker": "MARB",
+    "secid": "F000014BZ2",
+    "aum": "19897725",
+    "judgment": "否",
+    "source": "https://www.newyorklifeinvestments.com/etf/mna ; https://www.altshares.com/funds/arb/ ; https://www.proshares.com/our-etfs/strategic/mrgr ; https://www.ftportfolios.com/retail/etf/etfsummary.aspx?Ticker=MARB",
+    "confidence": "高",
+    "explanation": "并购套利策略，主要通过做多收购标的、做空收购方股票实现收益，核心工具为股票仓位而非期权；公开资料显示核心为并购套利、事件驱动、SPAC/新发行证券等，未见期权为核心构建工具。"
+  },
+  {
+    "name": "Accelerate OneChoice Altrntv MA",
+    "ticker": "ONEC",
+    "secid": "F000016EP0",
+    "aum": "19831963.26812094",
+    "judgment": "是",
+    "source": "公开资料不足；建议查发行说明书、最新持仓或交易所/监管披露。",
+    "confidence": "低",
+    "explanation": "多策略FOF，投资于并购套利、多空股票、管理期货等多个策略，可能通过子基金间接持有少量期权，但非核心（推断）；Accelerate另类多策略产品，公开摘要不足以确认期权持仓或期权主导。"
+  },
+  {
+    "name": "Ninepoint Crypto and AI Leaders ETF",
+    "ticker": "TKN.U",
+    "secid": "F00001CJB0",
+    "aum": "19619922",
+    "judgment": "否",
+    "source": "https://www.hashdex.com/en-US/products/hash11 ; https://www.hashdex.com/en-US/products ; https://www.qrasset.com.br/",
+    "confidence": "中",
+    "explanation": "投资于加密和AI领域公司的多空股票策略ETF，未提及使用期权作为核心工具；公开信息显示主要跟踪数字资产、加密指数或相关策略，未见使用期权构建收益/缓冲/对冲结构。"
+  },
+  {
+    "name": "Ninepoint TD Highshares ETF",
+    "ticker": "TDHI",
+    "secid": "F00001SEXE",
+    "aum": "17714095.67426383",
+    "judgment": "是",
+    "source": "https://www.ninepoint.com/funds/ninepoint-enhanced-canadian-highshares-etf/ ; https://1.ninepoint.com/ninepoint-highshares-etfs.html ; https://www.ninepoint.com/performance-sheet-download/en/ninepoint-nvidia-highshares-etf-performance-s-etf",
+    "confidence": "高",
+    "explanation": "Ninepoint HighShares系列产品，对TD银行股票使用covered call策略以增强月度收入；Ninepoint HighShares官方材料明确说明使用covered calls；NVHI资料还写明持有单一股票并使用covered call策略。"
+  },
+  {
+    "name": "Ninepoint Royal Bank Highshares ETF",
+    "ticker": "RYHI",
+    "secid": "F00001SEXA",
+    "aum": "17434618.76990232",
+    "judgment": "是",
+    "source": "https://www.ninepoint.com/funds/ninepoint-enhanced-canadian-highshares-etf/ ; https://1.ninepoint.com/ninepoint-highshares-etfs.html ; https://www.ninepoint.com/performance-sheet-download/en/ninepoint-nvidia-highshares-etf-performance-s-etf",
+    "confidence": "高",
+    "explanation": "Ninepoint HighShares系列产品，对Royal Bank股票使用covered call策略以增强月度收入；Ninepoint HighShares官方材料明确说明使用covered calls；NVHI资料还写明持有单一股票并使用covered call策略。"
+  },
+  {
+    "name": "Mackenzie GQE US Alpha Extension ETF",
+    "ticker": "MALX",
+    "secid": "F00001S8IG",
+    "aum": "16748753.80156714",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "中",
+    "explanation": "130/30扩展策略，通过传统多头仓位加卖空获取额外alpha，核心工具为股票多空而非期权；公开资料显示核心为多空股票、市场中性或低/高Beta配对，不是以期权构建的策略产品。"
+  },
+  {
+    "name": "ProShares Merger",
+    "ticker": "MRGR",
+    "secid": "F00000O2XA",
+    "aum": "15901746",
+    "judgment": "否",
+    "source": "https://www.newyorklifeinvestments.com/etf/mna ; https://www.altshares.com/funds/arb/ ; https://www.proshares.com/our-etfs/strategic/mrgr ; https://www.ftportfolios.com/retail/etf/etfsummary.aspx?Ticker=MARB",
+    "confidence": "高",
+    "explanation": "并购套利ETF，使用swap、远期合约(forwards)和股票多空仓位，非期权核心策略；公开资料显示核心为并购套利、事件驱动、SPAC/新发行证券等，未见期权为核心构建工具。"
+  },
+  {
+    "name": "Fidelity Global Opportunities L/S ETF",
+    "ticker": "FLSE",
+    "secid": "F00001TH44",
+    "aum": "15478484.99147036",
+    "judgment": "是",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "中",
+    "explanation": "全球多空股票ETF，说明提及增加使用衍生品（含对冲和非对冲用途），可能包含期权但非核心策略（推断）；公开资料显示核心为多空股票、市场中性或低/高Beta配对，不是以期权构建的策略产品。"
+  },
+  {
+    "name": "SSIAM VNFIN LEAD ETF",
+    "ticker": "FUESSVFL",
+    "secid": "F000015296",
+    "aum": "15296140.17196548",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "低",
+    "explanation": "被动跟踪越南VNFIN LEAD金融指数，纯股票指数复制策略，不使用期权；根据产品名称、管理人、类别和公开检索入口，未见 covered call、put/call writing、FLEX options、buffer、box spread 等期权策略证据。"
+  },
+  {
+    "name": "INVESTO MSCI US REAL ESTATE FIIM",
+    "ticker": "ALUG11",
+    "secid": "F00001D3TQ",
+    "aum": "14704381.78558058",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "低",
+    "explanation": "在巴西复制MSCI美国房地产指数（类似VNQ），被动指数跟踪，不使用期权；根据产品名称、管理人、类别和公开检索入口，未见 covered call、put/call writing、FLEX options、buffer、box spread 等期权策略证据。"
+  },
+  {
+    "name": "BetaPro S&P 500 VIX ST Futures ETF",
+    "ticker": "VOLX",
+    "secid": "F00000LNES",
+    "aum": "13885213.78224623",
+    "judgment": "否",
+    "source": "https://ipathetn.barclays/vxx ; https://www.proshares.com/our-etfs/strategic/vixm ; https://www.spglobal.com/spdji/en/indices/strategy/sp-500-vix-short-term-futures-index/",
+    "confidence": "高",
+    "explanation": "通过VIX短期期货合约获取波动率敞口，核心工具为VIX期货而非期权；产品暴露为 S&P 500 VIX Short-Term/Mid-Term Futures 等 VIX 期货指数；VIX指数由期权隐含波动率计算，但该产品本身不是持有期权或卖期权的期权策略产品。"
+  },
+  {
+    "name": "QR CME CF ETHER REF RATE FIIM",
+    "ticker": "QETH11",
+    "secid": "F00001CIUC",
+    "aum": "13716727.74920691",
+    "judgment": "否",
+    "source": "https://www.hashdex.com/en-US/products/hash11 ; https://www.hashdex.com/en-US/products ; https://www.qrasset.com.br/",
+    "confidence": "中",
+    "explanation": "跟踪CME CF以太坊参考价格指数，纯加密货币现货/期货敞口，不使用期权；公开信息显示主要跟踪数字资产、加密指数或相关策略，未见使用期权构建收益/缓冲/对冲结构。"
+  },
+  {
+    "name": "Ninepoint Barrick Highshares ETF",
+    "ticker": "ABHI",
+    "secid": "F00001SEX5",
+    "aum": "12896011.30630792",
+    "judgment": "是",
+    "source": "https://www.ninepoint.com/funds/ninepoint-enhanced-canadian-highshares-etf/ ; https://1.ninepoint.com/ninepoint-highshares-etfs.html ; https://www.ninepoint.com/performance-sheet-download/en/ninepoint-nvidia-highshares-etf-performance-s-etf",
+    "confidence": "高",
+    "explanation": "Ninepoint HighShares系列产品，对Barrick Gold股票使用covered call策略以增强收入；Ninepoint HighShares官方材料明确说明使用covered calls；NVHI资料还写明持有单一股票并使用covered call策略。"
+  },
+  {
+    "name": "Ninepoint Enbridge Highshares ETF",
+    "ticker": "ENHI",
+    "secid": "F00001SEX9",
+    "aum": "12801766.78950946",
+    "judgment": "是",
+    "source": "https://www.ninepoint.com/funds/ninepoint-enhanced-canadian-highshares-etf/ ; https://1.ninepoint.com/ninepoint-highshares-etfs.html ; https://www.ninepoint.com/performance-sheet-download/en/ninepoint-nvidia-highshares-etf-performance-s-etf",
+    "confidence": "高",
+    "explanation": "Ninepoint HighShares系列产品，对Enbridge股票使用covered call策略以增强收入；Ninepoint HighShares官方材料明确说明使用covered calls；NVHI资料还写明持有单一股票并使用covered call策略。"
+  },
+  {
+    "name": "AltShares Event-Driven ETF",
+    "ticker": "EVNT",
+    "secid": "F0000175EW",
+    "aum": "12352098",
+    "judgment": "否",
+    "source": "https://www.newyorklifeinvestments.com/etf/mna ; https://www.altshares.com/funds/arb/ ; https://www.proshares.com/our-etfs/strategic/mrgr ; https://www.ftportfolios.com/retail/etf/etfsummary.aspx?Ticker=MARB",
+    "confidence": "高",
+    "explanation": "事件驱动多空策略ETF，通过持有股票和债务证券的长空头寸获利，非期权核心策略；公开资料显示核心为并购套利、事件驱动、SPAC/新发行证券等，未见期权为核心构建工具。"
+  },
+  {
+    "name": "Ossiam Global Perspectives ETF 1D € Dis",
+    "ticker": "",
+    "secid": "F00001TKXK",
+    "aum": "11885783.10176318",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "低",
+    "explanation": "主动管理多资产配置ETF，跟踪量化/系统化策略，核心为资产配置而非期权交易（推断）；根据产品名称、管理人、类别和公开检索入口，未见 covered call、put/call writing、FLEX options、buffer、box spread 等期权策略证据。"
+  },
+  {
+    "name": "Ninepoint Bce Highshares ETF",
+    "ticker": "BCHI",
+    "secid": "F00001SEX6",
+    "aum": "11879931.30344556",
+    "judgment": "是",
+    "source": "https://www.ninepoint.com/funds/ninepoint-enhanced-canadian-highshares-etf/ ; https://1.ninepoint.com/ninepoint-highshares-etfs.html ; https://www.ninepoint.com/performance-sheet-download/en/ninepoint-nvidia-highshares-etf-performance-s-etf",
+    "confidence": "高",
+    "explanation": "Ninepoint HighShares系列产品，对BCE股票使用covered call策略以增强收入；Ninepoint HighShares官方材料明确说明使用covered calls；NVHI资料还写明持有单一股票并使用covered call策略。"
+  },
+  {
+    "name": "DCVFMVNMIDCAP ETF",
+    "ticker": "FUEDCMID",
+    "secid": "F00001P8BH",
+    "aum": "11837375.48697075",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "低",
+    "explanation": "被动跟踪越南VN Midcap指数，纯股票指数复制策略，不使用期权；根据产品名称、管理人、类别和公开检索入口，未见 covered call、put/call writing、FLEX options、buffer、box spread 等期权策略证据。"
+  },
+  {
+    "name": "EMPIRICUS TEVA CRIPTOMOEDAS TOP 20 FIIM",
+    "ticker": "CRPT11",
+    "secid": "F00001DVE8",
+    "aum": "11404597.74191641",
+    "judgment": "否",
+    "source": "https://www.hashdex.com/en-US/products/hash11 ; https://www.hashdex.com/en-US/products ; https://www.qrasset.com.br/",
+    "confidence": "中",
+    "explanation": "跟踪Teva加密Top20指数，纯加密货币指数基金，不使用期权；公开信息显示主要跟踪数字资产、加密指数或相关策略，未见使用期权构建收益/缓冲/对冲结构。"
+  },
+  {
+    "name": "TREND IFIX-L FIIM",
+    "ticker": "XFIX11",
+    "secid": "F0000164V2",
+    "aum": "10930766.88144076",
+    "judgment": "否",
+    "source": "https://www.wisdomtree.com/investments/etfs/alternatives/gdt ; https://ci.com/en/investment-solutions/funds/ci-auspice-broad-commodity-fund ; https://www.auspicecapital.com/indices/broad-commodity-index",
+    "confidence": "中",
+    "explanation": "跟踪巴西IFIX房地产基金指数，被动指数复制策略，不使用期权；公开资料显示暴露主要来自商品、利率、黄金/白银或期货指数；未见期权策略说明。"
+  },
+  {
+    "name": "WisdomTree Efficient TIPS Plus Gold Fund",
+    "ticker": "GDT",
+    "secid": "F00001SDZ6",
+    "aum": "10906625",
+    "judgment": "否",
+    "source": "https://www.wisdomtree.com/investments/etfs/alternatives/gdt ; https://ci.com/en/investment-solutions/funds/ci-auspice-broad-commodity-fund ; https://www.auspicecapital.com/indices/broad-commodity-index",
+    "confidence": "中",
+    "explanation": "投资TIPS债券和美国上市黄金期货合约，核心工具为债券和期货，不使用期权；公开资料显示暴露主要来自商品、利率、黄金/白银或期货指数；未见期权策略说明。"
+  },
+  {
+    "name": "HASHDEX NASDAQ SOLANA FIIM",
+    "ticker": "SOLH11",
+    "secid": "F00001P0ZM",
+    "aum": "10673752.8324565",
+    "judgment": "否",
+    "source": "https://www.hashdex.com/en-US/products/hash11 ; https://www.hashdex.com/en-US/products ; https://www.qrasset.com.br/",
+    "confidence": "中",
+    "explanation": "跟踪Nasdaq Solana参考价格指数，纯加密货币敞口，不使用期权；公开信息显示主要跟踪数字资产、加密指数或相关策略，未见使用期权构建收益/缓冲/对冲结构。"
+  },
+  {
+    "name": "Ninepoint Suncor Highshares ETF",
+    "ticker": "SUHI",
+    "secid": "F00001SEXC",
+    "aum": "10551772.87201689",
+    "judgment": "是",
+    "source": "https://www.ninepoint.com/funds/ninepoint-enhanced-canadian-highshares-etf/ ; https://1.ninepoint.com/ninepoint-highshares-etfs.html ; https://www.ninepoint.com/performance-sheet-download/en/ninepoint-nvidia-highshares-etf-performance-s-etf",
+    "confidence": "高",
+    "explanation": "Ninepoint HighShares系列产品，对Suncor Energy股票使用covered call策略以增强收入；Ninepoint HighShares官方材料明确说明使用covered calls；NVHI资料还写明持有单一股票并使用covered call策略。"
+  }
+]

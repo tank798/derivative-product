@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Shinhan S&P500 VIX S/T Futures ETN D",
+    "ticker": "500076",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "该ETN追踪S&P 500 VIX Short-Term Futures Index ER（代码VXXIDSP），通过VIX期货合约滚动展期实现回报。VIX指数本身由S&P 500期权隐含波动率计算，但该产品持有的底层资产是VIX期货，并非期权策略。公开资料明确显示其为期货追踪产品，未涉及任何期权持仓或卖出策略。",
+    "sources_checked": "Yahoo Finance profile (500076.KS), Yahoo Finance performance, TradingView technicals, Shinhan Securities prospectus PDF, Mirae Asset research reports"
+  },
+  {
+    "name": "Shinhan S&P500 VIX S/T Futures ETN E",
+    "ticker": "500095",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "该ETN与500076为同一系列的不同批次，同样追踪S&P 500 VIX Short-Term Futures Index ER。底层资产为VIX期货合约，产品本身不持有或交易期权。Investing.com及Shinhan Securities公开资料显示其通过期货实现VIX波动率敞口，未使用期权策略。",
+    "sources_checked": "Investing.com Q500095 page, Shinhan Securities prospectus PDF, Yahoo Finance"
+  },
+  {
+    "name": "TREND LBMA PRATA FIIM",
+    "ticker": "SLVR11",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "该巴西白银ETF（XP Allocation管理）约99.78%资产投资于SIVR（abrdn Physical Silver Shares ETF）。SIVR为100%实物白银条支持的ETF，底层资产为实物白银，不使用任何期权、期货或其他衍生品。SLVR11本身亦不进行期权策略操作，仅通过持有SIVR份额实现LBMA白银价格追踪。",
+    "sources_checked": "Investing.com SLVR11 holdings, Investor10 SLVR11 page, bestetf.net SIVR vs SLVR comparison, SEC filings on SIVR, public.com SIVR options chain"
+  },
+  {
+    "name": "TREND S&P / B3 DOLAR FIIM",
+    "ticker": "DOLX11",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "该巴西汇率ETF追踪S&P/B3 BRL-USD Futures Index，通过美元和巴西雷亚尔货币期货合约实现合成复制。投资组合持有巴西政府债券（约93.36%）和现金等价物作为抵押品，但通过期货合约获得汇率敞口。公开资料明确说明其使用期货（非期权）追踪指数，未见任何期权策略成分。",
+    "sources_checked": "Investing.com DOLX11 page and holdings, Cbonds.com, Financial Times ETF tearsheet, CNBC quote, S&P Global blog on S&P/B3 BRL-USD Futures Index"
+  }
+]

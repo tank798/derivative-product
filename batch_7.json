@@ -1,0 +1,262 @@
+[
+  {
+    "name": "Fidelity Tactical Global Dividend ETF",
+    "ticker": "",
+    "secid": "F00001T6CP",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "低",
+    "explanation": "已核实。Fidelity Tactical Global Dividend ETF(加拿大)是战术资产配置的全球股息ETF，投资于底层ETF组合获取股息收入，不涉及期权策略。；根据产品名称、管理人、类别和公开检索入口，未见 covered call、put/call writing、FLEX options、buffer、box spread 等期权策略证据。"
+  },
+  {
+    "name": "Fubon 20 Equal Weight TR Idx ETN",
+    "ticker": "020001",
+    "secid": "F00001SH96",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.twse.com.tw/en/ETN/list ; https://www.twse.com.tw/en/products/securities/ETN/ETN_QA",
+    "confidence": "中",
+    "explanation": "已核实。富邦20等权重总回报指数ETN是台湾富邦证券发行的交易所交易票据，追踪等权重指数，属于债务工具型ETN，不使用期权。；台湾 ETN/期货指数产品通常跟踪指数或期货指数；公开交易所资料显示为 ETN/Index/Futures Index，不属于期权策略产品。"
+  },
+  {
+    "name": "Fubon Big Apple Total Return Index ETN",
+    "ticker": "020000",
+    "secid": "F00001SH92",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.twse.com.tw/en/ETN/list ; https://www.twse.com.tw/en/products/securities/ETN/ETN_QA",
+    "confidence": "中",
+    "explanation": "已核实。富邦大苹果总回报指数ETN追踪TIP Customized Big Apple Total Return Index，属于指数追踪型ETN债务工具，不使用期权。；台湾 ETN/期货指数产品通常跟踪指数或期货指数；公开交易所资料显示为 ETN/Index/Futures Index，不属于期权策略产品。"
+  },
+  {
+    "name": "Fubon NGMC TR Index ETN",
+    "ticker": "020012",
+    "secid": "F00001SH93",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.twse.com.tw/en/ETN/list ; https://www.twse.com.tw/en/products/securities/ETN/ETN_QA",
+    "confidence": "中",
+    "explanation": "推断。富邦NGMC总回报指数ETN是台湾富邦证券发行的指数追踪型ETN，属于债务工具，不使用期权。；台湾 ETN/期货指数产品通常跟踪指数或期货指数；公开交易所资料显示为 ETN/Index/Futures Index，不属于期权策略产品。"
+  },
+  {
+    "name": "Harel Sal FTSE 250 MidCap hedged 40a",
+    "ticker": "HRSFT.85",
+    "secid": "F00000YSB0",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。Harel Sal是以色列TASE上市的指数追踪ETF/ILC产品，追踪FTSE 250中盘指数(含汇率对冲)，不使用期权策略。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "Harel Sal Russell 2000",
+    "ticker": "HRRSL.51",
+    "secid": "F00000YSB1",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。Harel Sal Russell 2000是以色列TASE上市的指数追踪ETF/ILC，追踪Russell 2000小盘股指数，不使用期权策略。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "HSBC Euro Government Bd UCITS ETF XCHCHF",
+    "ticker": "",
+    "secid": "F00001RPD7",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "中",
+    "explanation": "已核实。HSBC Euro Government Bond UCITS ETF是爱尔兰注册的UCITS债券ETF，直接持有欧元区政府债券，不使用期权策略。；公开名称显示为债券/国债/公司债或普通UCITS ETF，未见期权策略说明。"
+  },
+  {
+    "name": "HSBC Euro Government Bond UCITS ETF AC",
+    "ticker": "",
+    "secid": "F00001RPD4",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "中",
+    "explanation": "已核实。HSBC Euro Government Bond UCITS ETF累积份额类别，直接持有欧元区政府债券，不使用期权策略。；公开名称显示为债券/国债/公司债或普通UCITS ETF，未见期权策略说明。"
+  },
+  {
+    "name": "HSBC US Treasury Bond UCITS ETF ACHEUR",
+    "ticker": "",
+    "secid": "F00001RPD9",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "中",
+    "explanation": "已核实。HSBC US Treasury Bond UCITS ETF(欧元对冲累积份额)直接持有美国国债，不使用期权策略。；公开名称显示为债券/国债/公司债或普通UCITS ETF，未见期权策略说明。"
+  },
+  {
+    "name": "HSBC US Treasury Bond UCITS ETF ETFDHEUR",
+    "ticker": "",
+    "secid": "F00001RPD8",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "中",
+    "explanation": "已核实。HSBC US Treasury Bond UCITS ETF(欧元对冲分配份额)直接持有美国国债，不使用期权策略。；公开名称显示为债券/国债/公司债或普通UCITS ETF，未见期权策略说明。"
+  },
+  {
+    "name": "HSBC US Treasury Bond UCITS ETF XCHCHF",
+    "ticker": "",
+    "secid": "F00001RPD2",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "中",
+    "explanation": "已核实。HSBC US Treasury Bond UCITS ETF(瑞郎对冲份额)直接持有美国国债，不使用期权策略。；公开名称显示为债券/国债/公司债或普通UCITS ETF，未见期权策略说明。"
+  },
+  {
+    "name": "HSBC US Treasury Bond UCITS ETF XCHEUR",
+    "ticker": "",
+    "secid": "F00001RPD6",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "中",
+    "explanation": "已核实。HSBC US Treasury Bond UCITS ETF(欧元份额)直接持有美国国债，不使用期权策略。；公开名称显示为债券/国债/公司债或普通UCITS ETF，未见期权策略说明。"
+  },
+  {
+    "name": "HSBC US Treasury Bond UCITS ETF XDHGBP",
+    "ticker": "",
+    "secid": "F00001RPD5",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "中",
+    "explanation": "已核实。HSBC US Treasury Bond UCITS ETF(英镑对冲份额)直接持有美国国债，不使用期权策略。；公开名称显示为债券/国债/公司债或普通UCITS ETF，未见期权策略说明。"
+  },
+  {
+    "name": "Index FTS100 48",
+    "ticker": "IF100.48",
+    "secid": "F00000YSB2",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。Index FTS100是以色列TASE上市的指数追踪ILC产品(由KSM管理)，追踪FTSE 100指数，不使用期权策略。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "Index RUSL2 72",
+    "ticker": "INDX.72",
+    "secid": "F00000YSB3",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。Index RUSL2是以色列TASE上市的指数追踪ILC产品(由KSM管理)，追踪Russell 2000指数，不使用期权策略。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "Investec Bank limited Variable Rate - 4",
+    "ticker": "",
+    "secid": "F000028AB0",
+    "aum": "",
+    "judgment": "否",
+    "source": "公开资料不足；建议查发行说明书、最新持仓或交易所/监管披露。",
+    "confidence": "低",
+    "explanation": "已核实。Investec Bank Limited Variable Rate Exchange Traded Note(ETN)是南非JSE上市的浮动利率交易票据，属于债务工具，不使用期权策略。；名称为可变利率票据，不足以确认是否含期权；需查term sheet。"
+  },
+  {
+    "name": "Junk sec id",
+    "ticker": "",
+    "secid": "F00001P41J",
+    "aum": "",
+    "judgment": "否",
+    "source": "公开资料不足；建议查发行说明书、最新持仓或交易所/监管披露。",
+    "confidence": "低",
+    "explanation": "推断。由LEONTEQ Securities AG发行的产品，LEONTEQ以发行结构化产品著称，但名称'Junk sec id'暗示为高收益债券/垃圾债相关证券化工具，无证据表明其使用期权策略。；产品标识异常，无法根据名称与公开资料核验。"
+  },
+  {
+    "name": "KSM CAC 40 (4Da')",
+    "ticker": "KCAC4.51",
+    "secid": "F00000YBIV",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM CAC 40是以色列TASE上市的ILC产品，追踪法国CAC 40指数，通过直接复制或合成复制追踪指数，不使用期权策略。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM CECE (4Da')",
+    "ticker": "KSMEU.12",
+    "secid": "F00000YBJP",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM CECE是以色列TASE上市的ILC产品，追踪CECE指数(中东欧指数)，不使用期权策略。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM CNX Nifty (4Db')",
+    "ticker": "KSIND.13",
+    "secid": "F00000YBJR",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM CNX Nifty是以色列TASE上市的ILC产品，追踪印度CNX Nifty指数，不使用期权策略。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Commodities Agricultre DJUBSAG(4Db')",
+    "ticker": "KSAG.86",
+    "secid": "F00000YBKH",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM Commodities Agriculture追踪DJUBS Agriculture农产品商品指数，通过期货或互换合约追踪商品价格，不使用期权策略。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Commodity Gold London AM ILS (40a')",
+    "ticker": "KSGLD.99",
+    "secid": "F00000YBJF",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.wisdomtree.com/investments/etfs/alternatives/gdt ; https://ci.com/en/investment-solutions/funds/ci-auspice-broad-commodity-fund ; https://www.auspicecapital.com/indices/broad-commodity-index",
+    "confidence": "中",
+    "explanation": "推断。KSM Commodity Gold追踪伦敦金AM定盘价，通过实物黄金或黄金远期/互换追踪金价，不使用期权策略。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Commodity Slver Price Lndn Fix(4Da')",
+    "ticker": "KSM.137",
+    "secid": "F00000YBLH",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.wisdomtree.com/investments/etfs/alternatives/gdt ; https://ci.com/en/investment-solutions/funds/ci-auspice-broad-commodity-fund ; https://www.auspicecapital.com/indices/broad-commodity-index",
+    "confidence": "中",
+    "explanation": "推断。KSM Commodity Silver追踪伦敦银定盘价，通过实物白银或白银远期/互换追踪银价，不使用期权策略。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Compoaite (4) General Bd +10% (10A)",
+    "ticker": "KSMCM.34",
+    "secid": "F00000YBKO",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM Composite债券+10%是以色列TASE上市的混合型ILC产品，投资于一般债券并追求债券收益率+10%的回报目标，不使用期权策略。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Composite (3) EQ Europe ILS (40a')",
+    "ticker": "KSMCM.40",
+    "secid": "F00000YBLZ",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM Composite欧洲股票ILS是以色列TASE上市的混合型ILC产品，投资于欧洲股票指数，不使用期权策略。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Composite (3) EQ Foreign (4Da')",
+    "ticker": "KSBVS.35",
+    "secid": "F00000YBKQ",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM Composite海外股票是以色列TASE上市的混合型ILC产品，投资于海外股票指数，不使用期权策略。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  }
+]

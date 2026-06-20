@@ -1,0 +1,262 @@
+[
+  {
+    "name": "Defiance Nasdaq 100 Trgt 30 Wkly Dis ETF",
+    "ticker": "QQQY",
+    "secid": "F00001GDOP",
+    "aum": "190441266",
+    "judgment": "是",
+    "source": "https://www.defianceetfs.com/qqqy/ ; https://www.sec.gov/Archives/edgar/data/1924868/000138713123010373/qqqy-497k_082623.htm",
+    "confidence": "高",
+    "explanation": "核心策略为纳斯达克100指数看涨期权价差(call spreads)，通过卖出短期期权产生周度分红；Defiance Target 30 Weekly Distribution 系列围绕卖出短期限/0DTE指数期权获取期权权利金并进行月度分配，属于期权收益型产品。"
+  },
+  {
+    "name": "Hamilton Enhanced U.S. Equity DayMAX ETF",
+    "ticker": "SDAY",
+    "secid": "F00001RWFP",
+    "aum": "188160787.8636087",
+    "judgment": "是",
+    "source": "https://hamiltonetfs.com/daymax/ ; https://hamiltonetfs.com/etf/cday/ ; https://hamiltonetfs.com/etf/qday/ ; https://etfgi.com/news/stories/2025/07/hamilton-etfs-launches-daymaxtm-etfs-canadas-first-0dte-etfs",
+    "confidence": "高",
+    "explanation": "DayMAX系列，使用0DTE期权策略（每日卖出看涨期权）配合25%杠杆，期权是核心；Hamilton DayMAX官方材料明确写明通过卖出同日到期(0DTE) call options获取收入。"
+  },
+  {
+    "name": "Unlimited HFGM Global Macro ETF",
+    "ticker": "HFGM",
+    "secid": "F00001GNG3",
+    "aum": "158905157",
+    "judgment": "否",
+    "source": "https://unlimitedetfs.com/hfgm/ ; https://longpointetfs.com/etfs/rgbm ; https://www.proshares.com/our-etfs/strategic/hdg ; https://www.fondsdesjardins.com/etf/global-macro/",
+    "confidence": "低",
+    "explanation": "全球宏观策略，持仓以期货为主（黄金期货、欧元期货、E-mini S&P 500期货等），不使用期权；公开资料主要指向global macro、return stacking、hedge replication或长短仓/期货/衍生品；未确认期权是核心或实际持仓。"
+  },
+  {
+    "name": "Desjardins Market Neutral ETF CA$ Unhdgd",
+    "ticker": "DANC",
+    "secid": "F000011VNM",
+    "aum": "150403212.2795091",
+    "judgment": "否",
+    "source": "https://agfiq.com/etf/btal ; https://www.bmo.com/main/personal/investments/mutual-funds/etf/bmo-long-short-us-equity-etf-zlsu/ ; https://www.firsttrust.ca/Retail/Etf/EtfSummary.aspx?Ticker=FTLS ; https://www.arrow-capital.com/funds/adiv/ ; https://www.desjardins.com/ca/personal/savings-investment/investment-products/exchange-traded-funds/market-neutral-etf/index.jsp",
+    "confidence": "中",
+    "explanation": "市场中性策略，使用股票多空（做多/做空加拿大股票对）和卖空，不使用期权；公开资料显示核心为多空股票、市场中性或低/高Beta配对，不是以期权构建的策略产品。"
+  },
+  {
+    "name": "BMO Long Short US Equity ETF",
+    "ticker": "ZLSU",
+    "secid": "F00001GOGZ",
+    "aum": "144195901.8211743",
+    "judgment": "否",
+    "source": "https://agfiq.com/etf/btal ; https://www.bmo.com/main/personal/investments/mutual-funds/etf/bmo-long-short-us-equity-etf-zlsu/ ; https://www.firsttrust.ca/Retail/Etf/EtfSummary.aspx?Ticker=FTLS ; https://www.arrow-capital.com/funds/adiv/ ; https://www.desjardins.com/ca/personal/savings-investment/investment-products/exchange-traded-funds/market-neutral-etf/index.jsp",
+    "confidence": "中",
+    "explanation": "美股多空策略，做多预期强势股、做空预期弱势股，纯股票多空，不使用期权；公开资料显示核心为多空股票、市场中性或低/高Beta配对，不是以期权构建的策略产品。"
+  },
+  {
+    "name": "Global X Uranium ETF",
+    "ticker": "HURA",
+    "secid": "F000013M4R",
+    "aum": "143256728.3265949",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "中",
+    "explanation": "跟踪Solactive全球铀矿纯玩指数，持有铀矿公司股票，不使用期权；产品名称和公开资料显示为主题指数、资产配置或普通ETF，未见期权策略说明。"
+  },
+  {
+    "name": "Ninepoint Enhanced CA Highshares ETF",
+    "ticker": "ECHI",
+    "secid": "F00001SEXB",
+    "aum": "121165442.0551719",
+    "judgment": "是",
+    "source": "https://www.ninepoint.com/funds/ninepoint-enhanced-canadian-highshares-etf/ ; https://1.ninepoint.com/ninepoint-highshares-etfs.html ; https://www.ninepoint.com/performance-sheet-download/en/ninepoint-nvidia-highshares-etf-performance-s-etf",
+    "confidence": "高",
+    "explanation": "Ninepoint HighShares系列，使用主动covered call期权策略对加拿大蓝筹股产生增强月度收益；Ninepoint HighShares官方材料明确说明使用covered calls；NVHI资料还写明持有单一股票并使用covered call策略。"
+  },
+  {
+    "name": "Mulvihill Canadian Bank Enhanced Y ETF",
+    "ticker": "CBNK",
+    "secid": "F00001H71U",
+    "aum": "120839377.8810207",
+    "judgment": "是",
+    "source": "https://mulvihill.com/fund/cbnk/ ; https://money.tmx.com/en/quote/CBNK",
+    "confidence": "高",
+    "explanation": "投资加拿大六大银行股票，采用主动covered call策略增强收益，并可写作现金担保看跌期权；Mulvihill CBNK 公开材料说明可主动卖出 covered call 及/或 cash-covered put options。"
+  },
+  {
+    "name": "Invesco DB US Dollar Bearish",
+    "ticker": "UDN",
+    "secid": "FOUSA06B4Y",
+    "aum": "117845303",
+    "judgment": "否",
+    "source": "https://www.invesco.com/us/financial-products/etfs/product-detail?productId=ETF-UUP ; https://www.invesco.com/us/financial-products/etfs/product-detail?productId=ETF-UDN ; https://www.wisdomtree.com/investments/etfs/currency/usdu",
+    "confidence": "中",
+    "explanation": "做空美元指数期货，持有美元期货空头合约，不使用期权；公开资料显示主要为美元/货币指数或货币期货暴露，未见期权作为核心策略。"
+  },
+  {
+    "name": "Global X Seasonal Rotation ETF Comm",
+    "ticker": "HAC",
+    "secid": "F000005IRP",
+    "aum": "112325816.3082758",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "中",
+    "explanation": "季节性轮动策略，在股票ETF、商品、货币和现金间轮动配置，不使用期权；产品名称和公开资料显示为主题指数、资产配置或普通ETF，未见期权策略说明。"
+  },
+  {
+    "name": "Ardea Real Outcome Bond Complex ETF",
+    "ticker": "XARO",
+    "secid": "F000011UL1",
+    "aum": "108842659.2797784",
+    "judgment": "是",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "中",
+    "explanation": "澳大利亚债券相对价值策略，利率期权来自RV交易中的附带敞口，非核心策略但存在少量期权；公开名称显示为债券/国债/公司债或普通UCITS ETF，未见期权策略说明。"
+  },
+  {
+    "name": "Federated Hermes MDT Market Neutral ETF",
+    "ticker": "MKTN",
+    "secid": "F00001SEC5",
+    "aum": "104324680",
+    "judgment": "否",
+    "source": "https://agfiq.com/etf/btal ; https://www.bmo.com/main/personal/investments/mutual-funds/etf/bmo-long-short-us-equity-etf-zlsu/ ; https://www.firsttrust.ca/Retail/Etf/EtfSummary.aspx?Ticker=FTLS ; https://www.arrow-capital.com/funds/adiv/ ; https://www.desjardins.com/ca/personal/savings-investment/investment-products/exchange-traded-funds/market-neutral-etf/index.jsp",
+    "confidence": "中",
+    "explanation": "量化股票市场中性策略，持有约395只股票的多空仓位，纯股票多空，不使用期权；公开资料显示核心为多空股票、市场中性或低/高Beta配对，不是以期权构建的策略产品。"
+  },
+  {
+    "name": "AltShares Merger Arbitrage ETF",
+    "ticker": "ARB",
+    "secid": "F00001475M",
+    "aum": "103456885",
+    "judgment": "否",
+    "source": "https://www.newyorklifeinvestments.com/etf/mna ; https://www.altshares.com/funds/arb/ ; https://www.proshares.com/our-etfs/strategic/mrgr ; https://www.ftportfolios.com/retail/etf/etfsummary.aspx?Ticker=MARB",
+    "confidence": "高",
+    "explanation": "全球并购套利策略，做多收购目标、做空收购方，纯股票多空，不使用期权；公开资料显示核心为并购套利、事件驱动、SPAC/新发行证券等，未见期权为核心构建工具。"
+  },
+  {
+    "name": "First Trust Multi-Strat Alt ETF",
+    "ticker": "LALT",
+    "secid": "F00001EOTO",
+    "aum": "101302469",
+    "judgment": "是",
+    "source": "https://www.ftportfolios.com/retail/etf/etfsummary.aspx?Ticker=LALT",
+    "confidence": "低",
+    "explanation": "FOF多策略另类ETF，投资于多种另类策略子基金（包括对冲股票策略可能涉及期权），期权为间接且非核心；First Trust官方说明为多策略另类配置，未在公开摘要中确认期权为实际持仓或核心策略。"
+  },
+  {
+    "name": "Defiance R2000 Target 30 Weekly Dis ETF",
+    "ticker": "IWMY",
+    "secid": "F00001GDOO",
+    "aum": "100340359",
+    "judgment": "是",
+    "source": "https://www.defianceetfs.com/qqqy/ ; https://www.sec.gov/Archives/edgar/data/1924868/000138713123010373/qqqy-497k_082623.htm",
+    "confidence": "高",
+    "explanation": "核心策略为罗素2000指数短期期权卖出策略，通过期权溢价产生周度分红；Defiance Target 30 Weekly Distribution 系列围绕卖出短期限/0DTE指数期权获取期权权利金并进行月度分配，属于期权收益型产品。"
+  },
+  {
+    "name": "QR CME CF BITCOIN REF RATE FIIM",
+    "ticker": "QBTC11",
+    "secid": "F0000186NA",
+    "aum": "90056131.89887884",
+    "judgment": "否",
+    "source": "https://www.hashdex.com/en-US/products/hash11 ; https://www.hashdex.com/en-US/products ; https://www.qrasset.com.br/",
+    "confidence": "中",
+    "explanation": "巴西比特币参考利率ETF，直接持有比特币，不使用期权；公开信息显示主要跟踪数字资产、加密指数或相关策略，未见使用期权构建收益/缓冲/对冲结构。"
+  },
+  {
+    "name": "Evolve Canadian Equity UltraYield ETF",
+    "ticker": "CANY",
+    "secid": "F00001SKV1",
+    "aum": "72338835.73652008",
+    "judgment": "是",
+    "source": "https://evolveetfs.com/product/utes/ ; https://evolveetfs.com/product/easy/ ; https://evolveetfs.com/product/cany/ ; https://evolveetfs.com/product/oily/",
+    "confidence": "高",
+    "explanation": "投资加拿大领先公司，对约50%组合采用covered call期权写作策略并配合适度杠杆；Evolve Enhanced/UltraYield 系列公开材料说明通过主动 covered call 策略或其组合增强收益。"
+  },
+  {
+    "name": "IT NOW BLOOMBERG GALAXY BITCOIN FIIM",
+    "ticker": "BITI11",
+    "secid": "F00001EQY3",
+    "aum": "71809667.19867589",
+    "judgment": "否",
+    "source": "https://www.hashdex.com/en-US/products/hash11 ; https://www.hashdex.com/en-US/products ; https://www.qrasset.com.br/",
+    "confidence": "中",
+    "explanation": "巴西比特币ETF，直接持有比特币，不使用期权；公开信息显示主要跟踪数字资产、加密指数或相关策略，未见使用期权构建收益/缓冲/对冲结构。"
+  },
+  {
+    "name": "Defiance S&P 500 Trgt 30 Wkly Dis ETF",
+    "ticker": "WDTE",
+    "secid": "F00001GDON",
+    "aum": "68555716",
+    "judgment": "是",
+    "source": "https://www.defianceetfs.com/qqqy/ ; https://www.sec.gov/Archives/edgar/data/1924868/000138713123010373/qqqy-497k_082623.htm",
+    "confidence": "高",
+    "explanation": "核心策略为S&P 500指数每日信用看涨期权价差(credit call spreads)，期权是收入核心；Defiance Target 30 Weekly Distribution 系列围绕卖出短期限/0DTE指数期权获取期权权利金并进行月度分配，属于期权收益型产品。"
+  },
+  {
+    "name": "JH Glb IG Crdt Crv Stpnr ETF EUR Acc",
+    "ticker": "TCRS",
+    "secid": "F000015MWB",
+    "aum": "62560113.05730636",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "低",
+    "explanation": "投资级信用曲线陡峭化策略，通过CDS指数头寸和现金抵押品实现，不使用期权；根据产品名称、管理人、类别和公开检索入口，未见 covered call、put/call writing、FLEX options、buffer、box spread 等期权策略证据。"
+  },
+  {
+    "name": "Desjardins Global Macro ETF",
+    "ticker": "DGLM",
+    "secid": "F00001SCA3",
+    "aum": "61812562.88239293",
+    "judgment": "否",
+    "source": "https://unlimitedetfs.com/hfgm/ ; https://longpointetfs.com/etfs/rgbm ; https://www.proshares.com/our-etfs/strategic/hdg ; https://www.fondsdesjardins.com/etf/global-macro/",
+    "confidence": "低",
+    "explanation": "全球宏观对冲策略，通过衍生品（期货、远期、掉期）对全球资产类别做多空配置，不以期权为核心；公开资料主要指向global macro、return stacking、hedge replication或长短仓/期货/衍生品；未确认期权是核心或实际持仓。"
+  },
+  {
+    "name": "BMO Long Short Canadian Equity ETF",
+    "ticker": "ZLSC",
+    "secid": "F00001GOGY",
+    "aum": "54281766.07392035",
+    "judgment": "是",
+    "source": "https://agfiq.com/etf/btal ; https://www.bmo.com/main/personal/investments/mutual-funds/etf/bmo-long-short-us-equity-etf-zlsu/ ; https://www.firsttrust.ca/Retail/Etf/EtfSummary.aspx?Ticker=FTLS ; https://www.arrow-capital.com/funds/adiv/ ; https://www.desjardins.com/ca/personal/savings-investment/investment-products/exchange-traded-funds/market-neutral-etf/index.jsp",
+    "confidence": "中",
+    "explanation": "核心为加拿大股票多空策略，招股书允许使用期权等衍生品对冲或增强收益，但非核心；公开资料显示核心为多空股票、市场中性或低/高Beta配对，不是以期权构建的策略产品。"
+  },
+  {
+    "name": "Brompton Global Equity HighPay ETF",
+    "ticker": "PAYG",
+    "secid": "F000025NDU",
+    "aum": "51674485.6703281",
+    "judgment": "是",
+    "source": "https://www.bromptongroup.com/product/brompton-global-equity-highpay-etf/ ; https://www.bromptongroup.com/coveredcalls/",
+    "confidence": "高",
+    "explanation": "Brompton覆盖式期权ETF系列，通过covered call写作计划配合25%杠杆产生高收入；Brompton PAYG官方页面写明通过dividends、covered calls和主动管理获取高收入。"
+  },
+  {
+    "name": "Evolve All-in-One UltraYield ETF",
+    "ticker": "EASY",
+    "secid": "F00001UJ4M",
+    "aum": "51104380.83652367",
+    "judgment": "是",
+    "source": "https://evolveetfs.com/product/utes/ ; https://evolveetfs.com/product/easy/ ; https://evolveetfs.com/product/cany/ ; https://evolveetfs.com/product/oily/",
+    "confidence": "高",
+    "explanation": "对约50%全球股票组合采用covered call期权策略并配合33%杠杆，期权是收入核心；Evolve Enhanced/UltraYield 系列公开材料说明通过主动 covered call 策略或其组合增强收益。"
+  },
+  {
+    "name": "Amundi US Curve Stpng 2-10 ETF Acc",
+    "ticker": "STPU",
+    "secid": "F000013Z0Q",
+    "aum": "49256040",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "低",
+    "explanation": "美国国债收益率曲线陡峭化策略，通过国债期货/掉期实现，不使用期权；根据产品名称、管理人、类别和公开检索入口，未见 covered call、put/call writing、FLEX options、buffer、box spread 等期权策略证据。"
+  },
+  {
+    "name": "Brompton Split Corp. Enhanced Eq Inc ETF",
+    "ticker": "CLSA",
+    "secid": "F00001Q63B",
+    "aum": "47768635.72936419",
+    "judgment": "否",
+    "source": "https://www.bromptongroup.com/product/brompton-split-corp-preferred-share-etf/ ; https://www.bromptongroup.com/product/brompton-split-corp-enhanced-equity-income-etf/",
+    "confidence": "中",
+    "explanation": "投资加拿大分割公司A类股票组合，提供资本增值和月度分红，不使用期权；Brompton官方页面显示核心是投资split share preferred/class A shares；未见ETF层面直接卖期权作为核心策略。底层split corp可能另有covered call，不等于该ETF为期权策略产品。"
+  }
+]

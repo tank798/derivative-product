@@ -1,0 +1,262 @@
+[
+  {
+    "name": "Urbion Captal ETP Ser 571 NtsDue2045$Acc",
+    "ticker": "XS3255358908",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "中",
+    "reasoning": "Multi-strategy ETP structured note issued by Alveo Wealth Management with active flexible approach combining directional moves, market inefficiencies and volatility strategies. No options strategy confirmed in available materials. Core instruments are likely fixed income and multi-asset exposure.",
+    "sources_checked": "finanzen.ch ISIN lookup"
+  },
+  {
+    "name": "Virtus AlphaSimplex Global Macro ETF",
+    "ticker": "ASGM",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Prospectus clearly states fund does NOT list options as a principal investment strategy. Two-sleeve approach uses futures contracts (equity, fixed income, currency, commodity), forward contracts, and swap agreements. No direct options-writing or options-trading strategy.",
+    "sources_checked": "virtus.com prospectus, SEC EDGAR filings, Nasdaq press release"
+  },
+  {
+    "name": "Harvest Balanced Income & Growth Enh ETF",
+    "ticker": "HBIE",
+    "original_judgment": "是",
+    "verified_judgment": "是",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Fund invests up to 75% of net assets in underlying ETFs that use covered call strategies. The portfolio targets 60% equity income ETFs and 40% fixed income ETFs with covered calls applied on select ETFs. Monthly distributions of $0.20 CAD partly funded by option premiums.",
+    "sources_checked": "harvestportfolios.com/etf/hbie/, Businesswire launch announcement, Wealth Professional Canada"
+  },
+  {
+    "name": "SPAC and New Issue ETF",
+    "ticker": "SPCK",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Actively managed long-only ETF investing at least 80% in SPACs and recent IPOs. No options strategy described in prospectus. Core strategy is holding SPAC units/shares and IPO stocks. May sell warrants from SPAC units but no options trading.",
+    "sources_checked": "SEC EDGAR filings (Form 497), schwab.com, marketchameleon.com"
+  },
+  {
+    "name": "Listed Idx MSCI JPEq HiDiv LowVltl BetaH",
+    "ticker": "1490",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "中",
+    "reasoning": "Japanese listed ETF tracking MSCI Japan High Dividend Low Volatility index with beta hedging. Beta hedge typically implemented via futures contracts not options. No evidence of options strategy found in available materials.",
+    "sources_checked": "amova-am.com product page, pyinvesting.com"
+  },
+  {
+    "name": "First Trust Long/Short Equity ETF",
+    "ticker": "FTLS",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Systematic long/short equity fund using direct equity shorts and index futures (E-mini S&P 500, E-mini Nasdaq 100). Prospectus does not describe options strategy. No options-writing or options-trading as principal strategy. Uses Sabrient/Gradient EQR model for stock selection.",
+    "sources_checked": "ftportfolios.com, SEC EDGAR 497K filing, schwab.com, etfrc.com"
+  },
+  {
+    "name": "Purpose Tactical Hedged Eq ETF (N-C Hdg)",
+    "ticker": "PHE.B",
+    "original_judgment": "是",
+    "verified_judgment": "是",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Fund uses derivatives including options, futures, and swaps for tactical hedging. Official materials state 'options-based hedging strategy' to reduce downside risk. Co-managed by Neuberger Berman Canada. Hedging is active and dynamic.",
+    "sources_checked": "purposeinvest.com, Seeking Alpha, TradingView"
+  },
+  {
+    "name": "Ninepoint Kinross Gold HighShares ETF",
+    "ticker": "KGHI",
+    "original_judgment": "是",
+    "verified_judgment": "是",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Single-stock covered call ETF exclusively holding Kinross Gold. Writes covered call options on up to 50% of portfolio securities with up to 33% leverage. Monthly distributions of $0.20 CAD. Part of Ninepoint HighShares suite.",
+    "sources_checked": "ninepoint.com, Globe and Mail, stockanalysis.com, Ultumus Insights"
+  },
+  {
+    "name": "First Trust FactorFX ETF A USD",
+    "ticker": "FTFX",
+    "original_judgment": "否",
+    "verified_judgment": "是",
+    "agreement": "不一致",
+    "confidence": "中",
+    "reasoning": "Fund prospectus lists options (including options on futures) as approved derivatives alongside forwards and swaps. Uses call options for upside exposure/hedging, put options for downside hedging, and options for volatility positioning. Core FX factor strategy uses forwards primarily but options are explicitly part of the toolkit.",
+    "sources_checked": "justetf.com, etfstrategy.com, First Trust prospectus documents"
+  },
+  {
+    "name": "Accelerate Canadian Long Short Equity Fd",
+    "ticker": "ATSX",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "150/50 active extension long-short equity fund. May use derivatives (primarily futures contracts) for leverage and execution. No options strategy mentioned in principal strategies. Systematic multi-factor model ranks stocks for long/short baskets.",
+    "sources_checked": "accelerateshares.com, prospectus filings, TipRanks"
+  },
+  {
+    "name": "Yuanta S&P US Dollar ER Futures ETF",
+    "ticker": "00682U",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "中",
+    "reasoning": "Taiwan listed ETF tracking S&P US Dollar Index futures (DXY futures). Core instrument is USD futures contracts. No options strategy described. Name explicitly states 'Futures ETF', not options-based.",
+    "sources_checked": "yuantafutures.com.tw"
+  },
+  {
+    "name": "Ninepoint Constellation Sftwr HghShrsETF",
+    "ticker": "CSHI",
+    "original_judgment": "是",
+    "verified_judgment": "是",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Single-stock covered call ETF exclusively holding Constellation Software (CSU). Writes covered call options on up to 50% of NAV with up to 33% leverage. Monthly distributions. Part of Ninepoint HighShares series.",
+    "sources_checked": "ninepoint.com, Globe and Mail, ainvest.com, Business Insider"
+  },
+  {
+    "name": "Mackenzie Canadian High Div Yield ETF",
+    "ticker": "MHDC",
+    "original_judgment": "是",
+    "verified_judgment": "是",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Actively managed fund writing put and call options on individual securities and indexes on up to 30% of assets. Uses 'flexible option writing' for premium income. Also employs leverage up to 50% of NAV. Systematic rules-based selection of 40-60 Canadian high-dividend companies.",
+    "sources_checked": "mackenzieinvestments.com, AiF News, TSX bulletin"
+  },
+  {
+    "name": "ForAll Core & More U.S. Equity Index ETF",
+    "ticker": "FORU",
+    "original_judgment": "是",
+    "verified_judgment": "否",
+    "agreement": "不一致",
+    "confidence": "高",
+    "reasoning": "Dynamic U.S. equity index ETF rotating between three states based on volatility/trend signals: Aggressive (2x leveraged ETFs), Moderate (gold), Defensive (VIX/volatility products). Uses leveraged ETFs and volatility products, NOT direct options. No options strategy described in product materials.",
+    "sources_checked": "longpointetfs.com, Cboe Canada press release, Advisor Analyst, Yahoo Finance"
+  },
+  {
+    "name": "Mackenzie US High Dividend Yield ETF",
+    "ticker": "MHDU",
+    "original_judgment": "是",
+    "verified_judgment": "是",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Writes put and/or call options on individual securities and indexes for premium income. Uses 'flexible option writing' on up to 30% of assets. Also employs cash leverage up to 50% of NAV. Systematic selection of 40-60 US high-dividend companies.",
+    "sources_checked": "mackenzieinvestments.com, AiF News, TSX bulletin, Globe and Mail"
+  },
+  {
+    "name": "B VISTA VETTAFI NEOS BOOST BTC HI FIIM",
+    "ticker": "XBCI11",
+    "original_judgment": "是",
+    "verified_judgment": "是",
+    "agreement": "一致",
+    "confidence": "中",
+    "reasoning": "Brazilian FIIM (Fundo de Investimento em Indice de Mercado) based on NEOS Boosted Bitcoin High Income strategy. NEOS US version (XBCI) uses synthetic covered call strategy on Bitcoin to generate monthly income. Name strongly indicates same strategy structure. Limited direct Brazilian documentation found.",
+    "sources_checked": "neosfunds.com/xbci/, ETFdb.com"
+  },
+  {
+    "name": "Simplify Tax Aware Alternatives ETF",
+    "ticker": "LQ",
+    "original_judgment": "是",
+    "verified_judgment": "是",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Multi-strategy alternatives ETF using options (including option writing/macro strategies), futures, forwards, and swaps. Simplify is known for options-based strategies. Fund also invests in underlying Simplify ETFs that use options strategies. Swap structure for tax efficiency.",
+    "sources_checked": "simplify.us, SEC EDGAR filings, Barchart, Benzinga, Schwab"
+  },
+  {
+    "name": "Ninepoint Intel HighShares ETF",
+    "ticker": "INHI",
+    "original_judgment": "是",
+    "verified_judgment": "是",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Single-stock covered call ETF exclusively holding Intel (INTC). Writes covered call options on up to 50% of NAV with up to 33% leverage. Monthly distributions. Part of Ninepoint HighShares series.",
+    "sources_checked": "ninepoint.com, Globe and Mail, stockanalysis.com, TipRanks"
+  },
+  {
+    "name": "iShares U.S. Aerospace & Dfnc ETF USDAcc",
+    "ticker": "DFCU",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "中",
+    "reasoning": "Passive UCITS ETF tracking Dow Jones U.S. Aerospace & Defense index. iShares UCITS ETFs are typically standard index trackers. No options strategy. Standard equity index replication.",
+    "sources_checked": "ishares.com product page"
+  },
+  {
+    "name": "HASHDEX CRYPTO MOMENTUM FIIM",
+    "ticker": "FOMO11",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "中",
+    "reasoning": "Physically backed Brazilian ETF tracking Vinter Hashdex Risk-Parity Momentum Index. Invests directly in top 12 crypto assets weighted by momentum. No options or derivatives strategy. B3 operational manual confirms physically backed structure.",
+    "sources_checked": "B3 operational manual PDF, Bitget News, Bloomberg"
+  },
+  {
+    "name": "Ninepoint Celestica HighShares ETF",
+    "ticker": "CLHI",
+    "original_judgment": "是",
+    "verified_judgment": "是",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Single-stock covered call ETF exclusively holding Celestica (CLS). Writes covered call options on up to 50% of NAV with up to 33% leverage. Monthly distributions of $0.21 CAD. Part of Ninepoint HighShares series.",
+    "sources_checked": "ninepoint.com, Globe and Mail, ainvest.com, Ultumus Insights"
+  },
+  {
+    "name": "OSSIAM SHILLER BARCLAYS CAPE US MNETF1C$",
+    "ticker": "",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Synthetic replication UCITS ETF using total return swaps (TRS) to track Shiller Barclays CAPE US Sector Value Index. CAPE-based sector rotation strategy - selects 4 undervalued sectors monthly. Long-only, not market neutral. No options involved.",
+    "sources_checked": "etfstream.com, etfgi.com, citywire.com, selma.com"
+  },
+  {
+    "name": "Pacer Swan SOS Moderate (March) ETF",
+    "ticker": "MMAR",
+    "original_judgment": "是",
+    "verified_judgment": "是",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Uses FLEX Options on SPY to provide defined outcome strategy with 15% downside buffer and upside cap. Structured outcome strategy implemented via customized put and call FLEX options. Resets annually in March. Managed by Swan Global Investments.",
+    "sources_checked": "paceretfs.com, SEC EDGAR filings, bestetf.net"
+  },
+  {
+    "name": "Pacer Swan SOS Moderate (December) ETF",
+    "ticker": "MDCR",
+    "original_judgment": "是",
+    "verified_judgment": "是",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Uses FLEX Options on SPY with 15% buffer and upside cap. Resets annually in December. Part of Pacer Swan SOS Moderate series. Purchases put and call FLEX options on SPY at each reset to create defined outcome zones.",
+    "sources_checked": "paceretfs.com, etfstrategy.com, SEC EDGAR, Seeking Alpha"
+  },
+  {
+    "name": "Pacer Swan SOS Moderate (September) ETF",
+    "ticker": "MSEP",
+    "original_judgment": "是",
+    "verified_judgment": "是",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Uses FLEX Options on SPY with 15% buffer and upside cap. Resets annually in September. Part of Pacer Swan SOS Moderate series. Pacer prospectus confirms FLEX Options-based structured outcome strategy across all monthly series.",
+    "sources_checked": "paceretfs.com prospectus PDF, bestetf.net"
+  },
+  {
+    "name": "Ninepoint Tesla HighShares ETF",
+    "ticker": "TSHI",
+    "original_judgment": "是",
+    "verified_judgment": "是",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Single-stock covered call ETF exclusively holding Tesla (TSLA). Writes covered call options on up to 50% of NAV with up to 33% leverage. Monthly distributions of $0.265 CAD. Part of Ninepoint HighShares series.",
+    "sources_checked": "ninepoint.com, Globe and Mail, stockanalysis.com, TipRanks"
+  }
+]

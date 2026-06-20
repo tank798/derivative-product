@@ -1,0 +1,262 @@
+[
+  {
+    "name": "KSM Composite (3) EQ USA ILS (40a')",
+    "ticker": "KSMCM.39",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM Composite EQ USA ILS is a passively managed index-linked certificate (ILC) tracking US equities, listed on TASE. Part of KSM's Composite family of index tracker products using physical replication. No options strategy (no covered calls, puts, spreads, or any option-based components).",
+    "sources_checked": "market.tase.co.il; investing.com KSM ETF products; globes.co.il KSM product listings; tipranks.com KSM ETF profiles; fintel.io KSM product data; Mondovisione news on KSM index licensing"
+  },
+  {
+    "name": "KSM Composite (4) General Bond+5% (10A)",
+    "ticker": "KSMCM.36",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM Composite General Bond+5% is a passively managed index-linked certificate (ILC) tracking Israeli general bond indices with a +5% target return structure. Part of KSM's Composite bond family. Holds a portfolio of Israeli bonds directly. No options strategy whatsoever.",
+    "sources_checked": "market.tase.co.il; investing.com KSM ETF products; globes.co.il KSM product listings; tipranks.com KSM bond ETF profiles"
+  },
+  {
+    "name": "KSM Composite (4) Gov.Bond+10% (10A)",
+    "ticker": "KSMCM.32",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM Composite Government Bond+10% is a passively managed ILC tracking Israeli government bond indices with a +10% target. Directly holds Israeli government bonds. No options strategy - pure passive bond index tracking product.",
+    "sources_checked": "market.tase.co.il; investing.com KSM ETF products; globes.co.il KSM product listings; tipranks.com KSM government bond ETF profiles"
+  },
+  {
+    "name": "KSM Composite (5) General Bd+20% (2Aa')",
+    "ticker": "KSMCM.37",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM Composite General Bond+20% is a passively managed ILC tracking Israeli general bond indices with a +20% target. Directly holds Israeli bonds. No options strategy - part of KSM's standard bond index tracker family.",
+    "sources_checked": "market.tase.co.il; investing.com KSM ETF products; globes.co.il KSM product listings; tipranks.com KSM bond ETF profiles"
+  },
+  {
+    "name": "KSM Composite (6) General Bd+35% (3Aa')",
+    "ticker": "KSMCM.33",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM Composite General Bond+35% is a passively managed ILC tracking Israeli general bond indices with a +35% target. Directly holds Israeli bonds. No options strategy - standard passive bond index tracker.",
+    "sources_checked": "market.tase.co.il; investing.com KSM ETF products; globes.co.il KSM product listings; tipranks.com KSM bond ETF profiles"
+  },
+  {
+    "name": "KSM Composite(3) MidCap Developed(4Da')",
+    "ticker": "KSMS.43",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM Composite MidCap Developed is a passively managed ILC tracking developed market mid-cap equity indices. Pure equity index tracker with physical replication. No options strategy - no covered calls, puts, or any option-based components.",
+    "sources_checked": "market.tase.co.il; investing.com KSM ETF products; globes.co.il KSM product listings; KSM equity index tracker profiles on financial data sites"
+  },
+  {
+    "name": "KSM Composite(3)EQ Nrth Amrica ILS(40a')",
+    "ticker": "KSMCM.38",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM Composite North America EQ ILS is a passively managed ILC tracking North American equity indices. Pure equity index tracker with physical replication of North American stocks. No options strategy.",
+    "sources_checked": "market.tase.co.il; investing.com KSM ETF products; globes.co.il KSM product listings; interactivebrokers.com KSM product listings"
+  },
+  {
+    "name": "KSM Composite(3)MidCap Dev ILS(40a')",
+    "ticker": "KSMD.41",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM Composite MidCap Developed ILS is a passively managed ILC tracking developed market mid-cap equity indices, denominated in ILS. Pure index tracker using physical replication. No options strategy.",
+    "sources_checked": "market.tase.co.il; investing.com KSM ETF products; globes.co.il KSM product listings; KSM equity tracker product data"
+  },
+  {
+    "name": "KSM Composite(6)Gnl Bd(80%)EQ(20%)(2Ba')",
+    "ticker": "K80/20.4",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM Composite 80% Bond/20% Equity is a passively managed asset allocation ILC holding 80% Israeli general bonds and 20% equities directly. Fixed allocation balanced product, similar to KSM.F149 (Composite Gov Bond 80% / Equity 20%). No options or derivative overlay strategy.",
+    "sources_checked": "market.tase.co.il; tipranks.com KSM.F149 profile; investing.com KSM balanced ETF profiles; globes.co.il KSM product listings; fintel.io KSM.F149 data"
+  },
+  {
+    "name": "KSM Composite(6)Gnl Bd(90%)EQ(10%)(1Aa')",
+    "ticker": "K90/10.3",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM Composite 90% Bond/10% Equity is a passively managed asset allocation ILC holding 90% Israeli general bonds and 10% equities directly. Similar to KSM.F88 (Composite Gen Bond 90% / Israel Equity 10%). No options strategy - pure passive balanced tracker.",
+    "sources_checked": "market.tase.co.il; tipranks.com KSM.F88 profile; investing.com KSM balanced ETF profiles; globes.co.il KSM product listings"
+  },
+  {
+    "name": "KSM CPI Linkd Gov Bds 5-10 ys sr A1(000)",
+    "ticker": "KSGLL.56",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM CPI Linked Government Bonds 5-10 Years is a passively managed bond ILC tracking Israeli CPI-linked government bonds with 5-10 year maturities. Directly holds CPI-linked government bonds. No options strategy - pure fixed income index tracker. Similar to KSM.F62/KSMF62 listed on investing.com.",
+    "sources_checked": "market.tase.co.il; investing.com KSMF62 CPI Linked Gov Bonds 5-10 Years profile; fintel.io KSM.F35/KSGF62 bond ETF data; globes.co.il KSM product listings"
+  },
+  {
+    "name": "KSM CPI Linkd Gov Bds 5-10 ys sr A2(000)",
+    "ticker": "KSMBL.11",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM CPI Linked Government Bonds 5-10 Years (A2 series) is a passively managed bond ILC, same underlying CPI-linked government bond index as the A1 series but different share class. Directly holds CPI-linked government bonds. No options strategy.",
+    "sources_checked": "market.tase.co.il; investing.com KSM CPI-linked gov bond profiles; fintel.io KSM CPI bond ETF data; globes.co.il KSM product listings"
+  },
+  {
+    "name": "KSM CPI Linked Gov Bonds (000)",
+    "ticker": "KSGLL.83",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM CPI Linked Government Bonds is a passively managed bond ILC tracking Israeli CPI-linked government bonds across all maturities. Directly holds CPI-linked government bonds. No options strategy - standard passive bond index tracker.",
+    "sources_checked": "market.tase.co.il; investing.com KSM CPI-linked gov bond profiles; fintel.io KSM CPI bond ETF data; globes.co.il KSM product listings"
+  },
+  {
+    "name": "KSM CPI Linked Gov Bonds 0-2 years (000)",
+    "ticker": "KSGLL.54",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM CPI Linked Government Bonds 0-2 Years is a short-term passively managed bond ILC tracking CPI-linked government bonds with 0-2 year maturities. Similar to KSM.F35 (CPI-Linked Gov Bonds 0-2 Years) listed on TASE. Directly holds short-term CPI-linked government bonds. No options strategy.",
+    "sources_checked": "market.tase.co.il; investing.com KSMF35 CPI-Linked Gov Bonds 0-2 Years profile; fintel.io KSM.F35 bond ETF data; globes.co.il KSM product listings"
+  },
+  {
+    "name": "KSM CPI Linked Gov Bonds 2-5 years (00A)",
+    "ticker": "KSGLL.55",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM CPI Linked Government Bonds 2-5 Years is a medium-term passively managed bond ILC tracking CPI-linked government bonds with 2-5 year maturities. Similar to KSM.F36 (CPI-Linked Gov Bonds 2-5 Years) listed on TASE. Directly holds CPI-linked government bonds. No options strategy.",
+    "sources_checked": "market.tase.co.il; investing.com KSMF36 CPI-Linked Gov Bonds 2-5 Years profile; fintel.io KSM.F36 bond ETF data; globes.co.il KSM product listings"
+  },
+  {
+    "name": "KSM Cpt(8)Bd(85%)EQ Israel-Fgn ILS(20a')",
+    "ticker": "KSPMD.42",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM Composite 85% Bond / 15% Israel-Foreign Equity ILS is a passively managed asset allocation ILC holding 85% bonds and 15% equities (mix of Israeli and foreign stocks). Similar to KSM's other balanced Composite products. Directly holds bonds and equities. No options strategy or derivative overlay.",
+    "sources_checked": "market.tase.co.il; investing.com KSM balanced ETF profiles; globes.co.il KSM product listings; KSM product category analysis"
+  },
+  {
+    "name": "KSM Dax 30 (GTR) ILS (40a')",
+    "ticker": "KSM.110D",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM DAX 30 (GTR) ILS is a passively managed ILC tracking the German DAX 30 Gross Total Return index. Pure international equity index tracker providing Israeli investors with DAX exposure. No options strategy - standard index tracking product.",
+    "sources_checked": "market.tase.co.il; investing.com KSM international equity ETF profiles; globes.co.il KSM product listings; interactivebrokers.com KSM ETF listings"
+  },
+  {
+    "name": "KSM DAX Global BRIC (NTR) ILS (40a')",
+    "ticker": "KSM.131",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM DAX Global BRIC (NTR) ILS is a passively managed ILC tracking the DAX Global BRIC Net Total Return index (Brazil, Russia, India, China equities). Pure emerging market equity index tracker. No options strategy.",
+    "sources_checked": "market.tase.co.il; investing.com KSM international equity ETF profiles; globes.co.il KSM product listings; KSM BRIC tracker product data"
+  },
+  {
+    "name": "KSM Deposite ILS Series3 (00A)",
+    "ticker": "KSMCR.D3",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM Deposit ILS Series3 is a passively managed ILC tracking Israeli deposit/interest rates. Essentially a cash-equivalent tracker product holding deposits or tracking short-term interest rates. No options strategy whatsoever.",
+    "sources_checked": "market.tase.co.il; investing.com KSM ETF products; globes.co.il KSM product listings; KSM deposit product category analysis"
+  },
+  {
+    "name": "KSM DJ Consumer Israel (GTR) (40A)",
+    "ticker": "KDJI.117",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM Dow Jones Consumer Israel (GTR) is a passively managed ILC tracking the Dow Jones Israel Consumer Sector Gross Total Return index. Sector equity index tracker licensed from S&P Dow Jones Indices. No options strategy - pure sector index tracker.",
+    "sources_checked": "market.tase.co.il; Mondovisione news on Dow Jones/KSM index licensing; globes.co.il KSM product listings; investing.com KSM DJ sector ETF profiles"
+  },
+  {
+    "name": "KSM DJ Industrial Average (4Da')",
+    "ticker": "KDJNS.37",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM Dow Jones Industrial Average is a passively managed ILC tracking the Dow Jones Industrial Average (DJIA). TASE ticker KSM.F78. Pure US blue-chip equity index tracker. No options strategy.",
+    "sources_checked": "market.tase.co.il; investing.com KSM.F78 profile; tipranks.com KSM Dow Jones ETF data; globes.co.il KSM product listings"
+  },
+  {
+    "name": "KSM DJ Internet Composite(NTR) ILS(40a')",
+    "ticker": "KDJI.165",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM Dow Jones Internet Composite (NTR) ILS is a passively managed ILC tracking the Dow Jones Internet Composite Net Total Return index. Sector equity index tracker. No options strategy.",
+    "sources_checked": "market.tase.co.il; investing.com KSM DJ sector ETF profiles; globes.co.il KSM product listings; KSM DJ index tracker product data"
+  },
+  {
+    "name": "KSM DJ Oil and Gas Israel (GTR) (40A)",
+    "ticker": "KDJI.118",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM Dow Jones Oil and Gas Israel (GTR) is a passively managed ILC tracking the Dow Jones Israel Oil & Gas Sector Gross Total Return index. Sector equity index tracker licensed from S&P Dow Jones Indices. No options strategy - pure sector index tracker.",
+    "sources_checked": "market.tase.co.il; Mondovisione news on Dow Jones/KSM index licensing; globes.co.il KSM product listings; investing.com KSM DJ sector ETF profiles"
+  },
+  {
+    "name": "KSM DJ US Select Dividend (4Da')",
+    "ticker": "KSDJD.42",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM Dow Jones US Select Dividend is a passively managed ILC tracking the Dow Jones U.S. Select Dividend index. Tracks high-dividend US stocks. Pure equity dividend index tracker. No options strategy.",
+    "sources_checked": "market.tase.co.il; investing.com KSM DJ dividend ETF profiles; globes.co.il KSM product listings; S&P DJI index information; KSM dividend tracker product data"
+  },
+  {
+    "name": "KSM EURO STOXX 50 (4Da')",
+    "ticker": "KER50.35",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM EURO STOXX 50 is a passively managed ILC tracking the EURO STOXX 50 index (eurozone blue-chip equities). TASE ticker KSM.F76. Pure European equity index tracker. No options strategy.",
+    "sources_checked": "market.tase.co.il; Bloomberg KSMF76 profile; investing.com KSM European equity ETF profiles; globes.co.il KSM product listings"
+  },
+  {
+    "name": "KSM EURO STOXX Select Dividend 30 (4Da')",
+    "ticker": "KSD3E.43",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM EURO STOXX Select Dividend 30 is a passively managed ILC tracking the EURO STOXX Select Dividend 30 index. Tracks high-dividend European stocks. Pure dividend equity index tracker. No options strategy.",
+    "sources_checked": "market.tase.co.il; investing.com KSM European dividend ETF profiles; globes.co.il KSM product listings; KSM dividend tracker product data"
+  }
+]

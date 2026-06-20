@@ -1,0 +1,262 @@
+[
+  {
+    "name": "KSM FTSE 100 (4Da')",
+    "ticker": "KSM.2FT",
+    "secid": "F00000YBJH",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM FTSE 100是以色列TASE上市的ILC产品，追踪英国FTSE 100指数，不使用期权策略。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM FTSE 100 ILS (40a')",
+    "ticker": "KFTS.164",
+    "secid": "F00000YBMD",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM FTSE 100 ILS是以色列TASE上市的ILC产品，追踪英国FTSE 100指数(ILS计价)，不使用期权策略。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM FTSE 250 MidCap (NTR) ILS (40a')",
+    "ticker": "KMCP.163",
+    "secid": "F00000YBMB",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM FTSE 250 MidCap是以色列TASE上市的ILC产品，追踪英国FTSE 250中盘股净收益指数，不使用期权策略。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM FTSE China 25 (4Da')",
+    "ticker": "KSM.5CHN",
+    "secid": "F00000YBJJ",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM FTSE China 25是以色列TASE上市的ILC产品，追踪富时中国25指数，不使用期权策略。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Future ICE CO1 ILS (40a')",
+    "ticker": "KOIL.100",
+    "secid": "F00000YBKK",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.wisdomtree.com/investments/etfs/alternatives/gdt ; https://ci.com/en/investment-solutions/funds/ci-auspice-broad-commodity-fund ; https://www.auspicecapital.com/indices/broad-commodity-index",
+    "confidence": "中",
+    "explanation": "推断。KSM Future ICE CO1是以色列TASE上市的商品期货ILC产品，通过持有ICE原油期货合约追踪原油价格，使用期货而非期权。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Future NYMEX NG1 (4Da')",
+    "ticker": "KGAS.117",
+    "secid": "F00000YBL3",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.wisdomtree.com/investments/etfs/alternatives/gdt ; https://ci.com/en/investment-solutions/funds/ci-auspice-broad-commodity-fund ; https://www.auspicecapital.com/indices/broad-commodity-index",
+    "confidence": "中",
+    "explanation": "推断。KSM Future NYMEX NG1是以色列TASE上市的商品期货ILC产品，通过持有NYMEX天然气期货合约追踪天然气价格，使用期货而非期权。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM General Gov.Bond (000)",
+    "ticker": "KBNDG.89",
+    "secid": "F00000YBKL",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM General Government Bond是以色列TASE上市的政府债券ILC产品，直接持有以色列一般政府债券，不使用期权。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM HSCEI ILS (40a')",
+    "ticker": "KHSCE.92",
+    "secid": "F00000YBKR",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM HSCEI是以色列TASE上市的ILC产品，追踪恒生中国企业指数(H股指数)，不使用期权策略。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Ibovespa (GTR) (4Da')",
+    "ticker": "KBVSP.50",
+    "secid": "F00000YBIS",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM Ibovespa是以色列TASE上市的ILC产品，追踪巴西Ibovespa全收益指数，不使用期权策略。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM iBoxx $ Liquid High Yield(GTR)(0Da')",
+    "ticker": "KSIBX.34",
+    "secid": "F00000YBII",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM iBoxx USD Liquid High Yield是以色列TASE上市的债券指数ILC产品，追踪iBoxx美元高收益债券指数，直接持有债券或合成复制，不使用期权。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM iBoxx Euro Liq Corp (0Da')",
+    "ticker": "KSCO.127",
+    "secid": "F00000YBLD",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM iBoxx Euro Liquid Corp是以色列TASE上市的债券指数ILC产品，追踪iBoxx欧元流动性公司债指数，不使用期权。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM iBoxx USD Liq Invest Grd Tp 30(0Da')",
+    "ticker": "KSTP.128",
+    "secid": "F00000YBLC",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM iBoxx USD Liquid Investment Grade是以色列TASE上市的债券指数ILC产品，追踪iBoxx美元投资级债券指数，不使用期权。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Insurance Sector (40A)",
+    "ticker": "KSBT.60",
+    "secid": "F00000YBIW",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM Insurance Sector是以色列TASE上市的行业指数ILC产品，追踪以色列保险行业指数，不使用期权策略。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Kospi 200 (4Db')",
+    "ticker": "KSMKR.15",
+    "secid": "F00000YBJT",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM Kospi 200是以色列TASE上市的ILC产品，追踪韩国KOSPI 200指数，不使用期权策略。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Mid Cap MDAX (GTR) (4Da')",
+    "ticker": "KMDX.151",
+    "secid": "F00000YBM2",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪德国MDAX指数，采用实物复制或互换方式，不涉及期权策略；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Mid Cap MDAX (GTR) ILS (40a')",
+    "ticker": "KMDX.152",
+    "secid": "F00000YBM3",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪MDAX指数ILS对冲份额，实物复制或互换，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Mid-Cap 50 (40A)",
+    "ticker": "KSM.YT6",
+    "secid": "F00000YBJK",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪以色列中盘50指数，实物复制，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Morningstar Wide Moat (4Da')",
+    "ticker": "KSMO.142",
+    "secid": "F00000YBLS",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪Morningstar宽护城河指数，实物持有成份股，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM MSCI AC World (NTR) (4Da')",
+    "ticker": "KALC.101",
+    "secid": "F00000YBKP",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪MSCI全球指数，实物复制或互换方式，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM MSCI Brazil (4Da')",
+    "ticker": "K.MSCI24",
+    "secid": "F00000YBK3",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪MSCI巴西指数，实物复制或互换，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM MSCI China (4Da')",
+    "ticker": "K.MSCI27",
+    "secid": "F00000YBK7",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪MSCI中国指数，实物复制或互换，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM MSCI East Europe (4Da')",
+    "ticker": "K.MXME23",
+    "secid": "F00000YBK1",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪MSCI东欧指数，实物复制或互换，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM MSCI Emerging Markets (4Da')",
+    "ticker": "K.MXEF19",
+    "secid": "F00000YBJY",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪MSCI新兴市场指数，实物复制或互换，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM MSCI Emerging Markets ILS (40a')",
+    "ticker": "KSM.111E",
+    "secid": "F00000YBL0",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪MSCI新兴市场ILS对冲份额，实物复制或互换，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM MSCI Europe (4Da')",
+    "ticker": "K.MXEU22",
+    "secid": "F00000YBK2",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪MSCI欧洲指数，实物复制或互换，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM MSCI Fat East Ex Japan (4Da')",
+    "ticker": "K.MXFE20",
+    "secid": "F00000YBK0",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪MSCI远东(除日本)指数，实物复制或互换，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  }
+]

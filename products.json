@@ -1,0 +1,3682 @@
+[
+  {
+    "name": "iShares Systematic Alternatives Actv ETF",
+    "ticker": "IALT",
+    "secid": "F00001T734",
+    "aum": "4608837043",
+    "judgment": "是",
+    "source": "https://www.sec.gov/Archives/edgar/data/1761055/000119312525277298/d85910d497k.htm",
+    "confidence": "中",
+    "explanation": "多策略另类ETF，组合股票、信用、宏观策略，可能通过子策略间接使用期权，但期权非核心；iShares招募说明书列明可投资options、options on futures/swaps等衍生品，且衍生品可能较大；但产品不是以期权策略为核心卖点。"
+  },
+  {
+    "name": "iShares COLCAP",
+    "ticker": "ICOLCAP",
+    "secid": "F00000NBEX",
+    "aum": "2743494890.490759",
+    "judgment": "否",
+    "source": "https://www.blackrock.com/co/individual/productos/251519/ishares-colcap-fondo-bursatil-fund",
+    "confidence": "高",
+    "explanation": "跟踪哥伦比亚COLCAP指数的纯股票ETF，不使用期权；iShares COLCAP 追踪 COLCAP 股票指数，公开资料未见期权卖出、期权保护或FLEX option结构。"
+  },
+  {
+    "name": "NYLI Hedge Multi-Strategy Tracker ETF",
+    "ticker": "QAI",
+    "secid": "FOUSA08POD",
+    "aum": "1019729021",
+    "judgment": "否",
+    "source": "https://www.nylim.com/etf/nyli-hedge-multi-strategy-tracker-etf-qai",
+    "confidence": "低",
+    "explanation": "通过持有其他ETF（浮动利率债券、发达国家股票、短期国债等）模拟对冲基金收益，不直接使用期权；NYLI官方页说明跟踪hedge multi-strategy index、复制对冲基金风险收益特征；公开摘要未确认期权持仓或期权主导。"
+  },
+  {
+    "name": "Calamos Tax-Aware Collateral ETF",
+    "ticker": "CBOX",
+    "secid": "F00001TJM2",
+    "aum": "994715452",
+    "judgment": "是",
+    "source": "https://www.calamos.com/funds/etf/cbox/calamos-sp-500-structured-alt-protection-etf-february/",
+    "confidence": "高",
+    "explanation": "核心策略为投资FLEX期权箱式价差(box spreads)，主要基于SPY期权，期权是核心持仓；基金文件/官网明确为 box spread 或 FLEX option 结构，属于以期权组合构建的短久期/保护型策略。"
+  },
+  {
+    "name": "Franklin Systematic Style Premia ETF",
+    "ticker": "FLSP",
+    "secid": "F000013Z48",
+    "aum": "937412170",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "低",
+    "explanation": "多资产多空策略，基于质量、价值、动量、利差四因子，主要通过掉期和期货实现，非期权核心；根据产品名称、管理人、类别和公开检索入口，未见 covered call、put/call writing、FLEX options、buffer、box spread 等期权策略证据。"
+  },
+  {
+    "name": "TREND LBMA OURO FIIM",
+    "ticker": "GOLD11",
+    "secid": "F0000168H1",
+    "aum": "526746134.6574452",
+    "judgment": "否",
+    "source": "https://www.wisdomtree.com/investments/etfs/alternatives/gdt ; https://ci.com/en/investment-solutions/funds/ci-auspice-broad-commodity-fund ; https://www.auspicecapital.com/indices/broad-commodity-index",
+    "confidence": "中",
+    "explanation": "巴西黄金ETF，跟踪LBMA黄金价格，纯商品敞口，不使用期权；公开资料显示暴露主要来自商品、利率、黄金/白银或期货指数；未见期权策略说明。"
+  },
+  {
+    "name": "iPath® B S&P 500® VIX S/T Futs™ ETN",
+    "ticker": "VXX",
+    "secid": "F0000100UM",
+    "aum": "493448215",
+    "judgment": "否",
+    "source": "https://ipathetn.barclays/vxx ; https://www.proshares.com/our-etfs/strategic/vixm ; https://www.spglobal.com/spdji/en/indices/strategy/sp-500-vix-short-term-futures-index/",
+    "confidence": "高",
+    "explanation": "ETN产品，提供VIX短期期货敞口，持有VIX期货合约，不使用期权；产品暴露为 S&P 500 VIX Short-Term/Mid-Term Futures 等 VIX 期货指数；VIX指数由期权隐含波动率计算，但该产品本身不是持有期权或卖期权的期权策略产品。"
+  },
+  {
+    "name": "Brompton Split Corp. PreferredShareETF",
+    "ticker": "SPLT",
+    "secid": "F00001GDZH",
+    "aum": "477255584.8151991",
+    "judgment": "否",
+    "source": "https://www.bromptongroup.com/product/brompton-split-corp-preferred-share-etf/ ; https://www.bromptongroup.com/product/brompton-split-corp-enhanced-equity-income-etf/",
+    "confidence": "中",
+    "explanation": "投资加拿大分割公司优先股组合，以稳定月度分红和资本保全为目标，不使用期权；Brompton官方页面显示核心是投资split share preferred/class A shares；未见ETF层面直接卖期权作为核心策略。底层split corp可能另有covered call，不等于该ETF为期权策略产品。"
+  },
+  {
+    "name": "Saba Closed-End Funds ETF",
+    "ticker": "CEFS",
+    "secid": "F00000YC30",
+    "aum": "428101599",
+    "judgment": "否",
+    "source": "https://www.sabaetf.com/cefs ; https://www.calamos.com/funds/etf/ccef/calamos-cef-income-arbitrage-etf/",
+    "confidence": "中",
+    "explanation": "主动投资于折价交易的封闭式基金（CEF），通过CEF折价收窄获利，不使用期权；CEFS 主要投资闭端基金组合，本身不是期权策略ETF；底层基金可能各有策略，但公开目标不显示期权主导。"
+  },
+  {
+    "name": "WisdomTree Bloomberg US Dllr Bullish ETF",
+    "ticker": "USDU",
+    "secid": "F00000QEPV",
+    "aum": "421578844",
+    "judgment": "否",
+    "source": "https://www.invesco.com/us/financial-products/etfs/product-detail?productId=ETF-UUP ; https://www.invesco.com/us/financial-products/etfs/product-detail?productId=ETF-UDN ; https://www.wisdomtree.com/investments/etfs/currency/usdu",
+    "confidence": "中",
+    "explanation": "做多美元对一篮子货币，使用货币远期/期货合约，不使用期权；公开资料显示主要为美元/货币指数或货币期货暴露，未见期权作为核心策略。"
+  },
+  {
+    "name": "HASHDEX NASDAQ CRYPTO INDEX FIIM",
+    "ticker": "HASH11",
+    "secid": "F000016XA5",
+    "aum": "408775873.9729266",
+    "judgment": "否",
+    "source": "https://www.hashdex.com/en-US/products/hash11 ; https://www.hashdex.com/en-US/products ; https://www.qrasset.com.br/",
+    "confidence": "中",
+    "explanation": "巴西加密资产指数ETF，直接持有加密资产组合（比特币、以太坊等），不使用期权；公开信息显示主要跟踪数字资产、加密指数或相关策略，未见使用期权构建收益/缓冲/对冲结构。"
+  },
+  {
+    "name": "Amundi EUR Infl Expct 2-10Y ETF Acc",
+    "ticker": "INFL",
+    "secid": "F00000X8XK",
+    "aum": "400044102.7962531",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "低",
+    "explanation": "跟踪欧元区盈亏平衡通胀率指数，通过通胀挂钩债券和掉期实现，不使用期权；根据产品名称、管理人、类别和公开检索入口，未见 covered call、put/call writing、FLEX options、buffer、box spread 等期权策略证据。"
+  },
+  {
+    "name": "Invesco DB US Dollar Bullish",
+    "ticker": "UUP",
+    "secid": "FOUSA06B4X",
+    "aum": "396679502",
+    "judgment": "否",
+    "source": "https://www.invesco.com/us/financial-products/etfs/product-detail?productId=ETF-UUP ; https://www.invesco.com/us/financial-products/etfs/product-detail?productId=ETF-UDN ; https://www.wisdomtree.com/investments/etfs/currency/usdu",
+    "confidence": "中",
+    "explanation": "跟踪美元指数期货，持有美元期货合约，不使用期权；公开资料显示主要为美元/货币指数或货币期货暴露，未见期权作为核心策略。"
+  },
+  {
+    "name": "Harvest Diversified Monthly Income ETF A",
+    "ticker": "HDIF",
+    "secid": "F00001DH3I",
+    "aum": "390557468.9613224",
+    "judgment": "是",
+    "source": "https://harvestportfolios.com/etf/hdif/ ; https://harvestportfolios.com/etf/hpye/ ; https://harvestportfolios.com/etf/hpyb/ ; https://harvestportfolios.com/etf/hbie/",
+    "confidence": "高",
+    "explanation": "核心策略包含covered call期权写作，结合现有持仓产生增强收益，期权是收入策略核心；Harvest 相关产品公开材料说明采用 covered call/option writing 或 calls and puts 增强收益。"
+  },
+  {
+    "name": "Roundhill Ultra Shrt Dur No Div TrgtETF",
+    "ticker": "XBOX",
+    "secid": "F00001SY65",
+    "aum": "303592485",
+    "judgment": "是",
+    "source": "https://www.roundhillinvestments.com/etf/xbox/",
+    "confidence": "高",
+    "explanation": "核心策略为期权箱式价差(box spreads)，利用合成多空期权组合实现短期固收类回报；基金文件/官网明确为 box spread 或 FLEX option 结构，属于以期权组合构建的短久期/保护型策略。"
+  },
+  {
+    "name": "Evolve Canadian Utilities Enh Yld IdxETF",
+    "ticker": "UTES",
+    "secid": "F00001N3HB",
+    "aum": "298332884.8974918",
+    "judgment": "是",
+    "source": "https://evolveetfs.com/product/utes/ ; https://evolveetfs.com/product/oily/",
+    "confidence": "高",
+    "explanation": "投资加拿大公用事业股，并采用covered call期权写作计划增强收益；Evolve产品页明确标注active covered call strategy并配合杠杆增强收益。"
+  },
+  {
+    "name": "iShares Flexible Monthly Income ETF CADH",
+    "ticker": "XFLX",
+    "secid": "F00001NLHL",
+    "aum": "293192856.9895166",
+    "judgment": "是",
+    "source": "https://www.ishares.com/us/products/333705/ishares-systematic-alternatives-active-etf ; https://etfdb.com/etf/IALT/ ; https://www.blackrock.com/ca/investors/en/products/333798/ishares-flexible-monthly-income-etf",
+    "confidence": "中",
+    "explanation": "主动投资全球固定收益证券， opportunistic债券策略，不使用期权；资料显示为灵活月度收益/信用收益产品，策略文件允许使用包括 options 在内的衍生品；不是以期权为核心命名的收益增强ETF。"
+  },
+  {
+    "name": "AGF U.S. Market Neutral Anti-Beta",
+    "ticker": "BTAL",
+    "secid": "F00000MM7Z",
+    "aum": "276343547",
+    "judgment": "否",
+    "source": "https://agfiq.com/etf/btal ; https://www.bmo.com/main/personal/investments/mutual-funds/etf/bmo-long-short-us-equity-etf-zlsu/ ; https://www.firsttrust.ca/Retail/Etf/EtfSummary.aspx?Ticker=FTLS ; https://www.arrow-capital.com/funds/adiv/ ; https://www.desjardins.com/ca/personal/savings-investment/investment-products/exchange-traded-funds/market-neutral-etf/index.jsp",
+    "confidence": "中",
+    "explanation": "做空高beta美股、做多低beta美股的市场中性策略，纯股票多空，不使用期权；公开资料显示核心为多空股票、市场中性或低/高Beta配对，不是以期权构建的策略产品。"
+  },
+  {
+    "name": "Hamilton Enhanced Canadian Eq DayMAX ETF",
+    "ticker": "CDAY",
+    "secid": "F00001RWFO",
+    "aum": "269073850.2271995",
+    "judgment": "是",
+    "source": "https://hamiltonetfs.com/daymax/ ; https://hamiltonetfs.com/etf/cday/ ; https://hamiltonetfs.com/etf/qday/ ; https://etfgi.com/news/stories/2025/07/hamilton-etfs-launches-daymaxtm-etfs-canadas-first-0dte-etfs",
+    "confidence": "高",
+    "explanation": "加拿大首个0DTE（零日到期）期权策略ETF，每日卖出看涨期权并配合25%杠杆增强收入；Hamilton DayMAX官方材料明确写明通过卖出同日到期(0DTE) call options获取收入。"
+  },
+  {
+    "name": "CI Auspice Broad Commodity Fund Hdg Acc",
+    "ticker": "CCOM",
+    "secid": "F00001EHN0",
+    "aum": "259361514.1865541",
+    "judgment": "否",
+    "source": "https://www.wisdomtree.com/investments/etfs/alternatives/gdt ; https://ci.com/en/investment-solutions/funds/ci-auspice-broad-commodity-fund ; https://www.auspicecapital.com/indices/broad-commodity-index",
+    "confidence": "中",
+    "explanation": "跟踪Auspice大宗商品指数，通过商品期货合约实现多元化商品敞口，不使用期权；公开资料显示暴露主要来自商品、利率、黄金/白银或期货指数；未见期权策略说明。"
+  },
+  {
+    "name": "NYLI Merger Arbitrage ETF",
+    "ticker": "MNA",
+    "secid": "F000002PIJ",
+    "aum": "251148434",
+    "judgment": "否",
+    "source": "https://www.newyorklifeinvestments.com/etf/mna ; https://www.altshares.com/funds/arb/ ; https://www.proshares.com/our-etfs/strategic/mrgr ; https://www.ftportfolios.com/retail/etf/etfsummary.aspx?Ticker=MARB",
+    "confidence": "高",
+    "explanation": "并购套利策略，做多收购目标、做空全球股指，通过股票多空实现，不使用期权；公开资料显示核心为并购套利、事件驱动、SPAC/新发行证券等，未见期权为核心构建工具。"
+  },
+  {
+    "name": "NBI Liquid Alternatives ETF",
+    "ticker": "NALT",
+    "secid": "F000011UT0",
+    "aum": "250075977.6736198",
+    "judgment": "是",
+    "source": "https://www.nbinvestments.ca/products/nbi-funds/liquid-alternatives-etf-nalt.html ; https://www.nbinvestments.ca/content/dam/bni/en/fund/regulatory/fund-facts/NALT-fund-facts.pdf",
+    "confidence": "低",
+    "explanation": "多策略另类ETF，投资于金融衍生品多空仓位（可能包括期货、掉期、期权），期权可能为辅助工具但非核心；NBI资料说明可使用衍生品和杠杆，但未在可见摘要中明确期权策略或期权持仓。"
+  },
+  {
+    "name": "AGF US Market Neutral Anti-Bt CAD-HETF",
+    "ticker": "QBTL",
+    "secid": "F000014963",
+    "aum": "248099740.2411535",
+    "judgment": "否",
+    "source": "https://agfiq.com/etf/btal ; https://www.bmo.com/main/personal/investments/mutual-funds/etf/bmo-long-short-us-equity-etf-zlsu/ ; https://www.firsttrust.ca/Retail/Etf/EtfSummary.aspx?Ticker=FTLS ; https://www.arrow-capital.com/funds/adiv/ ; https://www.desjardins.com/ca/personal/savings-investment/investment-products/exchange-traded-funds/market-neutral-etf/index.jsp",
+    "confidence": "中",
+    "explanation": "BTAL的加元对冲版本，做空高beta/做多低beta美股，纯股票多空策略，不使用期权；公开资料显示核心为多空股票、市场中性或低/高Beta配对，不是以期权构建的策略产品。"
+  },
+  {
+    "name": "Hamilton Enhanced Technology DayMAX ETF",
+    "ticker": "QDAY",
+    "secid": "F00001RWFQ",
+    "aum": "228029877.2764678",
+    "judgment": "是",
+    "source": "https://hamiltonetfs.com/daymax/ ; https://hamiltonetfs.com/etf/cday/ ; https://hamiltonetfs.com/etf/qday/ ; https://etfgi.com/news/stories/2025/07/hamilton-etfs-launches-daymaxtm-etfs-canadas-first-0dte-etfs",
+    "confidence": "高",
+    "explanation": "DayMAX系列，使用0DTE期权策略（每日卖出看涨期权）并配合25%杠杆，期权是核心收入来源；Hamilton DayMAX官方材料明确写明通过卖出同日到期(0DTE) call options获取收入。"
+  },
+  {
+    "name": "HASHDEX NASDAQ BITCOIN REF PRICE FIIM",
+    "ticker": "BITH11",
+    "secid": "F00001CLU1",
+    "aum": "227025435.9520009",
+    "judgment": "否",
+    "source": "https://www.hashdex.com/en-US/products/hash11 ; https://www.hashdex.com/en-US/products ; https://www.qrasset.com.br/",
+    "confidence": "中",
+    "explanation": "巴西比特币参考价格ETF，直接持有比特币，不使用期权；公开信息显示主要跟踪数字资产、加密指数或相关策略，未见使用期权构建收益/缓冲/对冲结构。"
+  },
+  {
+    "name": "SEI DBi Multi-Strategy Alternative ETF",
+    "ticker": "QALT",
+    "secid": "F00001FAAJ",
+    "aum": "193358744",
+    "judgment": "是",
+    "source": "https://www.seic.com/financial-advisors/flexible-investment-solutions/etfs/sei-dbi-multi-strategy-alternative-etf-qalt ; https://seidocs.filepoint.live/assets/pdfs/SAIs/SEI_ETF_DBiMultiStrategyAlternative_SAI.pdf",
+    "confidence": "高",
+    "explanation": "官方说明明确投资交易所衍生品包括期货、期权和掉期，期权为策略组成部分；SEI官方材料写明主要投资交易所衍生品，包括futures、options和swaps；但产品定位是多策略另类而非期权收入/结构化结果ETF。"
+  },
+  {
+    "name": "Defiance Nasdaq 100 Trgt 30 Wkly Dis ETF",
+    "ticker": "QQQY",
+    "secid": "F00001GDOP",
+    "aum": "190441266",
+    "judgment": "是",
+    "source": "https://www.defianceetfs.com/qqqy/ ; https://www.sec.gov/Archives/edgar/data/1924868/000138713123010373/qqqy-497k_082623.htm",
+    "confidence": "高",
+    "explanation": "核心策略为纳斯达克100指数看涨期权价差(call spreads)，通过卖出短期期权产生周度分红；Defiance Target 30 Weekly Distribution 系列围绕卖出短期限/0DTE指数期权获取期权权利金并进行月度分配，属于期权收益型产品。"
+  },
+  {
+    "name": "Hamilton Enhanced U.S. Equity DayMAX ETF",
+    "ticker": "SDAY",
+    "secid": "F00001RWFP",
+    "aum": "188160787.8636087",
+    "judgment": "是",
+    "source": "https://hamiltonetfs.com/daymax/ ; https://hamiltonetfs.com/etf/cday/ ; https://hamiltonetfs.com/etf/qday/ ; https://etfgi.com/news/stories/2025/07/hamilton-etfs-launches-daymaxtm-etfs-canadas-first-0dte-etfs",
+    "confidence": "高",
+    "explanation": "DayMAX系列，使用0DTE期权策略（每日卖出看涨期权）配合25%杠杆，期权是核心；Hamilton DayMAX官方材料明确写明通过卖出同日到期(0DTE) call options获取收入。"
+  },
+  {
+    "name": "Unlimited HFGM Global Macro ETF",
+    "ticker": "HFGM",
+    "secid": "F00001GNG3",
+    "aum": "158905157",
+    "judgment": "否",
+    "source": "https://unlimitedetfs.com/hfgm/ ; https://longpointetfs.com/etfs/rgbm ; https://www.proshares.com/our-etfs/strategic/hdg ; https://www.fondsdesjardins.com/etf/global-macro/",
+    "confidence": "低",
+    "explanation": "全球宏观策略，持仓以期货为主（黄金期货、欧元期货、E-mini S&P 500期货等），不使用期权；公开资料主要指向global macro、return stacking、hedge replication或长短仓/期货/衍生品；未确认期权是核心或实际持仓。"
+  },
+  {
+    "name": "Desjardins Market Neutral ETF CA$ Unhdgd",
+    "ticker": "DANC",
+    "secid": "F000011VNM",
+    "aum": "150403212.2795091",
+    "judgment": "否",
+    "source": "https://agfiq.com/etf/btal ; https://www.bmo.com/main/personal/investments/mutual-funds/etf/bmo-long-short-us-equity-etf-zlsu/ ; https://www.firsttrust.ca/Retail/Etf/EtfSummary.aspx?Ticker=FTLS ; https://www.arrow-capital.com/funds/adiv/ ; https://www.desjardins.com/ca/personal/savings-investment/investment-products/exchange-traded-funds/market-neutral-etf/index.jsp",
+    "confidence": "中",
+    "explanation": "市场中性策略，使用股票多空（做多/做空加拿大股票对）和卖空，不使用期权；公开资料显示核心为多空股票、市场中性或低/高Beta配对，不是以期权构建的策略产品。"
+  },
+  {
+    "name": "BMO Long Short US Equity ETF",
+    "ticker": "ZLSU",
+    "secid": "F00001GOGZ",
+    "aum": "144195901.8211743",
+    "judgment": "否",
+    "source": "https://agfiq.com/etf/btal ; https://www.bmo.com/main/personal/investments/mutual-funds/etf/bmo-long-short-us-equity-etf-zlsu/ ; https://www.firsttrust.ca/Retail/Etf/EtfSummary.aspx?Ticker=FTLS ; https://www.arrow-capital.com/funds/adiv/ ; https://www.desjardins.com/ca/personal/savings-investment/investment-products/exchange-traded-funds/market-neutral-etf/index.jsp",
+    "confidence": "中",
+    "explanation": "美股多空策略，做多预期强势股、做空预期弱势股，纯股票多空，不使用期权；公开资料显示核心为多空股票、市场中性或低/高Beta配对，不是以期权构建的策略产品。"
+  },
+  {
+    "name": "Global X Uranium ETF",
+    "ticker": "HURA",
+    "secid": "F000013M4R",
+    "aum": "143256728.3265949",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "中",
+    "explanation": "跟踪Solactive全球铀矿纯玩指数，持有铀矿公司股票，不使用期权；产品名称和公开资料显示为主题指数、资产配置或普通ETF，未见期权策略说明。"
+  },
+  {
+    "name": "Ninepoint Enhanced CA Highshares ETF",
+    "ticker": "ECHI",
+    "secid": "F00001SEXB",
+    "aum": "121165442.0551719",
+    "judgment": "是",
+    "source": "https://www.ninepoint.com/funds/ninepoint-enhanced-canadian-highshares-etf/ ; https://1.ninepoint.com/ninepoint-highshares-etfs.html ; https://www.ninepoint.com/performance-sheet-download/en/ninepoint-nvidia-highshares-etf-performance-s-etf",
+    "confidence": "高",
+    "explanation": "Ninepoint HighShares系列，使用主动covered call期权策略对加拿大蓝筹股产生增强月度收益；Ninepoint HighShares官方材料明确说明使用covered calls；NVHI资料还写明持有单一股票并使用covered call策略。"
+  },
+  {
+    "name": "Mulvihill Canadian Bank Enhanced Y ETF",
+    "ticker": "CBNK",
+    "secid": "F00001H71U",
+    "aum": "120839377.8810207",
+    "judgment": "是",
+    "source": "https://mulvihill.com/fund/cbnk/ ; https://money.tmx.com/en/quote/CBNK",
+    "confidence": "高",
+    "explanation": "投资加拿大六大银行股票，采用主动covered call策略增强收益，并可写作现金担保看跌期权；Mulvihill CBNK 公开材料说明可主动卖出 covered call 及/或 cash-covered put options。"
+  },
+  {
+    "name": "Invesco DB US Dollar Bearish",
+    "ticker": "UDN",
+    "secid": "FOUSA06B4Y",
+    "aum": "117845303",
+    "judgment": "否",
+    "source": "https://www.invesco.com/us/financial-products/etfs/product-detail?productId=ETF-UUP ; https://www.invesco.com/us/financial-products/etfs/product-detail?productId=ETF-UDN ; https://www.wisdomtree.com/investments/etfs/currency/usdu",
+    "confidence": "中",
+    "explanation": "做空美元指数期货，持有美元期货空头合约，不使用期权；公开资料显示主要为美元/货币指数或货币期货暴露，未见期权作为核心策略。"
+  },
+  {
+    "name": "Global X Seasonal Rotation ETF Comm",
+    "ticker": "HAC",
+    "secid": "F000005IRP",
+    "aum": "112325816.3082758",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "中",
+    "explanation": "季节性轮动策略，在股票ETF、商品、货币和现金间轮动配置，不使用期权；产品名称和公开资料显示为主题指数、资产配置或普通ETF，未见期权策略说明。"
+  },
+  {
+    "name": "Ardea Real Outcome Bond Complex ETF",
+    "ticker": "XARO",
+    "secid": "F000011UL1",
+    "aum": "108842659.2797784",
+    "judgment": "是",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "中",
+    "explanation": "澳大利亚债券相对价值策略，利率期权来自RV交易中的附带敞口，非核心策略但存在少量期权；公开名称显示为债券/国债/公司债或普通UCITS ETF，未见期权策略说明。"
+  },
+  {
+    "name": "Federated Hermes MDT Market Neutral ETF",
+    "ticker": "MKTN",
+    "secid": "F00001SEC5",
+    "aum": "104324680",
+    "judgment": "否",
+    "source": "https://agfiq.com/etf/btal ; https://www.bmo.com/main/personal/investments/mutual-funds/etf/bmo-long-short-us-equity-etf-zlsu/ ; https://www.firsttrust.ca/Retail/Etf/EtfSummary.aspx?Ticker=FTLS ; https://www.arrow-capital.com/funds/adiv/ ; https://www.desjardins.com/ca/personal/savings-investment/investment-products/exchange-traded-funds/market-neutral-etf/index.jsp",
+    "confidence": "中",
+    "explanation": "量化股票市场中性策略，持有约395只股票的多空仓位，纯股票多空，不使用期权；公开资料显示核心为多空股票、市场中性或低/高Beta配对，不是以期权构建的策略产品。"
+  },
+  {
+    "name": "AltShares Merger Arbitrage ETF",
+    "ticker": "ARB",
+    "secid": "F00001475M",
+    "aum": "103456885",
+    "judgment": "否",
+    "source": "https://www.newyorklifeinvestments.com/etf/mna ; https://www.altshares.com/funds/arb/ ; https://www.proshares.com/our-etfs/strategic/mrgr ; https://www.ftportfolios.com/retail/etf/etfsummary.aspx?Ticker=MARB",
+    "confidence": "高",
+    "explanation": "全球并购套利策略，做多收购目标、做空收购方，纯股票多空，不使用期权；公开资料显示核心为并购套利、事件驱动、SPAC/新发行证券等，未见期权为核心构建工具。"
+  },
+  {
+    "name": "First Trust Multi-Strat Alt ETF",
+    "ticker": "LALT",
+    "secid": "F00001EOTO",
+    "aum": "101302469",
+    "judgment": "是",
+    "source": "https://www.ftportfolios.com/retail/etf/etfsummary.aspx?Ticker=LALT",
+    "confidence": "低",
+    "explanation": "FOF多策略另类ETF，投资于多种另类策略子基金（包括对冲股票策略可能涉及期权），期权为间接且非核心；First Trust官方说明为多策略另类配置，未在公开摘要中确认期权为实际持仓或核心策略。"
+  },
+  {
+    "name": "Defiance R2000 Target 30 Weekly Dis ETF",
+    "ticker": "IWMY",
+    "secid": "F00001GDOO",
+    "aum": "100340359",
+    "judgment": "是",
+    "source": "https://www.defianceetfs.com/qqqy/ ; https://www.sec.gov/Archives/edgar/data/1924868/000138713123010373/qqqy-497k_082623.htm",
+    "confidence": "高",
+    "explanation": "核心策略为罗素2000指数短期期权卖出策略，通过期权溢价产生周度分红；Defiance Target 30 Weekly Distribution 系列围绕卖出短期限/0DTE指数期权获取期权权利金并进行月度分配，属于期权收益型产品。"
+  },
+  {
+    "name": "QR CME CF BITCOIN REF RATE FIIM",
+    "ticker": "QBTC11",
+    "secid": "F0000186NA",
+    "aum": "90056131.89887884",
+    "judgment": "否",
+    "source": "https://www.hashdex.com/en-US/products/hash11 ; https://www.hashdex.com/en-US/products ; https://www.qrasset.com.br/",
+    "confidence": "中",
+    "explanation": "巴西比特币参考利率ETF，直接持有比特币，不使用期权；公开信息显示主要跟踪数字资产、加密指数或相关策略，未见使用期权构建收益/缓冲/对冲结构。"
+  },
+  {
+    "name": "Evolve Canadian Equity UltraYield ETF",
+    "ticker": "CANY",
+    "secid": "F00001SKV1",
+    "aum": "72338835.73652008",
+    "judgment": "是",
+    "source": "https://evolveetfs.com/product/utes/ ; https://evolveetfs.com/product/easy/ ; https://evolveetfs.com/product/cany/ ; https://evolveetfs.com/product/oily/",
+    "confidence": "高",
+    "explanation": "投资加拿大领先公司，对约50%组合采用covered call期权写作策略并配合适度杠杆；Evolve Enhanced/UltraYield 系列公开材料说明通过主动 covered call 策略或其组合增强收益。"
+  },
+  {
+    "name": "IT NOW BLOOMBERG GALAXY BITCOIN FIIM",
+    "ticker": "BITI11",
+    "secid": "F00001EQY3",
+    "aum": "71809667.19867589",
+    "judgment": "否",
+    "source": "https://www.hashdex.com/en-US/products/hash11 ; https://www.hashdex.com/en-US/products ; https://www.qrasset.com.br/",
+    "confidence": "中",
+    "explanation": "巴西比特币ETF，直接持有比特币，不使用期权；公开信息显示主要跟踪数字资产、加密指数或相关策略，未见使用期权构建收益/缓冲/对冲结构。"
+  },
+  {
+    "name": "Defiance S&P 500 Trgt 30 Wkly Dis ETF",
+    "ticker": "WDTE",
+    "secid": "F00001GDON",
+    "aum": "68555716",
+    "judgment": "是",
+    "source": "https://www.defianceetfs.com/qqqy/ ; https://www.sec.gov/Archives/edgar/data/1924868/000138713123010373/qqqy-497k_082623.htm",
+    "confidence": "高",
+    "explanation": "核心策略为S&P 500指数每日信用看涨期权价差(credit call spreads)，期权是收入核心；Defiance Target 30 Weekly Distribution 系列围绕卖出短期限/0DTE指数期权获取期权权利金并进行月度分配，属于期权收益型产品。"
+  },
+  {
+    "name": "JH Glb IG Crdt Crv Stpnr ETF EUR Acc",
+    "ticker": "TCRS",
+    "secid": "F000015MWB",
+    "aum": "62560113.05730636",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "低",
+    "explanation": "投资级信用曲线陡峭化策略，通过CDS指数头寸和现金抵押品实现，不使用期权；根据产品名称、管理人、类别和公开检索入口，未见 covered call、put/call writing、FLEX options、buffer、box spread 等期权策略证据。"
+  },
+  {
+    "name": "Desjardins Global Macro ETF",
+    "ticker": "DGLM",
+    "secid": "F00001SCA3",
+    "aum": "61812562.88239293",
+    "judgment": "否",
+    "source": "https://unlimitedetfs.com/hfgm/ ; https://longpointetfs.com/etfs/rgbm ; https://www.proshares.com/our-etfs/strategic/hdg ; https://www.fondsdesjardins.com/etf/global-macro/",
+    "confidence": "低",
+    "explanation": "全球宏观对冲策略，通过衍生品（期货、远期、掉期）对全球资产类别做多空配置，不以期权为核心；公开资料主要指向global macro、return stacking、hedge replication或长短仓/期货/衍生品；未确认期权是核心或实际持仓。"
+  },
+  {
+    "name": "BMO Long Short Canadian Equity ETF",
+    "ticker": "ZLSC",
+    "secid": "F00001GOGY",
+    "aum": "54281766.07392035",
+    "judgment": "是",
+    "source": "https://agfiq.com/etf/btal ; https://www.bmo.com/main/personal/investments/mutual-funds/etf/bmo-long-short-us-equity-etf-zlsu/ ; https://www.firsttrust.ca/Retail/Etf/EtfSummary.aspx?Ticker=FTLS ; https://www.arrow-capital.com/funds/adiv/ ; https://www.desjardins.com/ca/personal/savings-investment/investment-products/exchange-traded-funds/market-neutral-etf/index.jsp",
+    "confidence": "中",
+    "explanation": "核心为加拿大股票多空策略，招股书允许使用期权等衍生品对冲或增强收益，但非核心；公开资料显示核心为多空股票、市场中性或低/高Beta配对，不是以期权构建的策略产品。"
+  },
+  {
+    "name": "Brompton Global Equity HighPay ETF",
+    "ticker": "PAYG",
+    "secid": "F000025NDU",
+    "aum": "51674485.6703281",
+    "judgment": "是",
+    "source": "https://www.bromptongroup.com/product/brompton-global-equity-highpay-etf/ ; https://www.bromptongroup.com/coveredcalls/",
+    "confidence": "高",
+    "explanation": "Brompton覆盖式期权ETF系列，通过covered call写作计划配合25%杠杆产生高收入；Brompton PAYG官方页面写明通过dividends、covered calls和主动管理获取高收入。"
+  },
+  {
+    "name": "Evolve All-in-One UltraYield ETF",
+    "ticker": "EASY",
+    "secid": "F00001UJ4M",
+    "aum": "51104380.83652367",
+    "judgment": "是",
+    "source": "https://evolveetfs.com/product/utes/ ; https://evolveetfs.com/product/easy/ ; https://evolveetfs.com/product/cany/ ; https://evolveetfs.com/product/oily/",
+    "confidence": "高",
+    "explanation": "对约50%全球股票组合采用covered call期权策略并配合33%杠杆，期权是收入核心；Evolve Enhanced/UltraYield 系列公开材料说明通过主动 covered call 策略或其组合增强收益。"
+  },
+  {
+    "name": "Amundi US Curve Stpng 2-10 ETF Acc",
+    "ticker": "STPU",
+    "secid": "F000013Z0Q",
+    "aum": "49256040",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "低",
+    "explanation": "美国国债收益率曲线陡峭化策略，通过国债期货/掉期实现，不使用期权；根据产品名称、管理人、类别和公开检索入口，未见 covered call、put/call writing、FLEX options、buffer、box spread 等期权策略证据。"
+  },
+  {
+    "name": "Brompton Split Corp. Enhanced Eq Inc ETF",
+    "ticker": "CLSA",
+    "secid": "F00001Q63B",
+    "aum": "47768635.72936419",
+    "judgment": "否",
+    "source": "https://www.bromptongroup.com/product/brompton-split-corp-preferred-share-etf/ ; https://www.bromptongroup.com/product/brompton-split-corp-enhanced-equity-income-etf/",
+    "confidence": "中",
+    "explanation": "投资加拿大分割公司A类股票组合，提供资本增值和月度分红，不使用期权；Brompton官方页面显示核心是投资split share preferred/class A shares；未见ETF层面直接卖期权作为核心策略。底层split corp可能另有covered call，不等于该ETF为期权策略产品。"
+  },
+  {
+    "name": "Brompton Flhy & Cmn Enh Inv Grd Pfd ETF",
+    "ticker": "BEPR",
+    "secid": "F00001D35Y",
+    "aum": "47125967.29757773",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "中",
+    "explanation": "投资美加优先股和投资级公司债组合，固定收益策略，不使用期权；公开资料显示核心为 split share/优先股/固定收益证券及可能的杠杆结构，未见期权卖出或期权保护为产品核心。"
+  },
+  {
+    "name": "Fidelity Advantage Ether ETF L",
+    "ticker": "FETH",
+    "secid": "F00001EFRP",
+    "aum": "44783633.26195056",
+    "judgment": "否",
+    "source": "https://www.hashdex.com/en-US/products/hash11 ; https://www.hashdex.com/en-US/products ; https://www.qrasset.com.br/",
+    "confidence": "中",
+    "explanation": "直接持有以太坊的加密资产ETF，不使用期权；公开信息显示主要跟踪数字资产、加密指数或相关策略，未见使用期权构建收益/缓冲/对冲结构。"
+  },
+  {
+    "name": "ProShares VIX Mid-Term Futures",
+    "ticker": "VIXM",
+    "secid": "F00000LI7D",
+    "aum": "43945411",
+    "judgment": "否",
+    "source": "https://ipathetn.barclays/vxx ; https://www.proshares.com/our-etfs/strategic/vixm ; https://www.spglobal.com/spdji/en/indices/strategy/sp-500-vix-short-term-futures-index/",
+    "confidence": "高",
+    "explanation": "持有VIX中期期货合约多头，纯期货策略，不使用期权；产品暴露为 S&P 500 VIX Short-Term/Mid-Term Futures 等 VIX 期货指数；VIX指数由期权隐含波动率计算，但该产品本身不是持有期权或卖期权的期权策略产品。"
+  },
+  {
+    "name": "HASHDEX NASDAQ ETHEREUM REF PRICE FIIM",
+    "ticker": "ETHE11",
+    "secid": "F00001CLTZ",
+    "aum": "43754212.92191287",
+    "judgment": "否",
+    "source": "https://www.hashdex.com/en-US/products/hash11 ; https://www.hashdex.com/en-US/products ; https://www.qrasset.com.br/",
+    "confidence": "中",
+    "explanation": "巴西以太坊参考价格ETF，直接持有以太坊，不使用期权；公开信息显示主要跟踪数字资产、加密指数或相关策略，未见使用期权构建收益/缓冲/对冲结构。"
+  },
+  {
+    "name": "Simplify Multi-QIS Alternative ETF",
+    "ticker": "QIS",
+    "secid": "F00001F9VA",
+    "aum": "42442599",
+    "judgment": "是",
+    "source": "https://www.simplify.us/etfs/lq-simplify-tax-aware-alternatives-etf ; https://www.simplify.us/etfs/qis-simplify-multi-qis-alternative-etf",
+    "confidence": "中",
+    "explanation": "通过总回报掉期投资10-20个量化策略，部分子策略（如Simplify期权收入ETF）使用期权，间接持有；Simplify QIS风险披露提到option overlay与options使用风险，但产品定位是多QIS另类组合，不宜归入期权策略主样本。"
+  },
+  {
+    "name": "INVESTO MKT VECTOR BITCOIN RATE FIIM",
+    "ticker": "HODL11",
+    "secid": "F00001Q1IV",
+    "aum": "39034789.0681957",
+    "judgment": "否",
+    "source": "https://www.hashdex.com/en-US/products/hash11 ; https://www.hashdex.com/en-US/products ; https://www.qrasset.com.br/",
+    "confidence": "中",
+    "explanation": "巴西比特币ETF，直接持有比特币，不使用期权；公开信息显示主要跟踪数字资产、加密指数或相关策略，未见使用期权构建收益/缓冲/对冲结构。"
+  },
+  {
+    "name": "Purpose Credit Opportunities Class ETF",
+    "ticker": "CROC",
+    "secid": "F00001TJAP",
+    "aum": "38633520.34062041",
+    "judgment": "否",
+    "source": "公开资料不足；建议查发行说明书、最新持仓或交易所/监管披露。",
+    "confidence": "低",
+    "explanation": "信用机会策略，像贷款人一样投资于高确信度信用机会，不使用期权；公开摘要不足以确认期权持仓或期权策略。"
+  },
+  {
+    "name": "MAXIS Japan Eq Hi Div 70 Mkt Netrl ETF",
+    "ticker": "1499",
+    "secid": "F00000ZUOK",
+    "aum": "37835643.8116648",
+    "judgment": "否",
+    "source": "https://agfiq.com/etf/btal ; https://www.bmo.com/main/personal/investments/mutual-funds/etf/bmo-long-short-us-equity-etf-zlsu/ ; https://www.firsttrust.ca/Retail/Etf/EtfSummary.aspx?Ticker=FTLS ; https://www.arrow-capital.com/funds/adiv/ ; https://www.desjardins.com/ca/personal/savings-investment/investment-products/exchange-traded-funds/market-neutral-etf/index.jsp",
+    "confidence": "中",
+    "explanation": "日本股票市场中性策略，做多高股息股/做空股指期货，不使用期权；公开资料显示核心为多空股票、市场中性或低/高Beta配对，不是以期权构建的策略产品。"
+  },
+  {
+    "name": "Return Stacked® Global Bal & Mac ETF",
+    "ticker": "RGBM",
+    "secid": "F00001PYJ3",
+    "aum": "37484327.88292962",
+    "judgment": "否",
+    "source": "https://unlimitedetfs.com/hfgm/ ; https://longpointetfs.com/etfs/rgbm ; https://www.proshares.com/our-etfs/strategic/hdg ; https://www.fondsdesjardins.com/etf/global-macro/",
+    "confidence": "低",
+    "explanation": "全球平衡策略叠加系统性宏观策略，使用衍生品和杠杆实现return stacking，主要为期货/掉期；公开资料主要指向global macro、return stacking、hedge replication或长短仓/期货/衍生品；未确认期权是核心或实际持仓。"
+  },
+  {
+    "name": "Quadravest Pref Split Shr ETF CAD Inc",
+    "ticker": "PREF",
+    "secid": "F00001PVJL",
+    "aum": "37464919.67512254",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "中",
+    "explanation": "投资加拿大分割公司优先股组合，提供月度分红和资本保全，不使用期权；公开资料显示核心为 split share/优先股/固定收益证券及可能的杠杆结构，未见期权卖出或期权保护为产品核心。"
+  },
+  {
+    "name": "iPath® B S&P 500® VIX Md-Trm Futs™ ETN",
+    "ticker": "VXZ",
+    "secid": "F0000100UN",
+    "aum": "36313994",
+    "judgment": "否",
+    "source": "https://ipathetn.barclays/vxx ; https://www.proshares.com/our-etfs/strategic/vixm ; https://www.spglobal.com/spdji/en/indices/strategy/sp-500-vix-short-term-futures-index/",
+    "confidence": "高",
+    "explanation": "ETN产品，提供VIX中期期货敞口，持有VIX期货合约，不使用期权；产品暴露为 S&P 500 VIX Short-Term/Mid-Term Futures 等 VIX 期货指数；VIX指数由期权隐含波动率计算，但该产品本身不是持有期权或卖期权的期权策略产品。"
+  },
+  {
+    "name": "Accelerate Arbitrage ETF",
+    "ticker": "ARB",
+    "secid": "F00001540H",
+    "aum": "36092748.9355612",
+    "judgment": "否",
+    "source": "https://www.newyorklifeinvestments.com/etf/mna ; https://www.altshares.com/funds/arb/ ; https://www.proshares.com/our-etfs/strategic/mrgr ; https://www.ftportfolios.com/retail/etf/etfsummary.aspx?Ticker=MARB",
+    "confidence": "高",
+    "explanation": "SPAC套利和并购套利策略，通过股票多空实现，不使用期权；公开资料显示核心为并购套利、事件驱动、SPAC/新发行证券等，未见期权为核心构建工具。"
+  },
+  {
+    "name": "Desjardins Abs Ret Glbl Eq Mkts ETF CA$H",
+    "ticker": "DAMG",
+    "secid": "F00001EKE5",
+    "aum": "35531853.01799706",
+    "judgment": "否",
+    "source": "https://agfiq.com/etf/btal ; https://www.bmo.com/main/personal/investments/mutual-funds/etf/bmo-long-short-us-equity-etf-zlsu/ ; https://www.firsttrust.ca/Retail/Etf/EtfSummary.aspx?Ticker=FTLS ; https://www.arrow-capital.com/funds/adiv/ ; https://www.desjardins.com/ca/personal/savings-investment/investment-products/exchange-traded-funds/market-neutral-etf/index.jsp",
+    "confidence": "中",
+    "explanation": "市场中性策略，对全球股票市场做多空配置以追求正回报，不使用期权；公开资料显示核心为多空股票、市场中性或低/高Beta配对，不是以期权构建的策略产品。"
+  },
+  {
+    "name": "Unlimited HFND Multi-Strgy Ret Trckr ETF",
+    "ticker": "HFND",
+    "secid": "F00001E25B",
+    "aum": "34752801",
+    "judgment": "否",
+    "source": "公开资料不足；建议查发行说明书、最新持仓或交易所/监管披露。",
+    "confidence": "低",
+    "explanation": "通过30-50只ETF和期货合约的多空仓位模拟对冲基金收益，不使用期权；多策略对冲复制/回报跟踪类产品，公开摘要不足以确认期权持仓或期权主导。"
+  },
+  {
+    "name": "Calamos CEF Income & Arbitrage ETF",
+    "ticker": "CCEF",
+    "secid": "F00001GZKQ",
+    "aum": "32626561",
+    "judgment": "是",
+    "source": "https://www.sabaetf.com/cefs ; https://www.calamos.com/funds/etf/ccef/calamos-cef-income-arbitrage-etf/",
+    "confidence": "中",
+    "explanation": "投资于折价交易的封闭式基金（CEF）获取收入和套利，不使用期权；Calamos CCEF 投资闭端基金；公开材料说明底层 CEF 类型可包括 options-based funds，因此可能间接暴露于期权策略，但基金本身不是纯期权策略产品。"
+  },
+  {
+    "name": "Harvest Premium Yield Cndn Bk ETF Cl A",
+    "ticker": "HPYB",
+    "secid": "F00001T95L",
+    "aum": "30521899.88908369",
+    "judgment": "是",
+    "source": "https://harvestportfolios.com/etf/hdif/ ; https://harvestportfolios.com/etf/hpye/ ; https://harvestportfolios.com/etf/hpyb/ ; https://harvestportfolios.com/etf/hbie/",
+    "confidence": "高",
+    "explanation": "对加拿大银行股票采用主动covered call和现金担保看跌期权策略，期权是核心收入来源；Harvest 相关产品公开材料说明采用 covered call/option writing 或 calls and puts 增强收益。"
+  },
+  {
+    "name": "Accelerate Absolute Return Fd",
+    "ticker": "HDGE",
+    "secid": "F000013M2N",
+    "aum": "29196619.36045878",
+    "judgment": "否",
+    "source": "公开资料不足；建议查发行说明书、最新持仓或交易所/监管披露。",
+    "confidence": "低",
+    "explanation": "量化股票市场中性策略，48只多头/48只空头，纯股票多空，不使用期权；Accelerate另类多策略产品，公开摘要不足以确认期权持仓或期权主导。"
+  },
+  {
+    "name": "Mulvihill Enhanced Split Pref Share ETF",
+    "ticker": "SPFD",
+    "secid": "F00001H71T",
+    "aum": "27543781.35094915",
+    "judgment": "否",
+    "source": "https://www.mulvihill.com/spfd ; https://mulvihill.com/prospectus/SPFD_prospectus_20250102_182918.pdf",
+    "confidence": "中",
+    "explanation": "投资加拿大分割公司优先股组合，固定收益类策略，不使用期权；Mulvihill产品页显示主要投资split preferred shares；招募书提到may employ covered call或投资使用covered call的底层基金，需用最新持仓确认实际期权暴露。"
+  },
+  {
+    "name": "Arrow EC Equity Advantage AlternativeETF",
+    "ticker": "ADIV",
+    "secid": "F00001KDWI",
+    "aum": "27162644.81734588",
+    "judgment": "否",
+    "source": "https://arrow-capital.com/investment-products/arrow-ec-equity-advantage-alternative-fund/",
+    "confidence": "中",
+    "explanation": "股票多空策略，做多/做空加拿大股票追求长期回报和资本保全，不使用期权；Arrow官方页面只说明long/short equity，未见option writing或options-based策略证据。"
+  },
+  {
+    "name": "FIBRATC 14 ETF",
+    "ticker": "FIBRATC",
+    "secid": "F00000VZNR",
+    "aum": "26572264.40871092",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "低",
+    "explanation": "墨西哥FIBRAS（REITs）ETF，被动跟踪墨西哥REITs指数，不使用期权；根据产品名称、管理人、类别和公开检索入口，未见 covered call、put/call writing、FLEX options、buffer、box spread 等期权策略证据。"
+  },
+  {
+    "name": "Ninepoint Cameco Highshares ETF",
+    "ticker": "CCHI",
+    "secid": "F00001SEX7",
+    "aum": "26515320.76281799",
+    "judgment": "是",
+    "source": "https://www.ninepoint.com/funds/ninepoint-enhanced-canadian-highshares-etf/ ; https://1.ninepoint.com/ninepoint-highshares-etfs.html ; https://www.ninepoint.com/performance-sheet-download/en/ninepoint-nvidia-highshares-etf-performance-s-etf",
+    "confidence": "高",
+    "explanation": "专持Cameco Corp股票，采用主动covered call期权策略配合适度杠杆产生增强月度收益；Ninepoint HighShares官方材料明确说明使用covered calls；NVHI资料还写明持有单一股票并使用covered call策略。"
+  },
+  {
+    "name": "Evolve Canadian Ey Enh Y Idx ETF CAD UnH",
+    "ticker": "OILY",
+    "secid": "F00001Q7ES",
+    "aum": "23396236.71687717",
+    "judgment": "是",
+    "source": "https://evolveetfs.com/product/utes/ ; https://evolveetfs.com/product/oily/",
+    "confidence": "高",
+    "explanation": "投资加拿大能源公司，采用covered call期权写作计划增强收益并降低波动；Evolve产品页明确标注active covered call strategy并配合杠杆增强收益。"
+  },
+  {
+    "name": "Harvest Premium Yield Enhanced ETF Cl A",
+    "ticker": "HPYE",
+    "secid": "F00001T95M",
+    "aum": "23224199.79247916",
+    "judgment": "是",
+    "source": "https://harvestportfolios.com/etf/hdif/ ; https://harvestportfolios.com/etf/hpye/ ; https://harvestportfolios.com/etf/hpyb/ ; https://harvestportfolios.com/etf/hbie/",
+    "confidence": "高",
+    "explanation": "产品明确使用active option writing策略，包括covered call和covered put期权写作以增强收入并降低波动性；Harvest 相关产品公开材料说明采用 covered call/option writing 或 calls and puts 增强收益。"
+  },
+  {
+    "name": "BB RF PRE IND FUT TX JUROS S&P/B3 FIIM",
+    "ticker": "FIXA11",
+    "secid": "F00001158S",
+    "aum": "22797248.13304171",
+    "judgment": "否",
+    "source": "https://www.wisdomtree.com/investments/etfs/alternatives/gdt ; https://ci.com/en/investment-solutions/funds/ci-auspice-broad-commodity-fund ; https://www.auspicecapital.com/indices/broad-commodity-index",
+    "confidence": "中",
+    "explanation": "跟踪巴西S&P/B3未来利率指数，使用期货（futures）而非期权进行利率敞口管理；公开资料显示暴露主要来自商品、利率、黄金/白银或期货指数；未见期权策略说明。"
+  },
+  {
+    "name": "BetaShares Aus Equities Bear Hedge ETF",
+    "ticker": "BEAR",
+    "secid": "F00000OMK9",
+    "aum": "22134247.73054219",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "低",
+    "explanation": "使用ASX SPI 200期货获取空头敞口，官方说明明确指出使用futures而非期权；根据产品名称、管理人、类别和公开检索入口，未见 covered call、put/call writing、FLEX options、buffer、box spread 等期权策略证据。"
+  },
+  {
+    "name": "ProShares Hedge Replication",
+    "ticker": "HDG",
+    "secid": "F00000LI6P",
+    "aum": "21706996",
+    "judgment": "否",
+    "source": "https://unlimitedetfs.com/hfgm/ ; https://longpointetfs.com/etfs/rgbm ; https://www.proshares.com/our-etfs/strategic/hdg ; https://www.fondsdesjardins.com/etf/global-macro/",
+    "confidence": "低",
+    "explanation": "通过swap、期货和股票多空仓位复制对冲基金收益特征，持仓以T-Bills、Index Swaps为主，非期权策略；公开资料主要指向global macro、return stacking、hedge replication或长短仓/期货/衍生品；未确认期权是核心或实际持仓。"
+  },
+  {
+    "name": "Ninepoint Cnr Highshares ETF",
+    "ticker": "CRHI",
+    "secid": "F00001SEX8",
+    "aum": "21394215.8932341",
+    "judgment": "是",
+    "source": "https://www.ninepoint.com/funds/ninepoint-enhanced-canadian-highshares-etf/ ; https://1.ninepoint.com/ninepoint-highshares-etfs.html ; https://www.ninepoint.com/performance-sheet-download/en/ninepoint-nvidia-highshares-etf-performance-s-etf",
+    "confidence": "高",
+    "explanation": "Ninepoint HighShares系列产品，明确使用covered call策略加适度杠杆以产生高月度收入；Ninepoint HighShares官方材料明确说明使用covered calls；NVHI资料还写明持有单一股票并使用covered call策略。"
+  },
+  {
+    "name": "Ninepoint Shopify Highshares ETF",
+    "ticker": "SHHI",
+    "secid": "F00001SEXD",
+    "aum": "21108360.22755734",
+    "judgment": "是",
+    "source": "https://www.ninepoint.com/funds/ninepoint-enhanced-canadian-highshares-etf/ ; https://1.ninepoint.com/ninepoint-highshares-etfs.html ; https://www.ninepoint.com/performance-sheet-download/en/ninepoint-nvidia-highshares-etf-performance-s-etf",
+    "confidence": "高",
+    "explanation": "Ninepoint HighShares系列产品，使用covered call策略对Shopify股票进行期权写作以增强收入；Ninepoint HighShares官方材料明确说明使用covered calls；NVHI资料还写明持有单一股票并使用covered call策略。"
+  },
+  {
+    "name": "Global X Enh All-Eq Asst Allc ETF CAD",
+    "ticker": "HEQL",
+    "secid": "F00001H2DL",
+    "aum": "20150786.07463594",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "中",
+    "explanation": "通过25%杠杆叠加增强全球股票配置回报，使用swap等衍生品实现杠杆，非期权核心策略（推断）；产品名称和公开资料显示为主题指数、资产配置或普通ETF，未见期权策略说明。"
+  },
+  {
+    "name": "First Trust Merger Arbitrage ETF",
+    "ticker": "MARB",
+    "secid": "F000014BZ2",
+    "aum": "19897725",
+    "judgment": "否",
+    "source": "https://www.newyorklifeinvestments.com/etf/mna ; https://www.altshares.com/funds/arb/ ; https://www.proshares.com/our-etfs/strategic/mrgr ; https://www.ftportfolios.com/retail/etf/etfsummary.aspx?Ticker=MARB",
+    "confidence": "高",
+    "explanation": "并购套利策略，主要通过做多收购标的、做空收购方股票实现收益，核心工具为股票仓位而非期权；公开资料显示核心为并购套利、事件驱动、SPAC/新发行证券等，未见期权为核心构建工具。"
+  },
+  {
+    "name": "Accelerate OneChoice Altrntv MA",
+    "ticker": "ONEC",
+    "secid": "F000016EP0",
+    "aum": "19831963.26812094",
+    "judgment": "是",
+    "source": "公开资料不足；建议查发行说明书、最新持仓或交易所/监管披露。",
+    "confidence": "低",
+    "explanation": "多策略FOF，投资于并购套利、多空股票、管理期货等多个策略，可能通过子基金间接持有少量期权，但非核心（推断）；Accelerate另类多策略产品，公开摘要不足以确认期权持仓或期权主导。"
+  },
+  {
+    "name": "Ninepoint Crypto and AI Leaders ETF",
+    "ticker": "TKN.U",
+    "secid": "F00001CJB0",
+    "aum": "19619922",
+    "judgment": "否",
+    "source": "https://www.hashdex.com/en-US/products/hash11 ; https://www.hashdex.com/en-US/products ; https://www.qrasset.com.br/",
+    "confidence": "中",
+    "explanation": "投资于加密和AI领域公司的多空股票策略ETF，未提及使用期权作为核心工具；公开信息显示主要跟踪数字资产、加密指数或相关策略，未见使用期权构建收益/缓冲/对冲结构。"
+  },
+  {
+    "name": "Ninepoint TD Highshares ETF",
+    "ticker": "TDHI",
+    "secid": "F00001SEXE",
+    "aum": "17714095.67426383",
+    "judgment": "是",
+    "source": "https://www.ninepoint.com/funds/ninepoint-enhanced-canadian-highshares-etf/ ; https://1.ninepoint.com/ninepoint-highshares-etfs.html ; https://www.ninepoint.com/performance-sheet-download/en/ninepoint-nvidia-highshares-etf-performance-s-etf",
+    "confidence": "高",
+    "explanation": "Ninepoint HighShares系列产品，对TD银行股票使用covered call策略以增强月度收入；Ninepoint HighShares官方材料明确说明使用covered calls；NVHI资料还写明持有单一股票并使用covered call策略。"
+  },
+  {
+    "name": "Ninepoint Royal Bank Highshares ETF",
+    "ticker": "RYHI",
+    "secid": "F00001SEXA",
+    "aum": "17434618.76990232",
+    "judgment": "是",
+    "source": "https://www.ninepoint.com/funds/ninepoint-enhanced-canadian-highshares-etf/ ; https://1.ninepoint.com/ninepoint-highshares-etfs.html ; https://www.ninepoint.com/performance-sheet-download/en/ninepoint-nvidia-highshares-etf-performance-s-etf",
+    "confidence": "高",
+    "explanation": "Ninepoint HighShares系列产品，对Royal Bank股票使用covered call策略以增强月度收入；Ninepoint HighShares官方材料明确说明使用covered calls；NVHI资料还写明持有单一股票并使用covered call策略。"
+  },
+  {
+    "name": "Mackenzie GQE US Alpha Extension ETF",
+    "ticker": "MALX",
+    "secid": "F00001S8IG",
+    "aum": "16748753.80156714",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "中",
+    "explanation": "130/30扩展策略，通过传统多头仓位加卖空获取额外alpha，核心工具为股票多空而非期权；公开资料显示核心为多空股票、市场中性或低/高Beta配对，不是以期权构建的策略产品。"
+  },
+  {
+    "name": "ProShares Merger",
+    "ticker": "MRGR",
+    "secid": "F00000O2XA",
+    "aum": "15901746",
+    "judgment": "否",
+    "source": "https://www.newyorklifeinvestments.com/etf/mna ; https://www.altshares.com/funds/arb/ ; https://www.proshares.com/our-etfs/strategic/mrgr ; https://www.ftportfolios.com/retail/etf/etfsummary.aspx?Ticker=MARB",
+    "confidence": "高",
+    "explanation": "并购套利ETF，使用swap、远期合约(forwards)和股票多空仓位，非期权核心策略；公开资料显示核心为并购套利、事件驱动、SPAC/新发行证券等，未见期权为核心构建工具。"
+  },
+  {
+    "name": "Fidelity Global Opportunities L/S ETF",
+    "ticker": "FLSE",
+    "secid": "F00001TH44",
+    "aum": "15478484.99147036",
+    "judgment": "是",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "中",
+    "explanation": "全球多空股票ETF，说明提及增加使用衍生品（含对冲和非对冲用途），可能包含期权但非核心策略（推断）；公开资料显示核心为多空股票、市场中性或低/高Beta配对，不是以期权构建的策略产品。"
+  },
+  {
+    "name": "SSIAM VNFIN LEAD ETF",
+    "ticker": "FUESSVFL",
+    "secid": "F000015296",
+    "aum": "15296140.17196548",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "低",
+    "explanation": "被动跟踪越南VNFIN LEAD金融指数，纯股票指数复制策略，不使用期权；根据产品名称、管理人、类别和公开检索入口，未见 covered call、put/call writing、FLEX options、buffer、box spread 等期权策略证据。"
+  },
+  {
+    "name": "INVESTO MSCI US REAL ESTATE FIIM",
+    "ticker": "ALUG11",
+    "secid": "F00001D3TQ",
+    "aum": "14704381.78558058",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "低",
+    "explanation": "在巴西复制MSCI美国房地产指数（类似VNQ），被动指数跟踪，不使用期权；根据产品名称、管理人、类别和公开检索入口，未见 covered call、put/call writing、FLEX options、buffer、box spread 等期权策略证据。"
+  },
+  {
+    "name": "BetaPro S&P 500 VIX ST Futures ETF",
+    "ticker": "VOLX",
+    "secid": "F00000LNES",
+    "aum": "13885213.78224623",
+    "judgment": "否",
+    "source": "https://ipathetn.barclays/vxx ; https://www.proshares.com/our-etfs/strategic/vixm ; https://www.spglobal.com/spdji/en/indices/strategy/sp-500-vix-short-term-futures-index/",
+    "confidence": "高",
+    "explanation": "通过VIX短期期货合约获取波动率敞口，核心工具为VIX期货而非期权；产品暴露为 S&P 500 VIX Short-Term/Mid-Term Futures 等 VIX 期货指数；VIX指数由期权隐含波动率计算，但该产品本身不是持有期权或卖期权的期权策略产品。"
+  },
+  {
+    "name": "QR CME CF ETHER REF RATE FIIM",
+    "ticker": "QETH11",
+    "secid": "F00001CIUC",
+    "aum": "13716727.74920691",
+    "judgment": "否",
+    "source": "https://www.hashdex.com/en-US/products/hash11 ; https://www.hashdex.com/en-US/products ; https://www.qrasset.com.br/",
+    "confidence": "中",
+    "explanation": "跟踪CME CF以太坊参考价格指数，纯加密货币现货/期货敞口，不使用期权；公开信息显示主要跟踪数字资产、加密指数或相关策略，未见使用期权构建收益/缓冲/对冲结构。"
+  },
+  {
+    "name": "Ninepoint Barrick Highshares ETF",
+    "ticker": "ABHI",
+    "secid": "F00001SEX5",
+    "aum": "12896011.30630792",
+    "judgment": "是",
+    "source": "https://www.ninepoint.com/funds/ninepoint-enhanced-canadian-highshares-etf/ ; https://1.ninepoint.com/ninepoint-highshares-etfs.html ; https://www.ninepoint.com/performance-sheet-download/en/ninepoint-nvidia-highshares-etf-performance-s-etf",
+    "confidence": "高",
+    "explanation": "Ninepoint HighShares系列产品，对Barrick Gold股票使用covered call策略以增强收入；Ninepoint HighShares官方材料明确说明使用covered calls；NVHI资料还写明持有单一股票并使用covered call策略。"
+  },
+  {
+    "name": "Ninepoint Enbridge Highshares ETF",
+    "ticker": "ENHI",
+    "secid": "F00001SEX9",
+    "aum": "12801766.78950946",
+    "judgment": "是",
+    "source": "https://www.ninepoint.com/funds/ninepoint-enhanced-canadian-highshares-etf/ ; https://1.ninepoint.com/ninepoint-highshares-etfs.html ; https://www.ninepoint.com/performance-sheet-download/en/ninepoint-nvidia-highshares-etf-performance-s-etf",
+    "confidence": "高",
+    "explanation": "Ninepoint HighShares系列产品，对Enbridge股票使用covered call策略以增强收入；Ninepoint HighShares官方材料明确说明使用covered calls；NVHI资料还写明持有单一股票并使用covered call策略。"
+  },
+  {
+    "name": "AltShares Event-Driven ETF",
+    "ticker": "EVNT",
+    "secid": "F0000175EW",
+    "aum": "12352098",
+    "judgment": "否",
+    "source": "https://www.newyorklifeinvestments.com/etf/mna ; https://www.altshares.com/funds/arb/ ; https://www.proshares.com/our-etfs/strategic/mrgr ; https://www.ftportfolios.com/retail/etf/etfsummary.aspx?Ticker=MARB",
+    "confidence": "高",
+    "explanation": "事件驱动多空策略ETF，通过持有股票和债务证券的长空头寸获利，非期权核心策略；公开资料显示核心为并购套利、事件驱动、SPAC/新发行证券等，未见期权为核心构建工具。"
+  },
+  {
+    "name": "Ossiam Global Perspectives ETF 1D € Dis",
+    "ticker": "",
+    "secid": "F00001TKXK",
+    "aum": "11885783.10176318",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "低",
+    "explanation": "主动管理多资产配置ETF，跟踪量化/系统化策略，核心为资产配置而非期权交易（推断）；根据产品名称、管理人、类别和公开检索入口，未见 covered call、put/call writing、FLEX options、buffer、box spread 等期权策略证据。"
+  },
+  {
+    "name": "Ninepoint Bce Highshares ETF",
+    "ticker": "BCHI",
+    "secid": "F00001SEX6",
+    "aum": "11879931.30344556",
+    "judgment": "是",
+    "source": "https://www.ninepoint.com/funds/ninepoint-enhanced-canadian-highshares-etf/ ; https://1.ninepoint.com/ninepoint-highshares-etfs.html ; https://www.ninepoint.com/performance-sheet-download/en/ninepoint-nvidia-highshares-etf-performance-s-etf",
+    "confidence": "高",
+    "explanation": "Ninepoint HighShares系列产品，对BCE股票使用covered call策略以增强收入；Ninepoint HighShares官方材料明确说明使用covered calls；NVHI资料还写明持有单一股票并使用covered call策略。"
+  },
+  {
+    "name": "DCVFMVNMIDCAP ETF",
+    "ticker": "FUEDCMID",
+    "secid": "F00001P8BH",
+    "aum": "11837375.48697075",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "低",
+    "explanation": "被动跟踪越南VN Midcap指数，纯股票指数复制策略，不使用期权；根据产品名称、管理人、类别和公开检索入口，未见 covered call、put/call writing、FLEX options、buffer、box spread 等期权策略证据。"
+  },
+  {
+    "name": "EMPIRICUS TEVA CRIPTOMOEDAS TOP 20 FIIM",
+    "ticker": "CRPT11",
+    "secid": "F00001DVE8",
+    "aum": "11404597.74191641",
+    "judgment": "否",
+    "source": "https://www.hashdex.com/en-US/products/hash11 ; https://www.hashdex.com/en-US/products ; https://www.qrasset.com.br/",
+    "confidence": "中",
+    "explanation": "跟踪Teva加密Top20指数，纯加密货币指数基金，不使用期权；公开信息显示主要跟踪数字资产、加密指数或相关策略，未见使用期权构建收益/缓冲/对冲结构。"
+  },
+  {
+    "name": "TREND IFIX-L FIIM",
+    "ticker": "XFIX11",
+    "secid": "F0000164V2",
+    "aum": "10930766.88144076",
+    "judgment": "否",
+    "source": "https://www.wisdomtree.com/investments/etfs/alternatives/gdt ; https://ci.com/en/investment-solutions/funds/ci-auspice-broad-commodity-fund ; https://www.auspicecapital.com/indices/broad-commodity-index",
+    "confidence": "中",
+    "explanation": "跟踪巴西IFIX房地产基金指数，被动指数复制策略，不使用期权；公开资料显示暴露主要来自商品、利率、黄金/白银或期货指数；未见期权策略说明。"
+  },
+  {
+    "name": "WisdomTree Efficient TIPS Plus Gold Fund",
+    "ticker": "GDT",
+    "secid": "F00001SDZ6",
+    "aum": "10906625",
+    "judgment": "否",
+    "source": "https://www.wisdomtree.com/investments/etfs/alternatives/gdt ; https://ci.com/en/investment-solutions/funds/ci-auspice-broad-commodity-fund ; https://www.auspicecapital.com/indices/broad-commodity-index",
+    "confidence": "中",
+    "explanation": "投资TIPS债券和美国上市黄金期货合约，核心工具为债券和期货，不使用期权；公开资料显示暴露主要来自商品、利率、黄金/白银或期货指数；未见期权策略说明。"
+  },
+  {
+    "name": "HASHDEX NASDAQ SOLANA FIIM",
+    "ticker": "SOLH11",
+    "secid": "F00001P0ZM",
+    "aum": "10673752.8324565",
+    "judgment": "否",
+    "source": "https://www.hashdex.com/en-US/products/hash11 ; https://www.hashdex.com/en-US/products ; https://www.qrasset.com.br/",
+    "confidence": "中",
+    "explanation": "跟踪Nasdaq Solana参考价格指数，纯加密货币敞口，不使用期权；公开信息显示主要跟踪数字资产、加密指数或相关策略，未见使用期权构建收益/缓冲/对冲结构。"
+  },
+  {
+    "name": "Ninepoint Suncor Highshares ETF",
+    "ticker": "SUHI",
+    "secid": "F00001SEXC",
+    "aum": "10551772.87201689",
+    "judgment": "是",
+    "source": "https://www.ninepoint.com/funds/ninepoint-enhanced-canadian-highshares-etf/ ; https://1.ninepoint.com/ninepoint-highshares-etfs.html ; https://www.ninepoint.com/performance-sheet-download/en/ninepoint-nvidia-highshares-etf-performance-s-etf",
+    "confidence": "高",
+    "explanation": "Ninepoint HighShares系列产品，对Suncor Energy股票使用covered call策略以增强收入；Ninepoint HighShares官方材料明确说明使用covered calls；NVHI资料还写明持有单一股票并使用covered call策略。"
+  },
+  {
+    "name": "Urbion Captal ETP Ser 571 NtsDue2045$Acc",
+    "ticker": "XS3255358908",
+    "secid": "F00001UHOX",
+    "aum": "10130148",
+    "judgment": "否",
+    "source": "公开资料不足；建议查发行说明书、最新持仓或交易所/监管披露。",
+    "confidence": "低",
+    "explanation": "结构化ETP债务票据，信息有限，无明确证据表明使用期权策略（推断）；该类ETP/票据名称不足以确认期权结构，需查发行条款、term sheet或交易所披露。"
+  },
+  {
+    "name": "Virtus AlphaSimplex Global Macro ETF",
+    "ticker": "ASGM",
+    "secid": "F00001Q6UG",
+    "aum": "8850875",
+    "judgment": "否",
+    "source": "公开资料不足；建议查发行说明书、最新持仓或交易所/监管披露。",
+    "confidence": "低",
+    "explanation": "系统化全球宏观策略，使用期货、外汇和股票ETF进行趋势跟踪，非期权核心策略（推断）；宏观另类策略产品，公开摘要不足以确认期权持仓或期权主导。"
+  },
+  {
+    "name": "Harvest Balanced Income & Growth Enh ETF",
+    "ticker": "HBIE",
+    "secid": "F00001KM50",
+    "aum": "8725776.235285698",
+    "judgment": "是",
+    "source": "https://harvestportfolios.com/etf/hbie/ ; https://harvestportfolios.com/covered-call-option-etfs/ ; https://harvestportfolios.com/wp-content/uploads/call_option/Call_Option_Writing_Strategy.pdf",
+    "confidence": "高",
+    "explanation": "Harvest产品，明确使用covered call策略增强组合收入并降低波动性；Harvest将HBIE列入covered call ETF体系，说明复制HBIG组合并通过covered call策略增强现金流。"
+  },
+  {
+    "name": "SPAC and New Issue ETF",
+    "ticker": "SPCK",
+    "secid": "F000015RZZ",
+    "aum": "8285967",
+    "judgment": "否",
+    "source": "https://www.newyorklifeinvestments.com/etf/mna ; https://www.altshares.com/funds/arb/ ; https://www.proshares.com/our-etfs/strategic/mrgr ; https://www.ftportfolios.com/retail/etf/etfsummary.aspx?Ticker=MARB",
+    "confidence": "高",
+    "explanation": "投资SPAC和IPO新股，纯股票投资策略，不以期权为核心工具；公开资料显示核心为并购套利、事件驱动、SPAC/新发行证券等，未见期权为核心构建工具。"
+  },
+  {
+    "name": "Listed Idx MSCI JPEq HiDiv LowVltl BetaH",
+    "ticker": "1490",
+    "secid": "F00000YNG2",
+    "aum": "7006369.426751592",
+    "judgment": "否",
+    "source": "https://agfiq.com/etf/btal ; https://www.bmo.com/main/personal/investments/mutual-funds/etf/bmo-long-short-us-equity-etf-zlsu/ ; https://www.firsttrust.ca/Retail/Etf/EtfSummary.aspx?Ticker=FTLS ; https://www.arrow-capital.com/funds/adiv/ ; https://www.desjardins.com/ca/personal/savings-investment/investment-products/exchange-traded-funds/market-neutral-etf/index.jsp",
+    "confidence": "中",
+    "explanation": "跟踪MSCI日本高股息低波动指数并进行Beta对冲，对冲工具可能为期货而非期权（推断）；公开资料显示核心为多空股票、市场中性或低/高Beta配对，不是以期权构建的策略产品。"
+  },
+  {
+    "name": "First Trust Long/Short Equity ETF",
+    "ticker": "FTLS",
+    "secid": "F00001S2EU",
+    "aum": "6576757.665748327",
+    "judgment": "否",
+    "source": "https://agfiq.com/etf/btal ; https://www.bmo.com/main/personal/investments/mutual-funds/etf/bmo-long-short-us-equity-etf-zlsu/ ; https://www.firsttrust.ca/Retail/Etf/EtfSummary.aspx?Ticker=FTLS ; https://www.arrow-capital.com/funds/adiv/ ; https://www.desjardins.com/ca/personal/savings-investment/investment-products/exchange-traded-funds/market-neutral-etf/index.jsp",
+    "confidence": "中",
+    "explanation": "主动管理多空股票ETF，通过股票长空头寸获取回报，非期权核心策略；公开资料显示核心为多空股票、市场中性或低/高Beta配对，不是以期权构建的策略产品。"
+  },
+  {
+    "name": "Purpose Tactical Hedged Eq ETF (N-C Hdg)",
+    "ticker": "PHE.B",
+    "secid": "F00000T8TT",
+    "aum": "6439061.86267845",
+    "judgment": "是",
+    "source": "https://www.purposeinvest.com/funds/purpose-tactical-hedged-equity-fund",
+    "confidence": "高",
+    "explanation": "多空股票策略加市场对冲，可能使用期权进行下行保护但对冲核心为股票空头（推断）；Purpose官方产品页写明采用options-based hedging strategy以降低重大下跌风险。"
+  },
+  {
+    "name": "Ninepoint Kinross Gold HighShares ETF",
+    "ticker": "KGHI",
+    "secid": "F000026E1X",
+    "aum": "6151364.2706358",
+    "judgment": "是",
+    "source": "https://www.ninepoint.com/funds/ninepoint-enhanced-canadian-highshares-etf/ ; https://1.ninepoint.com/ninepoint-highshares-etfs.html ; https://www.ninepoint.com/performance-sheet-download/en/ninepoint-nvidia-highshares-etf-performance-s-etf",
+    "confidence": "高",
+    "explanation": "Ninepoint HighShares系列产品，对Kinross Gold股票使用covered call策略以增强收入；Ninepoint HighShares官方材料明确说明使用covered calls；NVHI资料还写明持有单一股票并使用covered call策略。"
+  },
+  {
+    "name": "First Trust FactorFX ETF A USD",
+    "ticker": "FTFX",
+    "secid": "F00000ZBCN",
+    "aum": "5837809",
+    "judgment": "否",
+    "source": "https://www.invesco.com/us/financial-products/etfs/product-detail?productId=ETF-UUP ; https://www.invesco.com/us/financial-products/etfs/product-detail?productId=ETF-UDN ; https://www.wisdomtree.com/investments/etfs/currency/usdu",
+    "confidence": "中",
+    "explanation": "量化因子货币策略ETF，投资主权债券和货币远期/互换获取G10货币敞口，不使用期权；公开资料显示主要为美元/货币指数或货币期货暴露，未见期权作为核心策略。"
+  },
+  {
+    "name": "Accelerate Canadian Long Short Equity Fd",
+    "ticker": "ATSX",
+    "secid": "F000013M2P",
+    "aum": "5507688.287176508",
+    "judgment": "否",
+    "source": "https://agfiq.com/etf/btal ; https://www.bmo.com/main/personal/investments/mutual-funds/etf/bmo-long-short-us-equity-etf-zlsu/ ; https://www.firsttrust.ca/Retail/Etf/EtfSummary.aspx?Ticker=FTLS ; https://www.arrow-capital.com/funds/adiv/ ; https://www.desjardins.com/ca/personal/savings-investment/investment-products/exchange-traded-funds/market-neutral-etf/index.jsp",
+    "confidence": "中",
+    "explanation": "量化150/50多空股票对冲基金，通过S&P/TSX 60成分股多空仓位获取alpha，非期权策略；公开资料显示核心为多空股票、市场中性或低/高Beta配对，不是以期权构建的策略产品。"
+  },
+  {
+    "name": "Yuanta S&P US Dollar ER Futures ETF",
+    "ticker": "00682U",
+    "secid": "F00000YPT5",
+    "aum": "4993303.322343394",
+    "judgment": "否",
+    "source": "https://www.invesco.com/us/financial-products/etfs/product-detail?productId=ETF-UUP ; https://www.invesco.com/us/financial-products/etfs/product-detail?productId=ETF-UDN ; https://www.wisdomtree.com/investments/etfs/currency/usdu",
+    "confidence": "中",
+    "explanation": "跟踪美元指数(DXY)期货价格，核心工具为美元期货合约，不使用期权；台湾 ETN/期货指数产品通常跟踪指数或期货指数；公开交易所资料显示为 ETN/Index/Futures Index，不属于期权策略产品。"
+  },
+  {
+    "name": "Ninepoint Constellation Sftwr HghShrsETF",
+    "ticker": "CSHI",
+    "secid": "F000026E1V",
+    "aum": "4055820.959604994",
+    "judgment": "是",
+    "source": "https://www.ninepoint.com/funds/ninepoint-enhanced-canadian-highshares-etf/ ; https://1.ninepoint.com/ninepoint-highshares-etfs.html ; https://www.ninepoint.com/performance-sheet-download/en/ninepoint-nvidia-highshares-etf-performance-s-etf",
+    "confidence": "高",
+    "explanation": "Ninepoint HighShares系列产品，对Constellation Software股票使用covered call策略以增强收入；Ninepoint HighShares官方材料明确说明使用covered calls；NVHI资料还写明持有单一股票并使用covered call策略。"
+  },
+  {
+    "name": "Mackenzie Canadian High Div Yield ETF",
+    "ticker": "MHDC",
+    "secid": "F00001SG2K",
+    "aum": "3835866.757307954",
+    "judgment": "是",
+    "source": "https://www.mackenzieinvestments.com/en/products/etfs/mackenzie-canadian-high-dividend-yield-etf-mhdc ; https://www.mackenzieinvestments.com/en/products/etfs/mackenzie-us-high-dividend-yield-etf-mhdu",
+    "confidence": "高",
+    "explanation": "加拿大高股息股票ETF，投资S&P/TSX高股息指数成分股，纯股票策略（推断）；Mackenzie产品页明确写明flexible option writing以增强收益。"
+  },
+  {
+    "name": "ForAll Core & More U.S. Equity Index ETF",
+    "ticker": "FORU",
+    "secid": "F00001OQ4H",
+    "aum": "3405698.236072847",
+    "judgment": "是",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "中",
+    "explanation": "多策略美国股票ETF，使用动态信号和杠杆，可能通过替代型基金间接使用期权对冲（推断）；产品名称和公开资料显示为主题指数、资产配置或普通ETF，未见期权策略说明。"
+  },
+  {
+    "name": "Mackenzie US High Dividend Yield ETF",
+    "ticker": "MHDU",
+    "secid": "F00001SG2H",
+    "aum": "3347966.653547533",
+    "judgment": "是",
+    "source": "https://www.mackenzieinvestments.com/en/products/etfs/mackenzie-canadian-high-dividend-yield-etf-mhdc ; https://www.mackenzieinvestments.com/en/products/etfs/mackenzie-us-high-dividend-yield-etf-mhdu",
+    "confidence": "高",
+    "explanation": "官方明确提到'flexible option writing for optimal premiums'，使用灵活的期权写作策略增强收益；Mackenzie产品页明确写明flexible option writing以增强收益。"
+  },
+  {
+    "name": "B VISTA VETTAFI NEOS BOOST BTC HI FIIM",
+    "ticker": "XBCI11",
+    "secid": "F00001UJKC",
+    "aum": "2531000.571417312",
+    "judgment": "是",
+    "source": "https://www.hashdex.com/en-US/products/hash11 ; https://www.hashdex.com/en-US/products ; https://www.qrasset.com.br/",
+    "confidence": "中",
+    "explanation": "巴西版NEOS Boosted Bitcoin高收入ETF，使用合成covered call策略（期权）在比特币上产生月度收入；公开信息显示主要跟踪数字资产、加密指数或相关策略，未见使用期权构建收益/缓冲/对冲结构。"
+  },
+  {
+    "name": "Simplify Tax Aware Alternatives ETF",
+    "ticker": "LQ",
+    "secid": "F00001TH7E",
+    "aum": "2409991",
+    "judgment": "是",
+    "source": "https://www.simplify.us/etfs/lq-simplify-tax-aware-alternatives-etf ; https://www.simplify.us/etfs/qis-simplify-multi-qis-alternative-etf",
+    "confidence": "中",
+    "explanation": "多策略替代ETF，使用远期、期货、互换和期权等多种衍生品，期权为策略组成但非唯一核心；Simplify LQ代表性配置包含Treasury Option Income ETF、Hedged Equity ETF等期权相关底层，但LQ本身是税务友好的另类组合。"
+  },
+  {
+    "name": "Ninepoint Intel HighShares ETF",
+    "ticker": "INHI",
+    "secid": "F000026E1W",
+    "aum": "2220457.261440481",
+    "judgment": "是",
+    "source": "https://www.ninepoint.com/funds/ninepoint-enhanced-canadian-highshares-etf/ ; https://1.ninepoint.com/ninepoint-highshares-etfs.html ; https://www.ninepoint.com/performance-sheet-download/en/ninepoint-nvidia-highshares-etf-performance-s-etf",
+    "confidence": "高",
+    "explanation": "Ninepoint HighShares系列产品，对Intel股票使用covered call策略以增强收入；Ninepoint HighShares官方材料明确说明使用covered calls；NVHI资料还写明持有单一股票并使用covered call策略。"
+  },
+  {
+    "name": "iShares U.S. Aerospace & Dfnc ETF USDAcc",
+    "ticker": "DFCU",
+    "secid": "F00002JNHI",
+    "aum": "2122873",
+    "judgment": "否",
+    "source": "https://www.newyorklifeinvestments.com/etf/mna ; https://www.altshares.com/funds/arb/ ; https://www.proshares.com/our-etfs/strategic/mrgr ; https://www.ftportfolios.com/retail/etf/etfsummary.aspx?Ticker=MARB",
+    "confidence": "高",
+    "explanation": "被动跟踪道琼斯美国航空航天与国防指数，纯股票指数复制策略，不使用期权；公开资料显示核心为并购套利、事件驱动、SPAC/新发行证券等，未见期权为核心构建工具。"
+  },
+  {
+    "name": "HASHDEX CRYPTO MOMENTUM FIIM",
+    "ticker": "FOMO11",
+    "secid": "F00001QHUR",
+    "aum": "2046470.808456976",
+    "judgment": "否",
+    "source": "https://www.hashdex.com/en-US/products/hash11 ; https://www.hashdex.com/en-US/products ; https://www.qrasset.com.br/",
+    "confidence": "中",
+    "explanation": "跟踪Kaiko Hashdex Risk Parity加密动量指数，纯加密货币策略，不使用期权；公开信息显示主要跟踪数字资产、加密指数或相关策略，未见使用期权构建收益/缓冲/对冲结构。"
+  },
+  {
+    "name": "Ninepoint Celestica HighShares ETF",
+    "ticker": "CLHI",
+    "secid": "F000026E1T",
+    "aum": "2023509.24898923",
+    "judgment": "是",
+    "source": "https://www.ninepoint.com/funds/ninepoint-enhanced-canadian-highshares-etf/ ; https://1.ninepoint.com/ninepoint-highshares-etfs.html ; https://www.ninepoint.com/performance-sheet-download/en/ninepoint-nvidia-highshares-etf-performance-s-etf",
+    "confidence": "高",
+    "explanation": "Ninepoint HighShares系列产品，对Celestica股票使用covered call策略以增强收入；Ninepoint HighShares官方材料明确说明使用covered calls；NVHI资料还写明持有单一股票并使用covered call策略。"
+  },
+  {
+    "name": "OSSIAM SHILLER BARCLAYS CAPE US MNETF1C$",
+    "ticker": "",
+    "secid": "F0000261BT",
+    "aum": "1870418",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "低",
+    "explanation": "基于Shiller CAPE比率的美国市场中性ETF，使用swap进行合成复制，非期权策略（推断）；根据产品名称、管理人、类别和公开检索入口，未见 covered call、put/call writing、FLEX options、buffer、box spread 等期权策略证据。"
+  },
+  {
+    "name": "Pacer Swan SOS Moderate (March) ETF",
+    "ticker": "MMAR",
+    "secid": "F00001TJCL",
+    "aum": "1617140",
+    "judgment": "是",
+    "source": "https://www.paceretfs.com/products/structured-outcome-strategies/mmay ; https://etfgi.com/news/stories/2026/06/pacer-lowers-fees-across-swan-sos-etf-series-and-expands-moderate-buffer-etf",
+    "confidence": "高",
+    "explanation": "Pacer Swan SOS缓冲ETF系列，使用FLEX Options实现结构化收益策略（buffer保护+上行上限）；Pacer Swan SOS Moderate系列公开材料说明主要投资FLEX Options以实现structured outcome/buffer。"
+  },
+  {
+    "name": "Pacer Swan SOS Moderate (December) ETF",
+    "ticker": "MDCR",
+    "secid": "F00001TJCJ",
+    "aum": "1614472",
+    "judgment": "是",
+    "source": "https://www.paceretfs.com/products/structured-outcome-strategies/mmay ; https://etfgi.com/news/stories/2026/06/pacer-lowers-fees-across-swan-sos-etf-series-and-expands-moderate-buffer-etf",
+    "confidence": "高",
+    "explanation": "Pacer Swan SOS缓冲ETF系列，使用FLEX Options实现结构化收益策略（buffer保护+上行上限）；Pacer Swan SOS Moderate系列公开材料说明主要投资FLEX Options以实现structured outcome/buffer。"
+  },
+  {
+    "name": "Pacer Swan SOS Moderate (September) ETF",
+    "ticker": "MSEP",
+    "secid": "F00001TJCG",
+    "aum": "1610365",
+    "judgment": "是",
+    "source": "https://www.paceretfs.com/products/structured-outcome-strategies/mmay ; https://etfgi.com/news/stories/2026/06/pacer-lowers-fees-across-swan-sos-etf-series-and-expands-moderate-buffer-etf",
+    "confidence": "高",
+    "explanation": "Pacer Swan SOS缓冲ETF系列，使用FLEX Options实现结构化收益策略（buffer保护+上行上限）；Pacer Swan SOS Moderate系列公开材料说明主要投资FLEX Options以实现structured outcome/buffer。"
+  },
+  {
+    "name": "Ninepoint Tesla HighShares ETF",
+    "ticker": "TSHI",
+    "secid": "F000026E20",
+    "aum": "1572852.695981967",
+    "judgment": "是",
+    "source": "https://www.ninepoint.com/funds/ninepoint-enhanced-canadian-highshares-etf/ ; https://1.ninepoint.com/ninepoint-highshares-etfs.html ; https://www.ninepoint.com/performance-sheet-download/en/ninepoint-nvidia-highshares-etf-performance-s-etf",
+    "confidence": "高",
+    "explanation": "Ninepoint HighShares系列产品，对Tesla股票使用covered call策略以增强收入；Ninepoint HighShares官方材料明确说明使用covered calls；NVHI资料还写明持有单一股票并使用covered call策略。"
+  },
+  {
+    "name": "Ninepoint Alphabet HighShares ETF",
+    "ticker": "GOHI",
+    "secid": "F000026E1S",
+    "aum": "1540409.316970196",
+    "judgment": "是",
+    "source": "https://www.ninepoint.com/funds/ninepoint-highshares-etfs/ ; https://www.ninepoint.com/funds/ninepoint-enhanced-canadian-highshares-etf/",
+    "confidence": "高",
+    "explanation": "Ninepoint HighShares系列产品，对Alphabet股票使用covered call策略以增强收入；Ninepoint HighShares 系列公开材料说明使用 covered call，并主动管理每一笔期权以增强收益。"
+  },
+  {
+    "name": "Ninepoint Palantir HighShares ETF",
+    "ticker": "PLHI",
+    "secid": "F000026E1Z",
+    "aum": "1455068.875451715",
+    "judgment": "是",
+    "source": "https://www.ninepoint.com/funds/ninepoint-enhanced-canadian-highshares-etf/ ; https://1.ninepoint.com/ninepoint-highshares-etfs.html ; https://www.ninepoint.com/performance-sheet-download/en/ninepoint-nvidia-highshares-etf-performance-s-etf",
+    "confidence": "高",
+    "explanation": "Ninepoint HighShares系列产品，对Palantir股票使用covered call策略以增强收入；Ninepoint HighShares官方材料明确说明使用covered calls；NVHI资料还写明持有单一股票并使用covered call策略。"
+  },
+  {
+    "name": "QR BLOOMBERG DEFI FIIM",
+    "ticker": "QDFI11",
+    "secid": "F00001DKPJ",
+    "aum": "1445229.453606826",
+    "judgment": "否",
+    "source": "https://www.hashdex.com/en-US/products/hash11 ; https://www.hashdex.com/en-US/products ; https://www.qrasset.com.br/",
+    "confidence": "中",
+    "explanation": "跟踪Bloomberg Galaxy DeFi指数，纯加密货币/DeFi指数基金，不使用期权；公开信息显示主要跟踪数字资产、加密指数或相关策略，未见使用期权构建收益/缓冲/对冲结构。"
+  },
+  {
+    "name": "Ranallo Strategy Sr 589 due 2046 USD Acc",
+    "ticker": "XS3385446771",
+    "secid": "F00002JMRN",
+    "aum": "1308415",
+    "judgment": "是",
+    "source": "公开资料不足；建议查发行说明书、最新持仓或交易所/监管披露。",
+    "confidence": "低",
+    "explanation": "官方明确说明'active use of options, both to enhance returns and to manage risk'，期权为策略关键组成部分；该类ETP/票据名称不足以确认期权结构，需查发行条款、term sheet或交易所披露。"
+  },
+  {
+    "name": "Ninepoint NVIDIA HighShares ETF",
+    "ticker": "NVHI",
+    "secid": "F000026E1Y",
+    "aum": "1071996.135818813",
+    "judgment": "是",
+    "source": "https://www.ninepoint.com/funds/ninepoint-enhanced-canadian-highshares-etf/ ; https://1.ninepoint.com/ninepoint-highshares-etfs.html ; https://www.ninepoint.com/performance-sheet-download/en/ninepoint-nvidia-highshares-etf-performance-s-etf",
+    "confidence": "高",
+    "explanation": "Ninepoint HighShares系列产品，对NVIDIA股票使用covered call策略以增强收入；Ninepoint HighShares官方材料明确说明使用covered calls；NVHI资料还写明持有单一股票并使用covered call策略。"
+  },
+  {
+    "name": "Arimathea Catholic Bond Index ETF",
+    "ticker": "SHRD",
+    "secid": "F00001TAYS",
+    "aum": "1001449",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "中",
+    "explanation": "跟踪Bloomberg美国综合债券指数（天主教道德筛选），纯债券策略，不使用期权；产品名称和公开资料显示为主题指数、资产配置或普通ETF，未见期权策略说明。"
+  },
+  {
+    "name": "Milliman Healthcare Inflation Guard ETF",
+    "ticker": "MHIG",
+    "secid": "F00001T1EZ",
+    "aum": "995865",
+    "judgment": "是",
+    "source": "https://millimanfunds.com/ ; https://media.milliman.com/v1/media/edge/images/millimaninc5660-milliman6442-prod27d5-0001/media/Milliman/PDFs/Press-releases/2025/11-17-25_Milliman-ETFs-Filing-Announcement_Press-Release.pdf",
+    "confidence": "中",
+    "explanation": "SEC文件说明使用swap、期权和期货等衍生品追踪医疗通胀，期权为多工具之一但非唯一核心；Milliman材料显示基金通过医疗相关股票、债券、商品和流动另类策略追踪医疗成本通胀，未见期权主导结构。"
+  },
+  {
+    "name": "DDA Bitcoin Macro ETP",
+    "ticker": "BMAC FP",
+    "secid": "F00001LXGY",
+    "aum": "946050.5391695976",
+    "judgment": "否",
+    "source": "https://www.hashdex.com/en-US/products/hash11 ; https://www.hashdex.com/en-US/products ; https://www.qrasset.com.br/",
+    "confidence": "中",
+    "explanation": "基于宏观经济因子动态调整比特币/USDC敞口，纯加密货币策略，不使用期权；公开信息显示主要跟踪数字资产、加密指数或相关策略，未见使用期权构建收益/缓冲/对冲结构。"
+  },
+  {
+    "name": "WisdomTree GeoAlpha Opportunities Fund",
+    "ticker": "GEOA",
+    "secid": "F00001RPFN",
+    "aum": "917039",
+    "judgment": "否",
+    "source": "https://www.wisdomtree.com/products/equity/geoa ; https://www.sec.gov/Archives/edgar/data/1350487/000121465925004912/wtt321250485apos.htm",
+    "confidence": "低",
+    "explanation": "跟踪WisdomTree GeoAlpha指数，投资全球多市值公司，主题股票ETF，非期权策略（推断）；WisdomTree/SEC资料显示基金可能使用futures、options和options on futures，但产品定位是GeoAlpha主题指数，需查持仓确认实际期权暴露。"
+  },
+  {
+    "name": "HASHDEX CRYPTO METAVERSE FIIM",
+    "ticker": "META11",
+    "secid": "F00001E1NL",
+    "aum": "602735.9066816417",
+    "judgment": "否",
+    "source": "https://www.hashdex.com/en-US/products/hash11 ; https://www.hashdex.com/en-US/products ; https://www.qrasset.com.br/",
+    "confidence": "中",
+    "explanation": "跟踪CF Digital Culture加密元宇宙指数，纯加密货币/数字资产策略，不使用期权；公开信息显示主要跟踪数字资产、加密指数或相关策略，未见使用期权构建收益/缓冲/对冲结构。"
+  },
+  {
+    "name": "USCF Oil Plus Bitcoin Strategy Fund",
+    "ticker": "WTIB",
+    "secid": "F00001SEY9",
+    "aum": "595005",
+    "judgment": "否",
+    "source": "https://www.hashdex.com/en-US/products/hash11 ; https://www.hashdex.com/en-US/products ; https://www.qrasset.com.br/",
+    "confidence": "中",
+    "explanation": "投资原油期货合约和比特币期货合约，核心工具为期货而非期权；公开信息显示主要跟踪数字资产、加密指数或相关策略，未见使用期权构建收益/缓冲/对冲结构。"
+  },
+  {
+    "name": "Bero Estrategia Gbl Sr 584 due2046USDAcc",
+    "ticker": "XS3385446854",
+    "secid": "F00002JMRO",
+    "aum": "239750",
+    "judgment": "是",
+    "source": "公开资料不足；建议查发行说明书、最新持仓或交易所/监管披露。",
+    "confidence": "低",
+    "explanation": "多资产ETP，官方说明提及'战术性使用期权和衍生品对冲风险、增强回报'，但期权非唯一核心工具；该类ETP/票据名称不足以确认期权结构，需查发行条款、term sheet或交易所披露。"
+  },
+  {
+    "name": "DDA Heliad Dynamic Blockchain ETN",
+    "ticker": "HELI",
+    "secid": "F00001PB65",
+    "aum": "12137",
+    "judgment": "否",
+    "source": "https://www.hashdex.com/en-US/products/hash11 ; https://www.hashdex.com/en-US/products ; https://www.qrasset.com.br/",
+    "confidence": "中",
+    "explanation": "基于用户活跃度指标的区块链代币ETP，纯数字资产策略，不使用期权；公开信息显示主要跟踪数字资产、加密指数或相关策略，未见使用期权构建收益/缓冲/对冲结构。"
+  },
+  {
+    "name": "Amundi USD Corp Bd 0-3Y SRI ETF EURH Acc",
+    "ticker": "",
+    "secid": "F00001MZES",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "中",
+    "explanation": "短期美元企业债ETF（EUR对冲），使用远期合约进行货币对冲，纯债券策略（推断）；公开名称显示为债券/国债/公司债或普通UCITS ETF，未见期权策略说明。"
+  },
+  {
+    "name": "CI Mosaic Balanced ETF Port Class DA",
+    "ticker": "",
+    "secid": "F00001SKA0",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "中",
+    "explanation": "CI Mosaic平衡型ETF组合，FOF结构投资被动/主动/Smart Beta ETF，不以期权为核心（推断）；CI Mosaic 系列为ETF组合/资产配置类产品，未见以期权构建收益、保护或杠杆结构。"
+  },
+  {
+    "name": "CI Mosaic Balanced Growth ETF Port SerDA",
+    "ticker": "",
+    "secid": "F00001SK9T",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "中",
+    "explanation": "CI Mosaic平衡增长型ETF组合，FOF结构偏向成长型配置，不以期权为核心（推断）；CI Mosaic 系列为ETF组合/资产配置类产品，未见以期权构建收益、保护或杠杆结构。"
+  },
+  {
+    "name": "CI Mosaic Balanced Income ETF Port SerDA",
+    "ticker": "",
+    "secid": "F00001SK9V",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "中",
+    "explanation": "CI Mosaic平衡收入型ETF组合，FOF结构偏向收入配置，不以期权为核心（推断）；CI Mosaic 系列为ETF组合/资产配置类产品，未见以期权构建收益、保护或杠杆结构。"
+  },
+  {
+    "name": "CI Mosaic ESG Balanced ETF Port Ser DA",
+    "ticker": "",
+    "secid": "F00001SKA3",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "中",
+    "explanation": "CI Mosaic ESG平衡型ETF组合，FOF结构结合ESG筛选，不以期权为核心（推断）；CI Mosaic 系列为ETF组合/资产配置类产品，未见以期权构建收益、保护或杠杆结构。"
+  },
+  {
+    "name": "CI Mosaic ESG Balanced Gr ETF Port SerDA",
+    "ticker": "",
+    "secid": "F00001SKA1",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "中",
+    "explanation": "推断。CI Mosaic ESG Balanced Growth ETF Portfolio是加拿大基金中基金(FOF)，通过投资于多元化ETF组合实现ESG平衡增长目标，不使用期权策略。；CI Mosaic 系列为ETF组合/资产配置类产品，未见以期权构建收益、保护或杠杆结构。"
+  },
+  {
+    "name": "CI Mosaic ESG Balanced Inc ETF PortSerDA",
+    "ticker": "",
+    "secid": "F00001SKA4",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "中",
+    "explanation": "推断。CI Mosaic ESG Balanced Income ETF Portfolio是加拿大基金中基金(FOF)，通过投资于多元化ETF组合实现ESG平衡收益目标，不使用期权策略。；CI Mosaic 系列为ETF组合/资产配置类产品，未见以期权构建收益、保护或杠杆结构。"
+  },
+  {
+    "name": "CI Mosaic Growth ETF Portfolio Class DA",
+    "ticker": "",
+    "secid": "F00001SK9Y",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "中",
+    "explanation": "推断。CI Mosaic Growth ETF Portfolio是加拿大成长型基金中基金，投资于底层ETF组合，无期权策略。；CI Mosaic 系列为ETF组合/资产配置类产品，未见以期权构建收益、保护或杠杆结构。"
+  },
+  {
+    "name": "CI Mosaic Growth ETF Portfolio Ser DA",
+    "ticker": "",
+    "secid": "F00001SK9U",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "中",
+    "explanation": "推断。与row 152同系列产品不同份额类别，成长型FOF，投资于底层ETF组合，无期权策略。；CI Mosaic 系列为ETF组合/资产配置类产品，未见以期权构建收益、保护或杠杆结构。"
+  },
+  {
+    "name": "CI Mosaic Income ETF Portfolio Class DA",
+    "ticker": "",
+    "secid": "F00001SKA2",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "中",
+    "explanation": "推断。CI Mosaic Income ETF Portfolio是加拿大收益型FOF，投资于底层ETF组合获取收入，无期权策略。；CI Mosaic 系列为ETF组合/资产配置类产品，未见以期权构建收益、保护或杠杆结构。"
+  },
+  {
+    "name": "CoinShares Toncoin Staking ETP",
+    "ticker": "CTON",
+    "secid": "F00001T2ZR",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.hashdex.com/en-US/products/hash11 ; https://www.hashdex.com/en-US/products ; https://www.qrasset.com.br/",
+    "confidence": "中",
+    "explanation": "已核实。CoinShares Physical Staked Toncoin ETP(CTON)是实物支持的加密ETP，直接持有Toncoin代币并赚取质押收益(staking yield)，不涉及期权合约。；公开信息显示主要跟踪数字资产、加密指数或相关策略，未见使用期权构建收益/缓冲/对冲结构。"
+  },
+  {
+    "name": "Fidelity Jpn Eq Rsrch Enh PAB ETF ¥ Acc",
+    "ticker": "",
+    "secid": "F00001SF24",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "低",
+    "explanation": "已核实。Fidelity Japan Equity Research Enhanced UCITS ETF是主动管理的日本股票ETF，通过基本面研究选股，直接持有日本公司股票，不使用期权策略。；根据产品名称、管理人、类别和公开检索入口，未见 covered call、put/call writing、FLEX options、buffer、box spread 等期权策略证据。"
+  },
+  {
+    "name": "Fidelity Pac ex Jpn Eq RshEnhPABETF$Acc",
+    "ticker": "",
+    "secid": "F00001SF26",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "低",
+    "explanation": "推断。Fidelity Pacific ex Japan Equity Research Enhanced PAB ETF是主动管理的亚太(除日本)股票ETF，通过基本面研究选股，直接持有股票，不使用期权策略。；根据产品名称、管理人、类别和公开检索入口，未见 covered call、put/call writing、FLEX options、buffer、box spread 等期权策略证据。"
+  },
+  {
+    "name": "Fidelity Tactical Global Dividend ETF",
+    "ticker": "",
+    "secid": "F00001T6CP",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "低",
+    "explanation": "已核实。Fidelity Tactical Global Dividend ETF(加拿大)是战术资产配置的全球股息ETF，投资于底层ETF组合获取股息收入，不涉及期权策略。；根据产品名称、管理人、类别和公开检索入口，未见 covered call、put/call writing、FLEX options、buffer、box spread 等期权策略证据。"
+  },
+  {
+    "name": "Fubon 20 Equal Weight TR Idx ETN",
+    "ticker": "020001",
+    "secid": "F00001SH96",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.twse.com.tw/en/ETN/list ; https://www.twse.com.tw/en/products/securities/ETN/ETN_QA",
+    "confidence": "中",
+    "explanation": "已核实。富邦20等权重总回报指数ETN是台湾富邦证券发行的交易所交易票据，追踪等权重指数，属于债务工具型ETN，不使用期权。；台湾 ETN/期货指数产品通常跟踪指数或期货指数；公开交易所资料显示为 ETN/Index/Futures Index，不属于期权策略产品。"
+  },
+  {
+    "name": "Fubon Big Apple Total Return Index ETN",
+    "ticker": "020000",
+    "secid": "F00001SH92",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.twse.com.tw/en/ETN/list ; https://www.twse.com.tw/en/products/securities/ETN/ETN_QA",
+    "confidence": "中",
+    "explanation": "已核实。富邦大苹果总回报指数ETN追踪TIP Customized Big Apple Total Return Index，属于指数追踪型ETN债务工具，不使用期权。；台湾 ETN/期货指数产品通常跟踪指数或期货指数；公开交易所资料显示为 ETN/Index/Futures Index，不属于期权策略产品。"
+  },
+  {
+    "name": "Fubon NGMC TR Index ETN",
+    "ticker": "020012",
+    "secid": "F00001SH93",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.twse.com.tw/en/ETN/list ; https://www.twse.com.tw/en/products/securities/ETN/ETN_QA",
+    "confidence": "中",
+    "explanation": "推断。富邦NGMC总回报指数ETN是台湾富邦证券发行的指数追踪型ETN，属于债务工具，不使用期权。；台湾 ETN/期货指数产品通常跟踪指数或期货指数；公开交易所资料显示为 ETN/Index/Futures Index，不属于期权策略产品。"
+  },
+  {
+    "name": "Harel Sal FTSE 250 MidCap hedged 40a",
+    "ticker": "HRSFT.85",
+    "secid": "F00000YSB0",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。Harel Sal是以色列TASE上市的指数追踪ETF/ILC产品，追踪FTSE 250中盘指数(含汇率对冲)，不使用期权策略。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "Harel Sal Russell 2000",
+    "ticker": "HRRSL.51",
+    "secid": "F00000YSB1",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。Harel Sal Russell 2000是以色列TASE上市的指数追踪ETF/ILC，追踪Russell 2000小盘股指数，不使用期权策略。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "HSBC Euro Government Bd UCITS ETF XCHCHF",
+    "ticker": "",
+    "secid": "F00001RPD7",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "中",
+    "explanation": "已核实。HSBC Euro Government Bond UCITS ETF是爱尔兰注册的UCITS债券ETF，直接持有欧元区政府债券，不使用期权策略。；公开名称显示为债券/国债/公司债或普通UCITS ETF，未见期权策略说明。"
+  },
+  {
+    "name": "HSBC Euro Government Bond UCITS ETF AC",
+    "ticker": "",
+    "secid": "F00001RPD4",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "中",
+    "explanation": "已核实。HSBC Euro Government Bond UCITS ETF累积份额类别，直接持有欧元区政府债券，不使用期权策略。；公开名称显示为债券/国债/公司债或普通UCITS ETF，未见期权策略说明。"
+  },
+  {
+    "name": "HSBC US Treasury Bond UCITS ETF ACHEUR",
+    "ticker": "",
+    "secid": "F00001RPD9",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "中",
+    "explanation": "已核实。HSBC US Treasury Bond UCITS ETF(欧元对冲累积份额)直接持有美国国债，不使用期权策略。；公开名称显示为债券/国债/公司债或普通UCITS ETF，未见期权策略说明。"
+  },
+  {
+    "name": "HSBC US Treasury Bond UCITS ETF ETFDHEUR",
+    "ticker": "",
+    "secid": "F00001RPD8",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "中",
+    "explanation": "已核实。HSBC US Treasury Bond UCITS ETF(欧元对冲分配份额)直接持有美国国债，不使用期权策略。；公开名称显示为债券/国债/公司债或普通UCITS ETF，未见期权策略说明。"
+  },
+  {
+    "name": "HSBC US Treasury Bond UCITS ETF XCHCHF",
+    "ticker": "",
+    "secid": "F00001RPD2",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "中",
+    "explanation": "已核实。HSBC US Treasury Bond UCITS ETF(瑞郎对冲份额)直接持有美国国债，不使用期权策略。；公开名称显示为债券/国债/公司债或普通UCITS ETF，未见期权策略说明。"
+  },
+  {
+    "name": "HSBC US Treasury Bond UCITS ETF XCHEUR",
+    "ticker": "",
+    "secid": "F00001RPD6",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "中",
+    "explanation": "已核实。HSBC US Treasury Bond UCITS ETF(欧元份额)直接持有美国国债，不使用期权策略。；公开名称显示为债券/国债/公司债或普通UCITS ETF，未见期权策略说明。"
+  },
+  {
+    "name": "HSBC US Treasury Bond UCITS ETF XDHGBP",
+    "ticker": "",
+    "secid": "F00001RPD5",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "中",
+    "explanation": "已核实。HSBC US Treasury Bond UCITS ETF(英镑对冲份额)直接持有美国国债，不使用期权策略。；公开名称显示为债券/国债/公司债或普通UCITS ETF，未见期权策略说明。"
+  },
+  {
+    "name": "Index FTS100 48",
+    "ticker": "IF100.48",
+    "secid": "F00000YSB2",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。Index FTS100是以色列TASE上市的指数追踪ILC产品(由KSM管理)，追踪FTSE 100指数，不使用期权策略。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "Index RUSL2 72",
+    "ticker": "INDX.72",
+    "secid": "F00000YSB3",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。Index RUSL2是以色列TASE上市的指数追踪ILC产品(由KSM管理)，追踪Russell 2000指数，不使用期权策略。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "Investec Bank limited Variable Rate - 4",
+    "ticker": "",
+    "secid": "F000028AB0",
+    "aum": "",
+    "judgment": "否",
+    "source": "公开资料不足；建议查发行说明书、最新持仓或交易所/监管披露。",
+    "confidence": "低",
+    "explanation": "已核实。Investec Bank Limited Variable Rate Exchange Traded Note(ETN)是南非JSE上市的浮动利率交易票据，属于债务工具，不使用期权策略。；名称为可变利率票据，不足以确认是否含期权；需查term sheet。"
+  },
+  {
+    "name": "Junk sec id",
+    "ticker": "",
+    "secid": "F00001P41J",
+    "aum": "",
+    "judgment": "否",
+    "source": "公开资料不足；建议查发行说明书、最新持仓或交易所/监管披露。",
+    "confidence": "低",
+    "explanation": "推断。由LEONTEQ Securities AG发行的产品，LEONTEQ以发行结构化产品著称，但名称'Junk sec id'暗示为高收益债券/垃圾债相关证券化工具，无证据表明其使用期权策略。；产品标识异常，无法根据名称与公开资料核验。"
+  },
+  {
+    "name": "KSM CAC 40 (4Da')",
+    "ticker": "KCAC4.51",
+    "secid": "F00000YBIV",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM CAC 40是以色列TASE上市的ILC产品，追踪法国CAC 40指数，通过直接复制或合成复制追踪指数，不使用期权策略。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM CECE (4Da')",
+    "ticker": "KSMEU.12",
+    "secid": "F00000YBJP",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM CECE是以色列TASE上市的ILC产品，追踪CECE指数(中东欧指数)，不使用期权策略。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM CNX Nifty (4Db')",
+    "ticker": "KSIND.13",
+    "secid": "F00000YBJR",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM CNX Nifty是以色列TASE上市的ILC产品，追踪印度CNX Nifty指数，不使用期权策略。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Commodities Agricultre DJUBSAG(4Db')",
+    "ticker": "KSAG.86",
+    "secid": "F00000YBKH",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM Commodities Agriculture追踪DJUBS Agriculture农产品商品指数，通过期货或互换合约追踪商品价格，不使用期权策略。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Commodity Gold London AM ILS (40a')",
+    "ticker": "KSGLD.99",
+    "secid": "F00000YBJF",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.wisdomtree.com/investments/etfs/alternatives/gdt ; https://ci.com/en/investment-solutions/funds/ci-auspice-broad-commodity-fund ; https://www.auspicecapital.com/indices/broad-commodity-index",
+    "confidence": "中",
+    "explanation": "推断。KSM Commodity Gold追踪伦敦金AM定盘价，通过实物黄金或黄金远期/互换追踪金价，不使用期权策略。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Commodity Slver Price Lndn Fix(4Da')",
+    "ticker": "KSM.137",
+    "secid": "F00000YBLH",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.wisdomtree.com/investments/etfs/alternatives/gdt ; https://ci.com/en/investment-solutions/funds/ci-auspice-broad-commodity-fund ; https://www.auspicecapital.com/indices/broad-commodity-index",
+    "confidence": "中",
+    "explanation": "推断。KSM Commodity Silver追踪伦敦银定盘价，通过实物白银或白银远期/互换追踪银价，不使用期权策略。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Compoaite (4) General Bd +10% (10A)",
+    "ticker": "KSMCM.34",
+    "secid": "F00000YBKO",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM Composite债券+10%是以色列TASE上市的混合型ILC产品，投资于一般债券并追求债券收益率+10%的回报目标，不使用期权策略。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Composite (3) EQ Europe ILS (40a')",
+    "ticker": "KSMCM.40",
+    "secid": "F00000YBLZ",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM Composite欧洲股票ILS是以色列TASE上市的混合型ILC产品，投资于欧洲股票指数，不使用期权策略。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Composite (3) EQ Foreign (4Da')",
+    "ticker": "KSBVS.35",
+    "secid": "F00000YBKQ",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM Composite海外股票是以色列TASE上市的混合型ILC产品，投资于海外股票指数，不使用期权策略。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Composite (3) EQ USA ILS (40a')",
+    "ticker": "KSMCM.39",
+    "secid": "F00000YBLT",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM Composite美国股票ILS是以色列TASE上市的混合型ILC产品，投资于美国股票指数(如S&P 500)，不使用期权策略。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Composite (4) General Bond+5% (10A)",
+    "ticker": "KSMCM.36",
+    "secid": "F00000YBKS",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM Composite一般债券+5%是以色列TASE上市的债券型ILC产品，追求债券收益率+5%回报目标，不使用期权策略。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Composite (4) Gov.Bond+10% (10A)",
+    "ticker": "KSMCM.32",
+    "secid": "F00000YBKM",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM Composite政府债券+10%是以色列TASE上市的政府债券型ILC产品，追求政府债券收益率+10%回报目标，不使用期权策略。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Composite (5) General Bd+20% (2Aa')",
+    "ticker": "KSMCM.37",
+    "secid": "F00000YBKT",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM Composite一般债券+20%是以色列TASE上市的债券型ILC产品，追求债券收益率+20%回报目标，不使用期权策略。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Composite (6) General Bd+35% (3Aa')",
+    "ticker": "KSMCM.33",
+    "secid": "F00000YBKN",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM Composite一般债券+35%是以色列TASE上市的债券型ILC产品，追求债券收益率+35%回报目标，不使用期权策略。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Composite(3) MidCap Developed(4Da')",
+    "ticker": "KSMS.43",
+    "secid": "F00000YBMK",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM Composite发达市场中盘股是以色列TASE上市的股票指数追踪ILC产品，不使用期权策略。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Composite(3)EQ Nrth Amrica ILS(40a')",
+    "ticker": "KSMCM.38",
+    "secid": "F00000YBKX",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM Composite北美股票ILS是以色列TASE上市的股票指数追踪ILC产品，不使用期权策略。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Composite(3)MidCap Dev ILS(40a')",
+    "ticker": "KSMD.41",
+    "secid": "F00000YBMF",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM Composite发达市场中盘股ILS是以色列TASE上市的股票指数追踪ILC产品，不使用期权策略。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Composite(6)Gnl Bd(80%)EQ(20%)(2Ba')",
+    "ticker": "K80/20.4",
+    "secid": "F00000YBIO",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM Composite 80%债券/20%股票是以色列TASE上市的资产配置型ILC产品，按固定比例配置债券和股票指数，不使用期权策略。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Composite(6)Gnl Bd(90%)EQ(10%)(1Aa')",
+    "ticker": "K90/10.3",
+    "secid": "F00000YBIP",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM Composite 90%债券/10%股票是以色列TASE上市的资产配置型ILC产品，按固定比例配置债券和股票指数，不使用期权策略。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM CPI Linkd Gov Bds 5-10 ys sr A1(000)",
+    "ticker": "KSGLL.56",
+    "secid": "F00000YBIZ",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM CPI Linked Government Bonds 5-10年是以色列TASE上市的CPI挂钩政府债券ILC产品，直接持有以色列CPI挂钩政府债券，不使用期权。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM CPI Linkd Gov Bds 5-10 ys sr A2(000)",
+    "ticker": "KSMBL.11",
+    "secid": "F00000YBJQ",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM CPI Linked Government Bonds 5-10年(A2系列)是以色列TASE上市的CPI挂钩政府债券ILC产品，不使用期权。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM CPI Linked Gov Bonds (000)",
+    "ticker": "KSGLL.83",
+    "secid": "F00000YBJ5",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM CPI Linked Government Bonds是以色列TASE上市的CPI挂钩政府债券ILC产品，直接持有以色列CPI挂钩政府债券，不使用期权。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM CPI Linked Gov Bonds 0-2 years (000)",
+    "ticker": "KSGLL.54",
+    "secid": "F00000YBIX",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM CPI Linked Government Bonds 0-2年(短期)是以色列TASE上市的CPI挂钩短期政府债券ILC产品，不使用期权。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM CPI Linked Gov Bonds 2-5 years (00A)",
+    "ticker": "KSGLL.55",
+    "secid": "F00000YBIY",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM CPI Linked Government Bonds 2-5年(中期)是以色列TASE上市的CPI挂钩中期政府债券ILC产品，不使用期权。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Cpt(8)Bd(85%)EQ Israel-Fgn ILS(20a')",
+    "ticker": "KSPMD.42",
+    "secid": "F00000YBMG",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM Composite 85%债券/以色列-外国股票ILS是以色列TASE上市的资产配置型ILC产品，按85/15比例配置债券和以色列/外国股票，不使用期权。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Dax 30 (GTR) ILS (40a')",
+    "ticker": "KSM.110D",
+    "secid": "F00000YBKU",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM DAX 30(GTR)是以色列TASE上市的ILC产品，追踪德国DAX 30全收益指数，不使用期权策略。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM DAX Global BRIC (NTR) ILS (40a')",
+    "ticker": "KSM.131",
+    "secid": "F00000YBLE",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM DAX Global BRIC是以色列TASE上市的ILC产品，追踪DAX Global BRIC净收益指数，不使用期权策略。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Deposite ILS Series3 (00A)",
+    "ticker": "KSMCR.D3",
+    "secid": "F00000YBKY",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM Deposit ILS是以色列TASE上市的存款型ILC产品，追踪存款利率，不使用期权策略。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM DJ Consumer Israel (GTR) (40A)",
+    "ticker": "KDJI.117",
+    "secid": "F00000YBL4",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM Dow Jones Consumer Israel是以色列TASE上市的行业指数ILC产品，追踪道琼斯以色列消费行业全收益指数，不使用期权策略。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM DJ Industrial Average (4Da')",
+    "ticker": "KDJNS.37",
+    "secid": "F00000YBKE",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM Dow Jones Industrial Average是以色列TASE上市的ILC产品，追踪道琼斯工业平均指数，不使用期权策略。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM DJ Internet Composite(NTR) ILS(40a')",
+    "ticker": "KDJI.165",
+    "secid": "F00000YBME",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM Dow Jones Internet Composite是以色列TASE上市的ILC产品，追踪道琼斯互联网综合净收益指数，不使用期权策略。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM DJ Oil and Gas Israel (GTR) (40A)",
+    "ticker": "KDJI.118",
+    "secid": "F00000YBL5",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM Dow Jones Oil and Gas Israel是以色列TASE上市的行业指数ILC产品，追踪道琼斯以色列油气行业全收益指数，不使用期权策略。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM DJ US Select Dividend (4Da')",
+    "ticker": "KSDJD.42",
+    "secid": "F00000YBIR",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM Dow Jones US Select Dividend是以色列TASE上市的ILC产品，追踪道琼斯美国精选股息指数，不使用期权策略。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM EURO STOXX 50 (4Da')",
+    "ticker": "KER50.35",
+    "secid": "F00000YBKD",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM EURO STOXX 50是以色列TASE上市的ILC产品，追踪欧洲STOXX 50指数，不使用期权策略。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM EURO STOXX Select Dividend 30 (4Da')",
+    "ticker": "KSD3E.43",
+    "secid": "F00000YBIN",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM EURO STOXX Select Dividend 30是以色列TASE上市的ILC产品，追踪欧洲STOXX精选股息30指数，不使用期权策略。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM FTSE 100 (4Da')",
+    "ticker": "KSM.2FT",
+    "secid": "F00000YBJH",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM FTSE 100是以色列TASE上市的ILC产品，追踪英国FTSE 100指数，不使用期权策略。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM FTSE 100 ILS (40a')",
+    "ticker": "KFTS.164",
+    "secid": "F00000YBMD",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM FTSE 100 ILS是以色列TASE上市的ILC产品，追踪英国FTSE 100指数(ILS计价)，不使用期权策略。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM FTSE 250 MidCap (NTR) ILS (40a')",
+    "ticker": "KMCP.163",
+    "secid": "F00000YBMB",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM FTSE 250 MidCap是以色列TASE上市的ILC产品，追踪英国FTSE 250中盘股净收益指数，不使用期权策略。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM FTSE China 25 (4Da')",
+    "ticker": "KSM.5CHN",
+    "secid": "F00000YBJJ",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM FTSE China 25是以色列TASE上市的ILC产品，追踪富时中国25指数，不使用期权策略。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Future ICE CO1 ILS (40a')",
+    "ticker": "KOIL.100",
+    "secid": "F00000YBKK",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.wisdomtree.com/investments/etfs/alternatives/gdt ; https://ci.com/en/investment-solutions/funds/ci-auspice-broad-commodity-fund ; https://www.auspicecapital.com/indices/broad-commodity-index",
+    "confidence": "中",
+    "explanation": "推断。KSM Future ICE CO1是以色列TASE上市的商品期货ILC产品，通过持有ICE原油期货合约追踪原油价格，使用期货而非期权。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Future NYMEX NG1 (4Da')",
+    "ticker": "KGAS.117",
+    "secid": "F00000YBL3",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.wisdomtree.com/investments/etfs/alternatives/gdt ; https://ci.com/en/investment-solutions/funds/ci-auspice-broad-commodity-fund ; https://www.auspicecapital.com/indices/broad-commodity-index",
+    "confidence": "中",
+    "explanation": "推断。KSM Future NYMEX NG1是以色列TASE上市的商品期货ILC产品，通过持有NYMEX天然气期货合约追踪天然气价格，使用期货而非期权。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM General Gov.Bond (000)",
+    "ticker": "KBNDG.89",
+    "secid": "F00000YBKL",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM General Government Bond是以色列TASE上市的政府债券ILC产品，直接持有以色列一般政府债券，不使用期权。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM HSCEI ILS (40a')",
+    "ticker": "KHSCE.92",
+    "secid": "F00000YBKR",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM HSCEI是以色列TASE上市的ILC产品，追踪恒生中国企业指数(H股指数)，不使用期权策略。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Ibovespa (GTR) (4Da')",
+    "ticker": "KBVSP.50",
+    "secid": "F00000YBIS",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM Ibovespa是以色列TASE上市的ILC产品，追踪巴西Ibovespa全收益指数，不使用期权策略。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM iBoxx $ Liquid High Yield(GTR)(0Da')",
+    "ticker": "KSIBX.34",
+    "secid": "F00000YBII",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM iBoxx USD Liquid High Yield是以色列TASE上市的债券指数ILC产品，追踪iBoxx美元高收益债券指数，直接持有债券或合成复制，不使用期权。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM iBoxx Euro Liq Corp (0Da')",
+    "ticker": "KSCO.127",
+    "secid": "F00000YBLD",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM iBoxx Euro Liquid Corp是以色列TASE上市的债券指数ILC产品，追踪iBoxx欧元流动性公司债指数，不使用期权。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM iBoxx USD Liq Invest Grd Tp 30(0Da')",
+    "ticker": "KSTP.128",
+    "secid": "F00000YBLC",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM iBoxx USD Liquid Investment Grade是以色列TASE上市的债券指数ILC产品，追踪iBoxx美元投资级债券指数，不使用期权。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Insurance Sector (40A)",
+    "ticker": "KSBT.60",
+    "secid": "F00000YBIW",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM Insurance Sector是以色列TASE上市的行业指数ILC产品，追踪以色列保险行业指数，不使用期权策略。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Kospi 200 (4Db')",
+    "ticker": "KSMKR.15",
+    "secid": "F00000YBJT",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM Kospi 200是以色列TASE上市的ILC产品，追踪韩国KOSPI 200指数，不使用期权策略。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Mid Cap MDAX (GTR) (4Da')",
+    "ticker": "KMDX.151",
+    "secid": "F00000YBM2",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪德国MDAX指数，采用实物复制或互换方式，不涉及期权策略；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Mid Cap MDAX (GTR) ILS (40a')",
+    "ticker": "KMDX.152",
+    "secid": "F00000YBM3",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪MDAX指数ILS对冲份额，实物复制或互换，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Mid-Cap 50 (40A)",
+    "ticker": "KSM.YT6",
+    "secid": "F00000YBJK",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪以色列中盘50指数，实物复制，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Morningstar Wide Moat (4Da')",
+    "ticker": "KSMO.142",
+    "secid": "F00000YBLS",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪Morningstar宽护城河指数，实物持有成份股，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM MSCI AC World (NTR) (4Da')",
+    "ticker": "KALC.101",
+    "secid": "F00000YBKP",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪MSCI全球指数，实物复制或互换方式，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM MSCI Brazil (4Da')",
+    "ticker": "K.MSCI24",
+    "secid": "F00000YBK3",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪MSCI巴西指数，实物复制或互换，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM MSCI China (4Da')",
+    "ticker": "K.MSCI27",
+    "secid": "F00000YBK7",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪MSCI中国指数，实物复制或互换，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM MSCI East Europe (4Da')",
+    "ticker": "K.MXME23",
+    "secid": "F00000YBK1",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪MSCI东欧指数，实物复制或互换，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM MSCI Emerging Markets (4Da')",
+    "ticker": "K.MXEF19",
+    "secid": "F00000YBJY",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪MSCI新兴市场指数，实物复制或互换，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM MSCI Emerging Markets ILS (40a')",
+    "ticker": "KSM.111E",
+    "secid": "F00000YBL0",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪MSCI新兴市场ILS对冲份额，实物复制或互换，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM MSCI Europe (4Da')",
+    "ticker": "K.MXEU22",
+    "secid": "F00000YBK2",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪MSCI欧洲指数，实物复制或互换，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM MSCI Fat East Ex Japan (4Da')",
+    "ticker": "K.MXFE20",
+    "secid": "F00000YBK0",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪MSCI远东(除日本)指数，实物复制或互换，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM MSCI India (4Da')",
+    "ticker": "K.MSCI25",
+    "secid": "F00000YBK4",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪MSCI印度指数，实物复制或互换，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM MSCI Japan (4Da')",
+    "ticker": "K.MXJP21",
+    "secid": "F00000YBJZ",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪MSCI日本指数，实物复制或互换，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM MSCI Nordic Countries (4Da')",
+    "ticker": "K.MSCI29",
+    "secid": "F00000YBK8",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪MSCI北欧国家指数，实物复制或互换，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM MSCI Singapore (4Da')",
+    "ticker": "KMSCI.48",
+    "secid": "F00000YBIT",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪MSCI新加坡指数，实物复制或互换，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM MSCI South Africa (4Da')",
+    "ticker": "K.MSCI26",
+    "secid": "F00000YBK5",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪MSCI南非指数，实物复制或互换，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM MSCI Spain (4Da')",
+    "ticker": "K.MSCI30",
+    "secid": "F00000YBK9",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪MSCI西班牙指数，实物复制或互换，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM MSCI Taiwan (4Da')",
+    "ticker": "KSMTW.17",
+    "secid": "F00000YBJV",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪MSCI台湾指数，实物复制或互换，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM MSCI Turkey (4Da')",
+    "ticker": "K.MSCI28",
+    "secid": "F00000YBK6",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪MSCI土耳其指数，实物复制或互换，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM MSCI World (4Da')",
+    "ticker": "K.MXWO18",
+    "secid": "F00000YBJX",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪MSCI世界指数，实物复制或互换，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM MSCI World (NTR) ILS (40a')",
+    "ticker": "KSMW.171",
+    "secid": "F00000YBMJ",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪MSCI世界指数ILS对冲份额，实物复制或互换，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Nasdaq 100 (4Da')",
+    "ticker": "KSM.3NDX",
+    "secid": "F00000YBJI",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪纳斯达克100指数，实物持有成份股，不涉及期权策略；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Nasdaq 100 ILS (40a')",
+    "ticker": "KSNAS.91",
+    "secid": "F00000YBKJ",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪纳斯达克100 ILS对冲份额，实物复制，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM NASDAQ Internationl BuyBck ILS(40a')",
+    "ticker": "KMBY.170",
+    "secid": "F00000YBMI",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪纳斯达克国际回购指数，实物持有成份股，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM NASDAQ OMX 30 (4Da')",
+    "ticker": "KSOMX.35",
+    "secid": "F00000YBIK",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪NASDAQ OMX 30指数，实物复制或互换，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Nasdaq US Buyback Achievers (4Da')",
+    "ticker": "KSBY.146",
+    "secid": "F00000YBLX",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪纳斯达克美国回购指数，实物持有成份股，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM NIKKEI 225 (4Da')",
+    "ticker": "KSNKY.38",
+    "secid": "F00000YBKF",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪日经225指数，实物复制或互换，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Non-Linkd Fixd Int Gv Bds 0-2ys(000)",
+    "ticker": "KSSHR.57",
+    "secid": "F00000YBJ0",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪以色列非挂钩固定利率政府债券0-2年指数，直接持有债券，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Non-Linkd Fixd Int Gv Bds 2-5ys(000)",
+    "ticker": "KSSHR.59",
+    "secid": "F00000YBJ2",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪以色列非挂钩固定利率政府债券2-5年指数，直接持有债券，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Non-Linkd Fixd Int Gv Bds 5+ ys(00A)",
+    "ticker": "KSSH5.58",
+    "secid": "F00000YBJ1",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪以色列非挂钩固定利率政府债券5年以上指数，直接持有债券，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM RDX USD (4Da')",
+    "ticker": "KSMRU.16",
+    "secid": "F00000YBJU",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪RDX美元指数，实物复制或互换，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM RealEstate-15 (40A)",
+    "ticker": "KSM.ND7",
+    "secid": "F00000YBJL",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪以色列房地产15指数，实物持有成份股，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Russell 2000 (4Da')",
+    "ticker": "KSMRS.10",
+    "secid": "F00000YBJO",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪罗素2000小盘股指数，实物复制或互换，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Russell 2000 ILS (40a')",
+    "ticker": "KRTY.112",
+    "secid": "F00000YBKZ",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪罗素2000 ILS对冲份额，实物复制或互换，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM S&P 500 (4Da')",
+    "ticker": "KS500.39",
+    "secid": "F00000YBKG",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪标普500指数，实物持有成份股，不涉及期权策略；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM S&P 500 ILS (40a')",
+    "ticker": "KSS&P.90",
+    "secid": "F00000YBKI",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪标普500 ILS对冲份额，实物复制，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM S&P 500 Low Volatility Hgh Div(4Da')",
+    "ticker": "KMTN.160",
+    "secid": "F00000YBMH",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪标普500低波高股息指数，实物持有成份股，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM S&P ASX 200 (4Da')",
+    "ticker": "KA200.52",
+    "secid": "F00000YBIU",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪澳大利亚标普ASX 200指数，实物复制或互换，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM S&P Financial Select Sector (4Da')",
+    "ticker": "KFSS.157",
+    "secid": "F00000YBM7",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪标普金融精选行业指数，实物持有成份股，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM S&P Growth Israel (GTR) (40A)",
+    "ticker": "KSPB.119",
+    "secid": "F00000YBL6",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪标普以色列成长指数，实物持有成份股，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM S&P Homebuilders Slct Indstry(4Da')",
+    "ticker": "KSM.138",
+    "secid": "F00000YBLI",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪标普住宅建筑精选行业指数，实物持有成份股，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM S&P Latin America 40 (4Da')",
+    "ticker": "KSMLT.14",
+    "secid": "F00000YBJS",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪标普拉美40指数，实物复制或互换，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM S&P Select Sector Consumer Dis(4Da')",
+    "ticker": "KSCD.159",
+    "secid": "F00000YBM9",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪标普非必需消费品精选行业指数，实物持有成份股，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM S&P Select Sector Industrials (4Da')",
+    "ticker": "KSPI.158",
+    "secid": "F00000YBM8",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪标普工业精选行业指数，实物持有成份股，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM S&P Small Cap 600 ILS (40a')",
+    "ticker": "KSSC.141",
+    "secid": "F00000YBLR",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪标普小盘600 ILS对冲份额，实物复制或互换，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM S&P TSX 60 (4Da')",
+    "ticker": "KSKND.46",
+    "secid": "F00000YBIQ",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪加拿大标普TSX 60指数，实物复制或互换，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM S&P TSX 60 ILS (40a')",
+    "ticker": "KSPT.121",
+    "secid": "F00000YBL8",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪加拿大标普TSX 60 ILS对冲份额，实物复制或互换，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM S&P Value Israel (GTR) (40A)",
+    "ticker": "KSPB.120",
+    "secid": "F00000YBL7",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪标普以色列价值指数，实物持有成份股，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Short CPI Lkd Gv Bds 2-5ys(485)(00A)",
+    "ticker": "KGLL.96",
+    "secid": "F00000YBJC",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC空头债券产品，通过互换或期货实现反向敞口，不涉及期权策略；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Short FTSE China 25 (35000) (6Da')",
+    "ticker": "KSFTS.79",
+    "secid": "F00000YBJA",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC空头产品，通过互换或期货实现FTSE中国25反向敞口，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Short Nn-Lkd Fd It GB 5+ys(720)(00A)",
+    "ticker": "KGL5+.97",
+    "secid": "F00000YBJD",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC空头债券产品，通过互换或期货实现长期政府债券反向敞口，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Short RealEstate-15 (673) (60A)",
+    "ticker": "KS15.108",
+    "secid": "F00000YBL2",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC空头产品，通过互换或期货实现房地产指数反向敞口，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Short S&P 500 (3000) (6Da')",
+    "ticker": "KSMS.SP2",
+    "secid": "F00000YBJW",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC空头产品，通过互换或期货实现标普500反向敞口，不涉及期权策略；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Short TA-25 (2555) (60A)",
+    "ticker": "KS25.102",
+    "secid": "F00000YBL1",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC空头产品，通过互换或期货实现TA-25指数反向敞口，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Short TA-75 (1838) (60A)",
+    "ticker": "KS75.104",
+    "secid": "F00000YBKV",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC空头产品，通过互换或期货实现TA-75指数反向敞口，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Short Tel-Bd CPI Linkd SmallCap(00A)",
+    "ticker": "KSBN.135",
+    "secid": "F00000YBLK",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC空头产品，通过互换或期货实现CPI挂钩小盘债反向敞口，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Short Tel-Bond 40 (470) (00A)",
+    "ticker": "KBN40.94",
+    "secid": "F00000YBJG",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC空头债券产品，通过互换或期货实现Tel-Bond 40反向敞口，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Short Tel-Bond 60 (540) (00A)",
+    "ticker": "KBN60.95",
+    "secid": "F00000YBKW",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC空头债券产品，通过互换或期货实现Tel-Bond 60反向敞口，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Short Tel-Bond Shekel (500) (00A)",
+    "ticker": "KBNSK.98",
+    "secid": "F00000YBJE",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC空头债券产品，通过互换或期货实现谢克尔债券反向敞口，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Short Term Treasury Bill (000)",
+    "ticker": "KSMKM.84",
+    "secid": "F00000YBJ6",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，直接持有短期国库券，不涉及期权策略；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM STOXX 600 Automobiles & Parts (4Da')",
+    "ticker": "K6AP.156",
+    "secid": "F00000YBM6",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪STOXX 600汽车零部件行业指数，实物持有成份股，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM STOXX Europe 600 (NTR) (4Da')",
+    "ticker": "KSST.145",
+    "secid": "F00000YBLW",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪STOXX欧洲600净总收益指数，实物复制或互换，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM STOXX Europe 600 (NTR) ILS (40a')",
+    "ticker": "KSST.144",
+    "secid": "F00000YBLV",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪STOXX欧洲600 ILS对冲份额，实物复制或互换，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM STOXX EUROPE 600 Banks (4Da')",
+    "ticker": "KSTE.149",
+    "secid": "F00000YBMC",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪STOXX欧洲600银行行业指数，实物持有成份股，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM STOXX Europe 600 Banks(NTR)ILS(40a')",
+    "ticker": "KEU6.150",
+    "secid": "F00000YBM1",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪STOXX欧洲600银行ILS对冲份额，实物复制或互换，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM STOXX Europe 600 Health Care (4Da')",
+    "ticker": "K6HC.155",
+    "secid": "F00000YBM5",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪STOXX欧洲600医疗保健行业指数，实物持有成份股，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM STOXX EUROPE 600 Technology (4Da')",
+    "ticker": "KES6.153",
+    "secid": "F00000YBM4",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪STOXX欧洲600科技行业指数，实物持有成份股，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM STOXX Global Select Div 100 (4Da')",
+    "ticker": "KSDGL.44",
+    "secid": "F00000YBIM",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪STOXX全球精选股息100指数，实物持有成份股，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM STOXX MCXP Mid 200 ILS (40a')",
+    "ticker": "KSMD.147",
+    "secid": "F00000YBLY",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪STOXX中盘200 ILS对冲份额，实物复制或互换，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM STOXX MCXP Mid 200(4Da')",
+    "ticker": "KSMID.31",
+    "secid": "F00000YBIL",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪STOXX中盘200指数，实物复制或互换，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Swiss Market (4Da')",
+    "ticker": "KSWX.161",
+    "secid": "F00000YBMA",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪瑞士SMI指数，实物复制或互换，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM TA BlueTech (40A)",
+    "ticker": "KBT50.34",
+    "secid": "F00000YBKC",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪特拉维夫BlueTech科技指数，实物持有成份股，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM TA Oil & Gas (40A)",
+    "ticker": "KSMC.123",
+    "secid": "F00000YBLB",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断：KSM以色列ILC产品，跟踪特拉维夫石油天然气指数，实物持有成份股，不涉及期权；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM TA-25 (40A)",
+    "ticker": "KSM25.9",
+    "secid": "F00000YBJN",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM是以色列主要Tracker基金发行商，(40A)类别为股票指数追踪基金，追踪TA-25指数，使用实物复制或互换合约，不使用期权。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM TA-75 (40A)",
+    "ticker": "KTA75.31",
+    "secid": "F00000YBKA",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM股票指数Tracker基金(40A类别)，追踪TA-75指数，标准被动指数复制策略，不使用期权。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM TA-Biomed (40A)",
+    "ticker": "KSBO.126",
+    "secid": "F00000YBLA",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM股票指数Tracker基金(40A类别)，追踪TA-Biomed指数，标准被动指数复制策略，不使用期权。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM TA-Composite (40A)",
+    "ticker": "KSMC.122",
+    "secid": "F00000YBL9",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM股票指数Tracker基金(40A类别)，追踪TA-Composite指数，标准被动指数复制策略，不使用期权。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM TA-Finance (40A)",
+    "ticker": "KSM.PNN8",
+    "secid": "F00000YBJM",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM股票指数Tracker基金(40A类别)，追踪TA-Finance指数，标准被动指数复制策略，不使用期权。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM TA-Maala (40A)",
+    "ticker": "KMALA.32",
+    "secid": "F00000YBKB",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM股票指数Tracker基金(40A类别)，追踪TA-Maala指数，标准被动指数复制策略，不使用期权。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Tel Bond-CPI Linked Bank (00A)",
+    "ticker": "KSBN.148",
+    "secid": "F00000YBM0",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM债券指数Tracker基金(00A类别)，追踪CPI挂钩银行债券指数，标准债券被动复制策略，不使用期权。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Tel Bond-Yields (00A)",
+    "ticker": "KSM.139",
+    "secid": "F00000YBLJ",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM债券指数Tracker基金(00A类别)，追踪债券收益率指数，标准债券被动复制策略，不使用期权。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Tel-Bond 20 (00A)",
+    "ticker": "KST20.32",
+    "secid": "F00000YBIJ",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM债券指数Tracker基金(00A类别)，追踪Tel-Bond 20指数，标准债券被动复制策略，不使用期权。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Tel-Bond 40 (00A)",
+    "ticker": "KSBND.63",
+    "secid": "F00000YBJ3",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM债券指数Tracker基金(00A类别)，追踪Tel-Bond 40指数，标准债券被动复制策略，不使用期权。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Tel-Bond 60 (000)",
+    "ticker": "KSBND.64",
+    "secid": "F00000YBJ4",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM债券指数Tracker基金(000类别)，追踪Tel-Bond 60指数，标准债券被动复制策略，不使用期权。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Tel-Bond Composite (00A)",
+    "ticker": "KSBN.172",
+    "secid": "F00000YBML",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM债券指数Tracker基金(00A类别)，追踪Tel-Bond Composite指数，标准债券被动复制策略，不使用期权。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Tel-Bond CPI Linked (00A)",
+    "ticker": "KSM.132",
+    "secid": "F00000YBLF",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM债券指数Tracker基金(00A类别)，追踪CPI挂钩债券指数，标准债券被动复制策略，不使用期权。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Tel-Bond CPI Linked SmallCap (00A)",
+    "ticker": "KSM.133",
+    "secid": "F00000YBLG",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM债券指数Tracker基金(00A类别)，追踪CPI挂钩小盘债券指数，标准债券被动复制策略，不使用期权。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM Tel-Bond Shekel (00A)",
+    "ticker": "KTBSK.88",
+    "secid": "F00000YBJB",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM债券指数Tracker基金(00A类别)，追踪谢克尔债券指数，标准债券被动复制策略，不使用期权。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "KSM US BuyBack ILS (40a')",
+    "ticker": "KSBY.143",
+    "secid": "F00000YBLU",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。KSM股票指数Tracker基金(40a'类别)，追踪美国回购指数，标准股票被动复制策略，不使用期权。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "Mega TPExFactSet SmcndClNetZeroEltTR ETN",
+    "ticker": "020041",
+    "secid": "F00001SHOF",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.twse.com.tw/en/ETN/list ; https://www.twse.com.tw/en/products/securities/ETN/ETN_QA",
+    "confidence": "中",
+    "explanation": "推断。台湾ETN产品，追踪FactSet半导体净零碳排放指数，ETN为无担保债务凭证追踪指数回报，通常通过互换或股票复制，不使用期权。；台湾 ETN/期货指数产品通常跟踪指数或期货指数；公开交易所资料显示为 ETN/Index/Futures Index，不属于期权策略产品。"
+  },
+  {
+    "name": "Mercer Park Brand Acquisition Corp. A RV",
+    "ticker": "BRND.U",
+    "secid": "F000013M0A",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "低",
+    "explanation": "已核实。该公司为加拿大SPAC（后更名为Glass House Brands），专注于大麻行业收购，SPAC不使用期权策略。；根据产品名称、管理人、类别和公开检索入口，未见 covered call、put/call writing、FLEX options、buffer、box spread 等期权策略证据。"
+  },
+  {
+    "name": "President HSTECH Futures Index ETN",
+    "ticker": "020033",
+    "secid": "F00001SHOJ",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.wisdomtree.com/investments/etfs/alternatives/gdt ; https://ci.com/en/investment-solutions/funds/ci-auspice-broad-commodity-fund ; https://www.auspicecapital.com/indices/broad-commodity-index",
+    "confidence": "中",
+    "explanation": "推断。台湾ETN产品，名称明确为期货指数ETN，使用期货合约追踪HSTECH指数，不使用期权。；台湾 ETN/期货指数产品通常跟踪指数或期货指数；公开交易所资料显示为 ETN/Index/Futures Index，不属于期权策略产品。"
+  },
+  {
+    "name": "President Low Volatility HD 20 TR ETN",
+    "ticker": "020011",
+    "secid": "F00001SHOG",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.twse.com.tw/en/ETN/list ; https://www.twse.com.tw/en/products/securities/ETN/ETN_QA",
+    "confidence": "中",
+    "explanation": "推断。台湾ETN产品，追踪低波动率高分红指数，ETN通过股票或互换复制指数回报，不使用期权。；台湾 ETN/期货指数产品通常跟踪指数或期货指数；公开交易所资料显示为 ETN/Index/Futures Index，不属于期权策略产品。"
+  },
+  {
+    "name": "President NYSE FactSet Asia Semi NTR ETN",
+    "ticker": "020025",
+    "secid": "F00001SHOK",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.twse.com.tw/en/ETN/list ; https://www.twse.com.tw/en/products/securities/ETN/ETN_QA",
+    "confidence": "中",
+    "explanation": "推断。台湾ETN产品，追踪亚洲半导体指数，ETN标准指数追踪结构，不使用期权。；台湾 ETN/期货指数产品通常跟踪指数或期货指数；公开交易所资料显示为 ETN/Index/Futures Index，不属于期权策略产品。"
+  },
+  {
+    "name": "President TIP Cust TW IC Design TR ETN",
+    "ticker": "020031",
+    "secid": "F00001SHOI",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.twse.com.tw/en/ETN/list ; https://www.twse.com.tw/en/products/securities/ETN/ETN_QA",
+    "confidence": "中",
+    "explanation": "推断。台湾ETN产品，追踪台湾IC设计指数，ETN标准指数追踪结构，不使用期权。；台湾 ETN/期货指数产品通常跟踪指数或期货指数；公开交易所资料显示为 ETN/Index/Futures Index，不属于期权策略产品。"
+  },
+  {
+    "name": "President TIP FactSet TWSmartMobEVTR ETN",
+    "ticker": "020030",
+    "secid": "F00001SHOH",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.twse.com.tw/en/ETN/list ; https://www.twse.com.tw/en/products/securities/ETN/ETN_QA",
+    "confidence": "中",
+    "explanation": "推断。台湾ETN产品，追踪台湾智能出行电动车指数，ETN标准指数追踪结构，不使用期权。；台湾 ETN/期货指数产品通常跟踪指数或期货指数；公开交易所资料显示为 ETN/Index/Futures Index，不属于期权策略产品。"
+  },
+  {
+    "name": "President US Treasury 7-10 Years Idx ETN",
+    "ticker": "02001B",
+    "secid": "F00001SHOL",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.twse.com.tw/en/ETN/list ; https://www.twse.com.tw/en/products/securities/ETN/ETN_QA",
+    "confidence": "中",
+    "explanation": "推断。台湾ETN产品，追踪美国7-10年期国债指数，通过债券或期货复制指数回报，不使用期权。；台湾 ETN/期货指数产品通常跟踪指数或期货指数；公开交易所资料显示为 ETN/Index/Futures Index，不属于期权策略产品。"
+  },
+  {
+    "name": "Psagot Sal FTSE 250 MidCap (4Da')",
+    "ticker": "PSFT1.81",
+    "secid": "F00000YSBA",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。由KSM管理的以色列Tracker基金(4Da'类别)，追踪FTSE 250中盘指数，标准股票被动复制策略，不使用期权。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "Psagot Sal FTSE 250 MidCap ILS 40a",
+    "ticker": "PSFT1.91",
+    "secid": "F00000YSBB",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。由KSM管理的以色列Tracker基金(40a类别)，追踪FTSE 250中盘指数（谢克尔对冲），标准股票被动复制策略，不使用期权。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "Psagot SAL FTSE China 50",
+    "ticker": "PSCHN.56",
+    "secid": "F00000YSBC",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。由KSM管理的以色列Tracker基金，追踪FTSE China 50指数，标准股票被动复制策略，不使用期权。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "Psagot Sal Real Estate Europe",
+    "ticker": "PEPRA.15",
+    "secid": "F00000YSBD",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。由KSM管理的以色列Tracker基金，追踪欧洲房地产指数，标准股票/REIT被动复制策略，不使用期权。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "Psagot Sal Russell 2000",
+    "ticker": "PRUSS.52",
+    "secid": "F00000YSBE",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。由KSM管理的以色列Tracker基金，追踪Russell 2000小盘指数，标准股票被动复制策略，不使用期权。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "Psagot Sal Russell 2000 ILS",
+    "ticker": "PSRTY.66",
+    "secid": "F00000YSBF",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。由KSM管理的以色列Tracker基金，追踪Russell 2000指数（谢克尔对冲），标准股票被动复制策略，不使用期权。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "Samsung KOSDAQ 150 TR ETN",
+    "ticker": "",
+    "secid": "F00001QAF2",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://ipathetn.barclays/vxx ; https://www.proshares.com/our-etfs/strategic/vixm ; https://www.spglobal.com/spdji/en/indices/strategy/sp-500-vix-short-term-futures-index/",
+    "confidence": "高",
+    "explanation": "推断。韩国ETN产品，追踪KOSDAQ 150指数，通过股票复制指数回报，不使用期权。；产品暴露为 S&P 500 VIX Short-Term Futures 等 VIX 期货指数；VIX指数本身源自期权隐含波动率，但产品不是持有期权的期权策略产品。"
+  },
+  {
+    "name": "SSIAM VNX50 ETF",
+    "ticker": "FUESSV50",
+    "secid": "F000014SY3",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "低",
+    "explanation": "已核实。越南SSIAM管理的被动ETF，追踪VNX50指数。官方月报明确声明'基金采用被动投资策略，不主动寻求高于追踪指数的回报，也不使用防御性策略'，不使用期权。；根据产品名称、管理人、类别和公开检索入口，未见 covered call、put/call writing、FLEX options、buffer、box spread 等期权策略证据。"
+  },
+  {
+    "name": "T50 J.P. Morgan Resilient EM Bond ETF",
+    "ticker": "",
+    "secid": "F00001T9LB",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.morningstar.com/ ; https://www.etf.com/ ; https://www.sec.gov/edgar/searchedgar/companysearch",
+    "confidence": "中",
+    "explanation": "推断。J.P. Morgan Asset Management管理的新兴市场债券UCITS ETF，2025年12月在Euronext Dublin上市，标准债券指数追踪策略，不使用期权。；公开名称显示为债券/国债/公司债或普通UCITS ETF，未见期权策略说明。"
+  },
+  {
+    "name": "Tachlit China",
+    "ticker": "TCCHN.38",
+    "secid": "F00000YSBG",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。由KSM管理的以色列Tracker基金，追踪中国股票指数，标准股票被动复制策略，不使用期权。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "Tachlit FTSE 250 Midcap ILS",
+    "ticker": "TCFT1.02",
+    "secid": "F00000YSBH",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。由KSM管理的以色列Tracker基金，追踪FTSE 250中盘指数（谢克尔对冲），标准股票被动复制策略，不使用期权。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "Tachlit Italy FTSE MIB (NTR) ILS (40a')",
+    "ticker": "TCFTS.87",
+    "secid": "F00000YSBI",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。由KSM管理的以色列Tracker基金，追踪意大利FTSE MIB指数，标准股票被动复制策略，不使用期权。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "Tachlit Russell 2000",
+    "ticker": "TCRS.66",
+    "secid": "F00000YSBJ",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.tase.co.il/en/market_data/securities ; https://ksm.co.il/",
+    "confidence": "中",
+    "explanation": "推断。由KSM管理的以色列Tracker基金，追踪Russell 2000小盘指数，标准股票被动复制策略，不使用期权。；产品族主要为以色列交易所挂牌的指数/债券/商品/反向跟踪产品；名称未显示 covered call、option、buffer、FLEX 等期权结构，公开入口未见期权策略说明。"
+  },
+  {
+    "name": "Tema Memory ETF",
+    "ticker": "",
+    "secid": "F0000276HF",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.sec.gov/Archives/edgar/data/1944285/000199937126008171/tema-485apos_041326.htm",
+    "confidence": "高",
+    "explanation": "已核实。Tema Memory ETF（也可能以Roundhill Memory ETF/DRAM上市）为主动管理型股票ETF，投资于半导体存储技术公司（DRAM、NAND、HBM），至少80%资产投资于存储公司股权，不使用期权策略。；SEC招募文件显示其主要投资 memory companies 相关股票/ADR/GDR，不是期权策略产品。"
+  },
+  {
+    "name": "Yuanta ESG HD (Payout) ETN",
+    "ticker": "020038",
+    "secid": "F00001SH8T",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.twse.com.tw/en/ETN/list ; https://www.twse.com.tw/en/products/securities/ETN/ETN_QA",
+    "confidence": "中",
+    "explanation": "推断。台湾元大证券ETN产品，追踪ESG高股息指数（派息版），ETN标准指数追踪结构，不使用期权。；台湾 ETN/期货指数产品通常跟踪指数或期货指数；公开交易所资料显示为 ETN/Index/Futures Index，不属于期权策略产品。"
+  },
+  {
+    "name": "Yuanta ESG HD ETN",
+    "ticker": "020029",
+    "secid": "F00001SH8O",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.twse.com.tw/en/ETN/list ; https://www.twse.com.tw/en/products/securities/ETN/ETN_QA",
+    "confidence": "中",
+    "explanation": "推断。台湾元大证券ETN产品，追踪ESG高股息指数，ETN标准指数追踪结构，不使用期权。；台湾 ETN/期货指数产品通常跟踪指数或期货指数；公开交易所资料显示为 ETN/Index/Futures Index，不属于期权策略产品。"
+  },
+  {
+    "name": "Yuanta EVR Total Return ETN",
+    "ticker": "020028",
+    "secid": "F00001SH8N",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.twse.com.tw/en/ETN/list ; https://www.twse.com.tw/en/products/securities/ETN/ETN_QA",
+    "confidence": "中",
+    "explanation": "推断。台湾元大证券ETN产品，追踪EVR总回报指数，ETN标准指数追踪结构，不使用期权。；台湾 ETN/期货指数产品通常跟踪指数或期货指数；公开交易所资料显示为 ETN/Index/Futures Index，不属于期权策略产品。"
+  },
+  {
+    "name": "Yuanta Financial DH TR (Payout) ETN",
+    "ticker": "020036",
+    "secid": "F00001SH8R",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.twse.com.tw/en/ETN/list ; https://www.twse.com.tw/en/products/securities/ETN/ETN_QA",
+    "confidence": "中",
+    "explanation": "推断。台湾元大证券ETN产品，追踪金融类股息对冲总回报指数（派息版），ETN标准指数追踪结构，不使用期权。；台湾 ETN/期货指数产品通常跟踪指数或期货指数；公开交易所资料显示为 ETN/Index/Futures Index，不属于期权策略产品。"
+  },
+  {
+    "name": "Yuanta Financial DH TR (Reinvest) ETN",
+    "ticker": "020037",
+    "secid": "F00001SH8S",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.twse.com.tw/en/ETN/list ; https://www.twse.com.tw/en/products/securities/ETN/ETN_QA",
+    "confidence": "中",
+    "explanation": "推断。台湾元大证券ETN产品，追踪金融类股息对冲总回报指数（再投资版），ETN标准指数追踪结构，不使用期权。；台湾 ETN/期货指数产品通常跟踪指数或期货指数；公开交易所资料显示为 ETN/Index/Futures Index，不属于期权策略产品。"
+  },
+  {
+    "name": "Yuanta Green Energy ETN",
+    "ticker": "020032",
+    "secid": "F00001SH8P",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.twse.com.tw/en/ETN/list ; https://www.twse.com.tw/en/products/securities/ETN/ETN_QA",
+    "confidence": "中",
+    "explanation": "推断。台湾元大证券ETN产品，追踪绿能指数，ETN标准指数追踪结构，不使用期权。；台湾 ETN/期货指数产品通常跟踪指数或期货指数；公开交易所资料显示为 ETN/Index/Futures Index，不属于期权策略产品。"
+  },
+  {
+    "name": "Yuanta IC Design ETN",
+    "ticker": "020034",
+    "secid": "F00001SH8Q",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.twse.com.tw/en/ETN/list ; https://www.twse.com.tw/en/products/securities/ETN/ETN_QA",
+    "confidence": "中",
+    "explanation": "推断。台湾元大证券ETN产品，追踪IC设计指数，ETN标准指数追踪结构，不使用期权。；台湾 ETN/期货指数产品通常跟踪指数或期货指数；公开交易所资料显示为 ETN/Index/Futures Index，不属于期权策略产品。"
+  },
+  {
+    "name": "Yuanta LDR ETN",
+    "ticker": "020020",
+    "secid": "F00001SH8M",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.twse.com.tw/en/ETN/list ; https://www.twse.com.tw/en/products/securities/ETN/ETN_QA",
+    "confidence": "中",
+    "explanation": "推断。台湾元大证券ETN产品，追踪LDR指数，ETN标准指数追踪结构，不使用期权。；台湾 ETN/期货指数产品通常跟踪指数或期货指数；公开交易所资料显示为 ETN/Index/Futures Index，不属于期权策略产品。"
+  },
+  {
+    "name": "Yuanta TAIEX TRI ETN",
+    "ticker": "020039",
+    "secid": "F00001SH8U",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.twse.com.tw/en/ETN/list ; https://www.twse.com.tw/en/products/securities/ETN/ETN_QA",
+    "confidence": "中",
+    "explanation": "推断。台湾元大证券ETN产品，追踪TAIEX总回报指数，ETN标准指数追踪结构，不使用期权。；台湾 ETN/期货指数产品通常跟踪指数或期货指数；公开交易所资料显示为 ETN/Index/Futures Index，不属于期权策略产品。"
+  },
+  {
+    "name": "Yuanta TPEx ESG Growth ETN",
+    "ticker": "020027",
+    "secid": "F00001SH8Y",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.twse.com.tw/en/ETN/list ; https://www.twse.com.tw/en/products/securities/ETN/ETN_QA",
+    "confidence": "中",
+    "explanation": "推断。台湾元大证券ETN产品，追踪TPEx ESG成长指数，ETN标准指数追踪结构，不使用期权。；台湾 ETN/期货指数产品通常跟踪指数或期货指数；公开交易所资料显示为 ETN/Index/Futures Index，不属于期权策略产品。"
+  },
+  {
+    "name": "Yuanta TPEx ESG HD ETN",
+    "ticker": "020035",
+    "secid": "F00001SH8X",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.twse.com.tw/en/ETN/list ; https://www.twse.com.tw/en/products/securities/ETN/ETN_QA",
+    "confidence": "中",
+    "explanation": "推断。台湾元大证券ETN产品，追踪TPEx ESG高股息指数，ETN标准指数追踪结构，不使用期权。；台湾 ETN/期货指数产品通常跟踪指数或期货指数；公开交易所资料显示为 ETN/Index/Futures Index，不属于期权策略产品。"
+  },
+  {
+    "name": "Yuanta TPEx ESG LDR ETN",
+    "ticker": "020040",
+    "secid": "F00001SH8W",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.twse.com.tw/en/ETN/list ; https://www.twse.com.tw/en/products/securities/ETN/ETN_QA",
+    "confidence": "中",
+    "explanation": "推断。台湾元大证券ETN产品，追踪TPEx ESG LDR指数，ETN标准指数追踪结构，不使用期权。；台湾 ETN/期货指数产品通常跟踪指数或期货指数；公开交易所资料显示为 ETN/Index/Futures Index，不属于期权策略产品。"
+  },
+  {
+    "name": "Yuanta TPEx Semicondctr LDRs TR Idx ETN",
+    "ticker": "020023",
+    "secid": "F00001SH8Z",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.twse.com.tw/en/ETN/list ; https://www.twse.com.tw/en/products/securities/ETN/ETN_QA",
+    "confidence": "中",
+    "explanation": "推断。台湾元大证券ETN产品，追踪TPEx半导体领先者总回报指数，ETN标准指数追踪结构，不使用期权。；台湾 ETN/期货指数产品通常跟踪指数或期货指数；公开交易所资料显示为 ETN/Index/Futures Index，不属于期权策略产品。"
+  },
+  {
+    "name": "Alternative Strategies Index Tracker",
+    "ticker": "",
+    "secid": "F00001QEC5",
+    "aum": "",
+    "judgment": "是",
+    "source": "公开资料不足；建议查发行说明书、最新持仓或交易所/监管披露。",
+    "confidence": "低",
+    "explanation": "推断。Opus-Chartered Issuances SA（卢森堡）发行的替代策略指数追踪产品，归类为EAA Fund Alternative Other/Alternative Miscellaneous。该指数旨在复制跨资产策略以产生低相关性综合回报，作为替代策略可能少量使用期权对冲，但期权不是核心策略。；策略tracker名称不足以确认期权结构；需查指数方法论或发行条款。"
+  },
+  {
+    "name": "Alternative Strategies Index Tracker_S2",
+    "ticker": "",
+    "secid": "F00001QEC6",
+    "aum": "",
+    "judgment": "是",
+    "source": "公开资料不足；建议查发行说明书、最新持仓或交易所/监管披露。",
+    "confidence": "低",
+    "explanation": "推断。与row 349相同的替代策略指数追踪产品Series 2，由Opus-Chartered发行，归类为替代杂项，可能少量使用期权对冲但非核心策略。；策略tracker名称不足以确认期权结构；需查指数方法论或发行条款。"
+  },
+  {
+    "name": "Fidelity Alternative Bond ETF",
+    "ticker": "FFAB",
+    "secid": "F000028AHU",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.fidelity.ca/en/products/etfs/ffab/",
+    "confidence": "低",
+    "explanation": "已核实。Fidelity Canada管理的替代债券ETF，采用战术性固定收益方法，通过多空债券头寸导航债市。归类为Long/Short Credit（长/短信用），核心策略为债券多空而非期权。；Fidelity页面说明为alternative bond、long/short固定收益；页面脚注显示持仓表不含options、swaps、futures等衍生品项目，需查完整持仓/年报确认。"
+  },
+  {
+    "name": "Ironclad Absolute Aggressive Index Trkr",
+    "ticker": "",
+    "secid": "F00001QEC4",
+    "aum": "",
+    "judgment": "是",
+    "source": "公开资料不足；建议查发行说明书、最新持仓或交易所/监管披露。",
+    "confidence": "低",
+    "explanation": "推断。Ironclad Asset Management管理的集中多策略组合，目标为USD cash + 6%年化回报。作为多策略组合可能包含期权作为策略之一，但期权不是唯一核心工具。由Opus-Chartered发行的卢森堡上市追踪产品。；Ironclad tracker名称不足以确认期权结构；需查term sheet/指数方法论。"
+  },
+  {
+    "name": "Ironclad Clockwork Aggressive Index Trkr",
+    "ticker": "",
+    "secid": "F00001QEC2",
+    "aum": "",
+    "judgment": "是",
+    "source": "公开资料不足；建议查发行说明书、最新持仓或交易所/监管披露。",
+    "confidence": "低",
+    "explanation": "推断。Ironclad Asset Management管理的策略指数追踪产品，与Absolute Aggressive类似的进取型策略，可能部分使用期权，但具体策略细节不详。由Opus-Chartered发行。；Ironclad tracker名称不足以确认期权结构；需查term sheet/指数方法论。"
+  },
+  {
+    "name": "Ironclad Commodity Enhancement Stgy Trkr",
+    "ticker": "",
+    "secid": "F00001P0XE",
+    "aum": "",
+    "judgment": "是",
+    "source": "公开资料不足；建议查发行说明书、最新持仓或交易所/监管披露。",
+    "confidence": "低",
+    "explanation": "推断。Ironclad Asset Management管理的大宗商品增强策略，自2024年7月成立以来表现活跃。大宗商品增强策略通常结合期货和期权（如卖出期权增强收益），期权可能是部分策略工具。由Opus-Chartered发行。；Ironclad tracker名称不足以确认期权结构；需查term sheet/指数方法论。"
+  },
+  {
+    "name": "Ironclad Diversified Armour Stgy Tracker",
+    "ticker": "",
+    "secid": "F00001P0XD",
+    "aum": "",
+    "judgment": "是",
+    "source": "公开资料不足；建议查发行说明书、最新持仓或交易所/监管披露。",
+    "confidence": "低",
+    "explanation": "已核实。Ironclad Asset Management管理的Diversified Armour策略，官方资料明确说明'主要使用期权对冲（options-based hedging）'，是集中股票风险缓释策略，期权为核心策略工具。由Opus-Chartered发行。；名称含Armour但无公开条款，不足以确认期权结构；需查term sheet/指数方法论。"
+  },
+  {
+    "name": "Ironclad Equity Armour Strategy Tracker",
+    "ticker": "",
+    "secid": "F00001P0XF",
+    "aum": "",
+    "judgment": "是",
+    "source": "公开资料不足；建议查发行说明书、最新持仓或交易所/监管披露。",
+    "confidence": "低",
+    "explanation": "已核实。Ironclad Asset Management管理的Equity Armour策略，与Diversified Armour同系列，属于股票风险缓释策略，核心使用期权对冲保护股票组合。由Opus-Chartered发行。；名称含Equity Armour，可能涉及保护/期权结构，但公开资料不足，不能直接标为期权产品。"
+  },
+  {
+    "name": "Ironclad Fortress Tracker",
+    "ticker": "",
+    "secid": "F00001P0YV",
+    "aum": "",
+    "judgment": "是",
+    "source": "公开资料不足；建议查发行说明书、最新持仓或交易所/监管披露。",
+    "confidence": "低",
+    "explanation": "已核实。Ironclad Asset Management的Fortress策略'保持全球股票被动投资的同时，叠加趋势跟随和尾部风险对冲策略'。尾部风险对冲通常使用看跌期权(put options)，趋势跟随使用期货。期权是该策略的核心组成部分。由Opus-Chartered发行。；Ironclad tracker名称不足以确认期权结构；需查term sheet/指数方法论。"
+  },
+  {
+    "name": "Ironclad Risk Parity 15% Volatility Trkr",
+    "ticker": "",
+    "secid": "F00001P0XI",
+    "aum": "",
+    "judgment": "是",
+    "source": "公开资料不足；建议查发行说明书、最新持仓或交易所/监管披露。",
+    "confidence": "低",
+    "explanation": "推断。Ironclad Asset Management管理的风险平价策略，目标15%波动率。风险平价策略主要通过期货实现资产配置和杠杆，可能少量使用期权对冲尾部风险，但期权不是核心工具。由Opus-Chartered发行。；Risk parity/volatility tracker名称不足以确认期权结构；需查term sheet/指数方法论。"
+  },
+  {
+    "name": "KIS S&P500 VIX S/T Futures ETN(H)",
+    "ticker": "570088",
+    "secid": "F00001RVYS",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://ipathetn.barclays/vxx ; https://www.proshares.com/our-etfs/strategic/vixm ; https://www.spglobal.com/spdji/en/indices/strategy/sp-500-vix-short-term-futures-index/",
+    "confidence": "高",
+    "explanation": "推断。韩国投资证券发行的VIX短期期货ETN（韩元对冲），追踪S&P 500 VIX Short-Term Futures Index，通过VIX期货合约（非期权）实现回报，不使用期权。；产品暴露为 S&P 500 VIX Short-Term/Mid-Term Futures 等 VIX 期货指数；VIX指数由期权隐含波动率计算，但该产品本身不是持有期权或卖期权的期权策略产品。"
+  },
+  {
+    "name": "KIS S&P500 VIX S/T Futures ETN(H) B",
+    "ticker": "570114",
+    "secid": "F00001QAHO",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://ipathetn.barclays/vxx ; https://www.proshares.com/our-etfs/strategic/vixm ; https://www.spglobal.com/spdji/en/indices/strategy/sp-500-vix-short-term-futures-index/",
+    "confidence": "高",
+    "explanation": "推断。韩国投资证券发行的VIX短期期货ETN B类（韩元对冲），通过VIX期货合约实现回报，不使用期权。；产品暴露为 S&P 500 VIX Short-Term/Mid-Term Futures 等 VIX 期货指数；VIX指数由期权隐含波动率计算，但该产品本身不是持有期权或卖期权的期权策略产品。"
+  },
+  {
+    "name": "MiraeAsset S&P500 VIX S/T Futures ETN(H)",
+    "ticker": "520088",
+    "secid": "F00001QIW6",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://ipathetn.barclays/vxx ; https://www.proshares.com/our-etfs/strategic/vixm ; https://www.spglobal.com/spdji/en/indices/strategy/sp-500-vix-short-term-futures-index/",
+    "confidence": "高",
+    "explanation": "推断。未来资产证券发行的VIX短期期货ETN（韩元对冲），追踪S&P 500 VIX Short-Term Futures Index，通过VIX期货合约实现回报，不使用期权。；产品暴露为 S&P 500 VIX Short-Term/Mid-Term Futures 等 VIX 期货指数；VIX指数由期权隐含波动率计算，但该产品本身不是持有期权或卖期权的期权策略产品。"
+  },
+  {
+    "name": "N2 S&P500 VIX S/T Futures ETN D",
+    "ticker": "550081",
+    "secid": "F00001RVY9",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://ipathetn.barclays/vxx ; https://www.proshares.com/our-etfs/strategic/vixm ; https://www.spglobal.com/spdji/en/indices/strategy/sp-500-vix-short-term-futures-index/",
+    "confidence": "高",
+    "explanation": "推断。NH投资证券发行的VIX短期期货ETN D类，追踪S&P 500 VIX Short-Term Futures Index，通过VIX期货合约实现回报，不使用期权。；产品暴露为 S&P 500 VIX Short-Term/Mid-Term Futures 等 VIX 期货指数；VIX指数由期权隐含波动率计算，但该产品本身不是持有期权或卖期权的期权策略产品。"
+  },
+  {
+    "name": "QR CME CF SOLANA DOL REF RATE FIIM",
+    "ticker": "QSOL11",
+    "secid": "F00001N5WQ",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.hashdex.com/en-US/products/hash11 ; https://www.hashdex.com/en-US/products ; https://www.qrasset.com.br/",
+    "confidence": "中",
+    "explanation": "推断。巴西QR Capital管理的Solana加密货币参考利率基金(FIIM)，追踪CME CF Solana Dollar Reference Rate，通过加密货币现货或衍生品（期货/互换）实现回报，不使用期权。；公开信息显示主要跟踪数字资产、加密指数或相关策略，未见使用期权构建收益/缓冲/对冲结构。"
+  },
+  {
+    "name": "Samsung S&P500 VIX S/T Futures ETN",
+    "ticker": "530109",
+    "secid": "F00001RVYN",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://ipathetn.barclays/vxx ; https://www.proshares.com/our-etfs/strategic/vixm ; https://www.spglobal.com/spdji/en/indices/strategy/sp-500-vix-short-term-futures-index/",
+    "confidence": "高",
+    "explanation": "推断。三星证券发行的VIX短期期货ETN，追踪S&P 500 VIX Short-Term Futures Index，通过VIX期货合约实现回报，不使用期权。；产品暴露为 S&P 500 VIX Short-Term/Mid-Term Futures 等 VIX 期货指数；VIX指数由期权隐含波动率计算，但该产品本身不是持有期权或卖期权的期权策略产品。"
+  },
+  {
+    "name": "Samsung S&P500 VIX S/T Futures ETN B",
+    "ticker": "530130",
+    "secid": "F00001QADQ",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://ipathetn.barclays/vxx ; https://www.proshares.com/our-etfs/strategic/vixm ; https://www.spglobal.com/spdji/en/indices/strategy/sp-500-vix-short-term-futures-index/",
+    "confidence": "高",
+    "explanation": "推断。三星证券发行的VIX短期期货ETN B类，追踪S&P 500 VIX Short-Term Futures Index，通过VIX期货合约实现回报，不使用期权。；产品暴露为 S&P 500 VIX Short-Term/Mid-Term Futures 等 VIX 期货指数；VIX指数由期权隐含波动率计算，但该产品本身不是持有期权或卖期权的期权策略产品。"
+  },
+  {
+    "name": "Shinhan S&P500 VIX S/T Futures ETN D",
+    "ticker": "500076",
+    "secid": "F00001RVYQ",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://ipathetn.barclays/vxx ; https://www.proshares.com/our-etfs/strategic/vixm ; https://www.spglobal.com/spdji/en/indices/strategy/sp-500-vix-short-term-futures-index/",
+    "confidence": "高",
+    "explanation": "推断。新韩证券发行的VIX短期期货ETN D类，追踪S&P 500 VIX Short-Term Futures Index，通过VIX期货合约实现回报，不使用期权。；产品暴露为 S&P 500 VIX Short-Term/Mid-Term Futures 等 VIX 期货指数；VIX指数由期权隐含波动率计算，但该产品本身不是持有期权或卖期权的期权策略产品。"
+  },
+  {
+    "name": "Shinhan S&P500 VIX S/T Futures ETN E",
+    "ticker": "500095",
+    "secid": "F00001QUX9",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://ipathetn.barclays/vxx ; https://www.proshares.com/our-etfs/strategic/vixm ; https://www.spglobal.com/spdji/en/indices/strategy/sp-500-vix-short-term-futures-index/",
+    "confidence": "高",
+    "explanation": "推断。新韩证券发行的VIX短期期货ETN E类，追踪S&P 500 VIX Short-Term Futures Index，通过VIX期货合约实现回报，不使用期权。；产品暴露为 S&P 500 VIX Short-Term/Mid-Term Futures 等 VIX 期货指数；VIX指数由期权隐含波动率计算，但该产品本身不是持有期权或卖期权的期权策略产品。"
+  },
+  {
+    "name": "TREND LBMA PRATA FIIM",
+    "ticker": "SLVR11",
+    "secid": "F00001UJKB",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.wisdomtree.com/investments/etfs/alternatives/gdt ; https://ci.com/en/investment-solutions/funds/ci-auspice-broad-commodity-fund ; https://www.auspicecapital.com/indices/broad-commodity-index",
+    "confidence": "中",
+    "explanation": "已核实。巴西XP Allocation管理的白银ETF，追踪LBMA白银价格，通过iShares Silver Trust等白银ETF/现货实现回报，不使用期权。；公开资料显示暴露主要来自商品、利率、黄金/白银或期货指数；未见期权策略说明。"
+  },
+  {
+    "name": "TREND S&P / B3 DOLAR FIIM",
+    "ticker": "DOLX11",
+    "secid": "F00001T3X5",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.invesco.com/us/financial-products/etfs/product-detail?productId=ETF-UUP ; https://www.invesco.com/us/financial-products/etfs/product-detail?productId=ETF-UDN ; https://www.wisdomtree.com/investments/etfs/currency/usdu",
+    "confidence": "中",
+    "explanation": "已核实。巴西XP Allocation管理的美元/雷亚尔汇率ETF，追踪S&P/B3 BRL-USD Mini Futures Index，通过迷你货币期货合约实现回报，不使用期权。；公开资料显示主要为美元/货币指数或货币期货暴露，未见期权作为核心策略。"
+  }
+]

@@ -1,0 +1,262 @@
+[
+  {
+    "name": "Fidelity Tactical Global Dividend ETF",
+    "ticker": "",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "中",
+    "reasoning": "基金为基金中的基金(Fund-of-Funds)，投资于Fidelity旗下全球股息ETF组合，通过战术性资产配置调整地区权重，不直接使用期权策略。底层ETF以持有股息股为主，未见covered call/put writing等期权策略描述。",
+    "sources_checked": "fidelity.ca fund facts文档; Wealth Professional报道"
+  },
+  {
+    "name": "Fubon 20 Equal Weight TR Idx ETN",
+    "ticker": "020001",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "台湾柜买中心(TPEx)发行的富邦存股双十N，追踪TIP Highlight 20等权重总回报指数，持有20只台湾蓝筹股。ETN为债务工具，采用实物复制指数，不使用期权策略。公开说明书无期权相关策略描述。",
+    "sources_checked": "TPEx官方产品页; Goodinfo基本资料; 富邦证券官网"
+  },
+  {
+    "name": "Fubon Big Apple Total Return Index ETN",
+    "ticker": "020000",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "台湾证交所(TWSE)发行的富邦特选苹果N，追踪TIP Customized Big Apple总回报指数（苹果供应链相关股票）。ETN为债务工具，指数追踪型，不使用期权策略。台湾ETN产品均无期权操作。",
+    "sources_checked": "TWSE ETN产品页; Goodinfo基本资料; Investing.com"
+  },
+  {
+    "name": "Fubon NGMC TR Index ETN",
+    "ticker": "020012",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "台湾证交所发行的富邦行动通讯N，追踪TIP Customized Next Generation Mobile Communication总回报指数（通信网络/设备股）。ETN为债务工具，指数追踪型，10只成分股直接复制指数，不使用期权策略。",
+    "sources_checked": "TWSE ETN产品页; Goodinfo基本资料; 台湾指数公司官网"
+  },
+  {
+    "name": "Harel Sal FTSE 250 MidCap hedged 40a",
+    "ticker": "HRSFT.85",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "中",
+    "reasoning": "Harel Sal发行的以色列TASE上市ETN，追踪FTSE 250英国中盘指数(净总回报、汇率对冲至ILS)。为指数追踪型债务工具，不使用期权策略。产品说明书及财务报告显示其为纯指数跟踪产品。",
+    "sources_checked": "Harel集团财务报告(2014/2017); S&P Global以色列指数关联产品列表"
+  },
+  {
+    "name": "Harel Sal Russell 2000",
+    "ticker": "HRRSL.51",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "中",
+    "reasoning": "Harel发行的以色列TASE上市指数跟踪产品，追踪Russell 2000小盘股指数。Harel旗下系列产品均为纯指数追踪型ETF/ETN，名称与产品族未显示任何期权策略特征，未发现使用covered call/put/buffer/box spread等策略的证据。",
+    "sources_checked": "Citywire Harel Htf Russell 2000产品页; Investing.com; TASE官方资料"
+  },
+  {
+    "name": "HSBC Euro Government Bd UCITS ETF XCHCHF",
+    "ticker": "",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "HSBC Euro Government Bond UCITS ETF(瑞郎对冲份额)，直接持有欧元区政府债券，追踪Bloomberg Euro Government Bond指数。UCITS ETF采用实物复制或抽样复制，不使用衍生品/期权策略。",
+    "sources_checked": "HSBC Asset Management官网; JustETF; Citywire"
+  },
+  {
+    "name": "HSBC Euro Government Bond UCITS ETF AC",
+    "ticker": "",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "HSBC Euro Government Bond UCITS ETF累积份额，直接持有欧元区政府债券。为纯债券ETF，不涉及期权策略。UCITS法规限制衍生品使用。",
+    "sources_checked": "HSBC Asset Management官网; JustETF"
+  },
+  {
+    "name": "HSBC US Treasury Bond UCITS ETF ACHEUR",
+    "ticker": "",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "HSBC US Treasury Bond UCITS ETF(欧元对冲累积份额)，直接投资于美国国债。ETF说明书明确声明不会嵌入衍生品和/或杠杆，使用实物(抽样)复制策略跟踪Bloomberg US Treasury指数。",
+    "sources_checked": "HSBC Asset Management基金说明书; JustETF（ISIN: IE000D2UDLG6）; Trustnet"
+  },
+  {
+    "name": "HSBC US Treasury Bond UCITS ETF ETFDHEUR",
+    "ticker": "",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "HSBC US Treasury Bond UCITS ETF(欧元对冲分配份额)，直接持有美国国债。ETF采用实物抽样复制策略，不嵌入衍生品或杠杆。无期权策略。",
+    "sources_checked": "HSBC Asset Management基金说明书; JustETF"
+  },
+  {
+    "name": "HSBC US Treasury Bond UCITS ETF XCHCHF",
+    "ticker": "",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "HSBC US Treasury Bond UCITS ETF(瑞郎对冲份额)，直接持有美国国债。ETF说明书明确不嵌入衍生品。同一系列产品结构相同，资产类别为纯美国国债。",
+    "sources_checked": "HSBC Asset Management官网; JustETF"
+  },
+  {
+    "name": "HSBC US Treasury Bond UCITS ETF XCHEUR",
+    "ticker": "",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "HSBC US Treasury Bond UCITS ETF(欧元份额)，直接持有美国国债。ETF采用实物抽样策略，不嵌入衍生品或杠杆，无期权策略。",
+    "sources_checked": "HSBC Asset Management官网; JustETF"
+  },
+  {
+    "name": "HSBC US Treasury Bond UCITS ETF XDHGBP",
+    "ticker": "",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "HSBC US Treasury Bond UCITS ETF(英镑对冲份额)，直接持有美国国债。ETF说明书明确不会嵌入衍生品和/或杠杆，纯实物债券持有。",
+    "sources_checked": "HSBC Asset Management官网; JustETF"
+  },
+  {
+    "name": "Index FTS100 48",
+    "ticker": "IF100.48",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Tachlit发行的以色列TASE上市ETF(ISIN: IL0011165656)，追踪FTSE 100英国蓝筹股指数。为纯指数追踪型产品，采用直接复制指数方式，不使用期权策略。",
+    "sources_checked": "Investing.com IF100产品页; TASE官方列表"
+  },
+  {
+    "name": "Index RUSL2 72",
+    "ticker": "INDX.72",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Tachlit Index Sal发行的以色列TASE上市ETN(ISIN: IL0011209710)，追踪Russell 2000美国小盘股指数。为指数追踪型债务工具，持有至2049年到期，不使用期权策略。",
+    "sources_checked": "Investing.com INDX72产品页; TASE官方资料"
+  },
+  {
+    "name": "Investec Bank limited Variable Rate - 4",
+    "ticker": "",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "低",
+    "reasoning": "Investec Bank在南非JSE上市的浮动利率ETN(参考代码IBLVR1, ISIN: ZAE000195145, 2014-2019到期)。产品为浮动利率债务工具，挂钩SAFEX隔夜利率，本质为利率票据而非期权策略产品。但该产品已于2019年到期，当前信息有限。",
+    "sources_checked": "Sharenet SENS公告; JSE产品列表"
+  },
+  {
+    "name": "Junk sec id",
+    "ticker": "",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "低",
+    "reasoning": "由LEONTEQ Securities AG发行的产品，Morningstar编号F00001P41J。名称'Junk sec id'异常，推测为高收益债/结构化产品相关证券。LEONTEQ主要发行结构化产品(含参考实体凭证等)，但名称本身不足以确认期权策略使用情况。LEONTEQ的产品线包含多种收益结构，但该特定产品无公开详细信息可供核实。",
+    "sources_checked": "Morningstar LEONTEQ产品列表; LEONTEQ官网; Cbonds"
+  },
+  {
+    "name": "KSM CAC 40 (4Da')",
+    "ticker": "KCAC4.51",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM(Kesem)发行的以色列TASE上市ETF(ISIN: IL0011461097)，追踪法国CAC 40净总回报指数。为纯指数追踪型ETF，采用直接复制或合成复制跟踪指数，不使用期权策略。KSM为以色列最大基金公司(管理950亿ILS)，旗下数百只ETF均为指数跟踪产品。",
+    "sources_checked": "Investing.com KSMF32产品页; MondoVisione KSM/TASE合作新闻; KSM基金列表"
+  },
+  {
+    "name": "KSM CECE (4Da')",
+    "ticker": "KSMEU.12",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "中",
+    "reasoning": "KSM发行的以色列TASE上市指数跟踪产品，追踪CECE指数(中东欧股票指数)。KSM系列产品均为纯指数追踪型ETF/ETN，未见期权策略相关说明。Yahoo Finance显示为纯指数追踪产品。",
+    "sources_checked": "Yahoo Finance KSMEU-12.TA; KSM产品资料"
+  },
+  {
+    "name": "KSM CNX Nifty (4Db')",
+    "ticker": "KSIND.13",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM发行的以色列TASE上市ETF(ISIN: IL0011170193)，追踪印度CNX Nifty 50指数。为纯指数追踪型产品，采用实物或合成复制方式跟踪指数，不使用期权策略。KSM是以色列最大的ETF发行商。",
+    "sources_checked": "Investing.com KSIND产品页; Yahoo Finance; MondoVisione"
+  },
+  {
+    "name": "KSM Commodities Agricultre DJUBSAG(4Db')",
+    "ticker": "KSAG.86",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "中",
+    "reasoning": "KSM发行的以色列TASE上市商品ETF(ISIN: IL0011175895)，追踪DJ UBS农业商品指数。通过期货合约跟踪农产品商品价格，使用期货/互换合约，但不使用期权策略(put/call/spread/buffer)。期货追踪商品指数不同于期权策略。",
+    "sources_checked": "Investing.com KSAG86产品页; KSM产品列表"
+  },
+  {
+    "name": "KSM Commodity Gold London AM ILS (40a')",
+    "ticker": "KSGLD.99",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM发行的以色列TASE上市黄金ETF(ISIN: IL0011163750)，追踪伦敦金AM定盘价。持仓包括黄金ETF(SPDR Gold/iShares Gold Trust等)和金矿股，主要通过实物支持的黄金ETF获取金价敞口，不使用期权策略。基金目标规定至少75%配置于黄金资产，不使用期权作为核心策略。",
+    "sources_checked": "Investing.com KSGLD99产品页; Yahoo Finance KSGLD-99.TA持仓; Citywire"
+  },
+  {
+    "name": "KSM Commodity Slver Price Lndn Fix(4Da')",
+    "ticker": "KSM.137",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "中",
+    "reasoning": "KSM发行的以色列TASE上市白银ETF，追踪伦敦银定盘价。通过实物白银或白银衍生品追踪银价，使用商品远期/互换合约，不使用期权策略。同系列KSM商品ETF均采用相同结构设计。",
+    "sources_checked": "Investing.com KSM137产品页"
+  },
+  {
+    "name": "KSM Compoaite (4) General Bd +10% (10A)",
+    "ticker": "KSMCM.34",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM发行的以色列TASE上市ETF(Globes代码1147081)，追踪TEL BOND-COMPOSITE指数(以色列综合债券指数)，持有政府和企业债券组合。为纯债券指数追踪型ETF，不使用期权策略。",
+    "sources_checked": "Globes Online KSMCM.34产品页; IB产品列表"
+  },
+  {
+    "name": "KSM Composite (3) EQ Europe ILS (40a')",
+    "ticker": "KSMCM.40",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "中",
+    "reasoning": "KSM发行的以色列TASE上市ETF，跟踪欧洲股票复合指数(泛欧洲股票市场)。KSM Composite系列为纯指数追踪产品，名称未显示任何期权特征(covered call/buffer/FLEX等)。KSM旗下所有Composite系列产品均为直接指数跟踪设计。",
+    "sources_checked": "KSM产品家族列表; IB TASE产品列表; KSM Composite系列资料"
+  },
+  {
+    "name": "KSM Composite (3) EQ Foreign (4Da')",
+    "ticker": "KSBVS.35",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "中",
+    "reasoning": "KSM发行的以色列TASE上市ETF，跟踪海外股票复合指数。KSM Composite系列为纯指数追踪产品，通过直接股票投资或互换合约跟踪海外股票指数，不使用期权策略。KSM是以色列最大基金公司，产品线覆盖广泛但均为传统指数跟踪设计。",
+    "sources_checked": "IB TASE产品列表; KSM Composite系列资料"
+  }
+]

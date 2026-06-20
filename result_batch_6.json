@@ -1,0 +1,262 @@
+[
+  {
+    "name": "Ninepoint Alphabet HighShares ETF",
+    "ticker": "GOHI",
+    "original_judgment": "是",
+    "verified_judgment": "是",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Ninepoint官方资料明确说明GOHI使用covered call策略: 持有Alphabet股票并卖出看涨期权至多50%的NAV,同时使用最高33%杠杆增强收益。期权为产品的核心收入策略。",
+    "sources_checked": "https://www.ninepoint.com/funds/ninepoint-alphabet-highshares-etf/ ; 2026 Outlook covering covered calls ; Globe and Mail profile"
+  },
+  {
+    "name": "Ninepoint Palantir HighShares ETF",
+    "ticker": "PLHI",
+    "original_judgment": "是",
+    "verified_judgment": "是",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Ninepoint官方资料明确说明PLHI对Palantir(PLTR)股票使用covered call策略,卖出看涨期权至多50%NAV,配合33%杠杆产生月度分配收益。",
+    "sources_checked": "https://www.ninepoint.com/funds/ninepoint-palantir-highshares-etf/ ; Globe and Mail PLHI-T profile ; Ninepoint HighShares 2026 Outlook"
+  },
+  {
+    "name": "QR BLOOMBERG DEFI FIIM",
+    "ticker": "QDFI11",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "QDFI11是巴西B3交易所上市的DeFi指数ETF,追踪Bloomberg Galaxy DeFi指数,持有UNI、AAVE、MKR等DeFi代币的实物仓位,不使用任何期权策略。",
+    "sources_checked": "Investing.com QDFI11 profile ; The Block report on Brazil DeFi ETFs ; ForkLog report ; QR Capital fund pages"
+  },
+  {
+    "name": "Ranallo Strategy Sr 589 due 2046 USD Acc",
+    "ticker": "XS3385446771",
+    "original_judgment": "是",
+    "verified_judgment": "是",
+    "agreement": "一致",
+    "confidence": "低",
+    "reasoning": "网络搜索未能找到该ISIN(XS3385446771)的任何公开资料。原说明提及产品文档声称'active use of options, both to enhance returns and to manage risk'。由于缺乏公开可查证信息,维持原判但信心水平极低。建议查阅发行说明书、term sheet或交易所披露。",
+    "sources_checked": "多次网络搜索无结果; ISIN在公开数据库中无匹配记录"
+  },
+  {
+    "name": "Ninepoint NVIDIA HighShares ETF",
+    "ticker": "NVHI",
+    "original_judgment": "是",
+    "verified_judgment": "是",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Ninepoint官方资料明确说明NVHI使用covered call策略,持有NVIDIA股票,卖出看涨期权至多50%NAV,使用33%杠杆增强月度收益分配。管理费0.29%。",
+    "sources_checked": "https://www.ninepoint.com/funds/ninepoint-nvidia-highshares-etf/ ; Globe and Mail press releases ; Business Insider Ninepoint filing article"
+  },
+  {
+    "name": "Arimathea Catholic Bond Index ETF",
+    "ticker": "SHRD",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "根据SEC EDGAR招股说明书和HedgeFundAlpha发布稿,SHRD是纯债券ETF,至少80%资产投资于符合天主教道德筛选的投资级固定收益证券(美国国债、机构债、公司债、MBS/ABS)。不使用期权策略,风险因素中无期权相关披露。",
+    "sources_checked": "SEC EDGAR filings (Accession 0001213900-26-043595) ; etf.com/SHRD ; hedgefundalpha.com launch announcement"
+  },
+  {
+    "name": "Milliman Healthcare Inflation Guard ETF",
+    "ticker": "MHIG",
+    "original_judgment": "是",
+    "verified_judgment": "是",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "SEC招股说明书(N-1A)明确披露MHIG可使用衍生品包括swap、期权和期货。期权用于获取黄金等商品的ETF敞口('options on ETFs that provide exposure to gold or other commodities')。期权为多资产策略的一部分。",
+    "sources_checked": "SEC EDGAR filing mhig-n1a_111325.htm ; Seeking Alpha MHIG profile ; TradingView MHIG ; BusinessWire press release ; The Daily Upside article"
+  },
+  {
+    "name": "DDA Bitcoin Macro ETP",
+    "ticker": "BMAC FP",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "DDA Bitcoin Macro ETP是全球首个宏观驱动的比特币ETP,追踪Compass FT DDA Bitcoin Macro Allocation Index,动态调整比特币和USDC之间的敞口。是实物支持的加密货币ETP,不使用期权策略。",
+    "sources_checked": "https://deutschedigitalassets.com/ ; ETFStrategy.com launch article ; DDA Final Terms document ; KID document"
+  },
+  {
+    "name": "WisdomTree GeoAlpha Opportunities Fund",
+    "ticker": "GEOA",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "GEOA是纯多头股票主题ETF,追踪WisdomTree GeoAlpha Opportunities Index,投资受益于地缘政治重组、供应链转移和财政政策变化的公司。WisdomTree官网明确标注Options Not Available。招股书显示为被动管理/抽样策略,不使用期权。",
+    "sources_checked": "https://www.wisdomtree.com/investments/etfs/equity/geoa ; WisdomTree Insights blog ; SEC EDGAR 497 filing (geoa497k1225.htm)"
+  },
+  {
+    "name": "HASHDEX CRYPTO METAVERSE FIIM",
+    "ticker": "META11",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "META11是巴西B3交易所上市的Hashdex加密元宇宙指数ETF,追踪CF Digital Culture加密元宇宙指数,持有加密代币,不使用期权策略。",
+    "sources_checked": "Yahoo Finance META11.SA ; Investing.com META11 ; Hashdex official product pages"
+  },
+  {
+    "name": "USCF Oil Plus Bitcoin Strategy Fund",
+    "ticker": "WTIB",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "中",
+    "reasoning": "WTIB为主动管理ETF,通过原油期货和比特币期货提供100%/100%名义敞口(合计200%杠杆)。核心工具为期货合约(原油期货、比特币期货)。招股书提及可通过'options on Bitcoin futures'和持有含期权敞口的比特币ETP获得间接敞口,但主要持仓为期货,期权非核心策略。",
+    "sources_checked": "https://www.uscfinvestments.com/wtib ; SEC EDGAR 497 filing ; MarketWatch WTIB ; AdvisorHub launch article"
+  },
+  {
+    "name": "Bero Estrategia Gbl Sr 584 due2046USDAcc",
+    "ticker": "XS3385446854",
+    "original_judgment": "是",
+    "verified_judgment": "是",
+    "agreement": "一致",
+    "confidence": "低",
+    "reasoning": "网络搜索未能找到该ISIN(XS3385446854)的任何公开资料。原说明提及产品文档声称'战术性使用期权和衍生品对冲风险、增强回报'。由于缺乏公开可查证信息,维持原判但信心水平低。建议查阅发行说明书、term sheet或交易所披露。",
+    "sources_checked": "多次网络搜索无结果; ISIN在公开数据库中无匹配记录"
+  },
+  {
+    "name": "DDA Heliad Dynamic Blockchain ETN",
+    "ticker": "HELI",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "HELI是DDA与Heliad联合发行的区块链主题ETP,追踪Heliad Dynamic Blockchain Index,持有13种最大的区块链/智能合约代币(基于链上采用指标)。纯加密资产ETP,不使用期权策略。该产品已于2026年6月4日终止交易。",
+    "sources_checked": "https://deutschedigitalassets.com/insights/news/dda-and-heliad-launch-dda-heliad-dynamic-blockchain-etp/ ; DDA Terms & Conditions page"
+  },
+  {
+    "name": "Amundi USD Corp Bd 0-3Y SRI ETF EURH Acc",
+    "ticker": "",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "中",
+    "reasoning": "短期美元投资级企业债UCITS ETF,使用EUR对冲份额类别(EURH)。产品名称和类别表明为纯债券ETF,使用货币远期合约进行汇率对冲。债券ETF的核心策略为持有债券,不涉及期权策略。EURH后缀指欧元对冲,通常使用FX forwards而非期权。",
+    "sources_checked": "Fundinfo.com KIID documents ; Amundi ETF product range search ; MSCI ETF classification report"
+  },
+  {
+    "name": "CI Mosaic Balanced ETF Port Class DA",
+    "ticker": "",
+    "original_judgment": "否",
+    "verified_judgment": "是",
+    "agreement": "不一致",
+    "confidence": "高",
+    "reasoning": "CI Financial年度财务报表(2025年3月31日)显示该FOF基金直接持有期权头寸:长期看跌期权(FXI $34 put、SPY $560/$565 put)和短期看跌期权(SPY $515/$525 put),用于对冲和收入生成。因此该基金确实使用期权策略。",
+    "sources_checked": "CI Financial Annual Financial Statements March 31, 2025 ; funds.cifinancial.com fund profile"
+  },
+  {
+    "name": "CI Mosaic Balanced Growth ETF Port SerDA",
+    "ticker": "",
+    "original_judgment": "否",
+    "verified_judgment": "是",
+    "agreement": "不一致",
+    "confidence": "高",
+    "reasoning": "CI Financial年度财务报表(2025年3月31日)显示该基金持有与Balanced版本类似的期权头寸:长期看跌期权(FXI $34 put、SPY $560/$565 put)公允价值$258,122,短期看跌期权(SPY $515/$525 put)公允价值($28,585)。明确使用期权进行对冲和收入增强。",
+    "sources_checked": "CI Financial Annual Financial Statements ; funds.cifinancial.com ; YCharts allocation data"
+  },
+  {
+    "name": "CI Mosaic Balanced Income ETF Port SerDA",
+    "ticker": "",
+    "original_judgment": "否",
+    "verified_judgment": "是",
+    "agreement": "不一致",
+    "confidence": "高",
+    "reasoning": "CI Financial半年度财务报表显示该基金持有期权头寸:长期看跌期权(SPY $540 put 2026年1月、FXI $34 put、SPY $560/$565 put)和短期看跌期权(SPY $515/$525 put)。使用put writing策略生成额外收入并购买保护性看跌期权。",
+    "sources_checked": "CI Financial Semi-Annual Financial Statements ; funds.cifinancial.com fund profile ; Citywire fund data"
+  },
+  {
+    "name": "CI Mosaic ESG Balanced ETF Port Ser DA",
+    "ticker": "",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "CI Mosaic ESG Balanced ETF Portfolio的年度财务报表(2024年3月31日)显示仅使用外汇远期合约进行货币对冲,无期权、swap或swaption持仓。基金采用FOF结构,投资ESG主题ETF,未直接使用期权。与非ESG版本(使用期权对冲)形成对比。",
+    "sources_checked": "CI Financial Annual Financial Statements March 31, 2024 ; funds.cifinancial.com ESG fund profile ; Citywire fund data ; businesswire.com launch announcement"
+  },
+  {
+    "name": "CI Mosaic ESG Balanced Gr ETF Port SerDA",
+    "ticker": "",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "CI Mosaic ESG Balanced Growth ETF Portfolio是ESG FOF基金,持仓全部为ESG主题ETF(如iShares ESG Aware MSCI Canada Index ETF、CI Global Climate Leaders Fund等),未发现直接期权持仓。80/20股债配置,无期权策略。",
+    "sources_checked": "CI Financial Summary of Investment Portfolio (June 30, 2024) ; CI GAM launch press release ; funds.cifinancial.com ESG fund documents"
+  },
+  {
+    "name": "CI Mosaic ESG Balanced Inc ETF PortSerDA",
+    "ticker": "",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "CI Mosaic ESG Balanced Income ETF Portfolio的持仓全部为ESG ETF(97.6% ETF, 2.4%现金),包括iShares ESG Aware Canadian Aggregate Bond Index ETF、CI Global Green Bond Fund等。未发现直接期权持仓,使用FOF纯ETF结构。",
+    "sources_checked": "CI Financial Summary of Investment Portfolio (June 30, 2024) ; Citywire fund profile ; YCharts allocation data"
+  },
+  {
+    "name": "CI Mosaic Growth ETF Portfolio Class DA",
+    "ticker": "",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "中",
+    "reasoning": "CI Mosaic Growth ETF Portfolio(纯股票FOF,0%债券)持仓以底层ETF为主(CI U.S. 1000 Index ETF、CI Quality Dividend Growth Index ETF等)。搜索未发现该基金直接持有期权头寸。但持仓包含CI Energy Giants Covered Call ETF(NXF.B),间接涉及期权策略,但基金本身不直接使用期权。",
+    "sources_checked": "CI Financial Summary of Investment Portfolio ; Citywire fund profile ; YCharts allocation"
+  },
+  {
+    "name": "CI Mosaic Growth ETF Portfolio Ser DA",
+    "ticker": "",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "中",
+    "reasoning": "同CI Mosaic Growth ETF Portfolio,不同份额类别。持仓以底层ETF为主,未发现直接期权持仓。持有CI Energy Giants Covered Call ETF(NXF.B)作为底层投资之一,但基金本身不直接使用期权策略。",
+    "sources_checked": "CI Financial Summary of Investment Portfolio ; funds.cifinancial.com fund documents"
+  },
+  {
+    "name": "CI Mosaic Income ETF Portfolio Class DA",
+    "ticker": "",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "中",
+    "reasoning": "CI Mosaic Income ETF Portfolio(80%债券/20%股票)持仓以固定收益ETF为主(CI Enhanced Government Bond ETF 27.74%、CI Global Investment Grade ETF 16.83%等)。搜索未发现该基金直接持有期权头寸。纯FOF结构,不直接使用期权策略。",
+    "sources_checked": "CI Financial Annual Financial Statements March 31, 2025 ; funds.cifinancial.com fund profile ; Citywire fund data"
+  },
+  {
+    "name": "CoinShares Toncoin Staking ETP",
+    "ticker": "CTON",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "CTON是CoinShares发行的实物支持的Toncoin(TON)质押ETP,在SIX Swiss Exchange上市。100%实物支持TON代币,自动赚取约2%年化质押收益。纯加密ETP,不涉及期权合约。管理费为0%。",
+    "sources_checked": "https://coinshares.com/etp/physical-ton/ ; CoinShares launch press release ; Structured Retail Products article"
+  },
+  {
+    "name": "Fidelity Jpn Eq Rsrch Enh PAB ETF ¥ Acc",
+    "ticker": "",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "中",
+    "reasoning": "Fidelity Japan Equity Research Enhanced UCITS ETF是主动管理型日本股票ETF,通过量化研究模型选股,旨在超越MSCI Japan指数。KIID说明基金可能使用衍生品进行有效投资组合管理和货币对冲。核心策略为股票研究和增强型指数追踪,无专门期权策略。",
+    "sources_checked": "Fidelity KIID dated Feb 18, 2025 ; BAWAG factsheet ; Fidelity UK fund page ; justETF profile"
+  },
+  {
+    "name": "Fidelity Pac ex Jpn Eq RshEnhPABETF$Acc",
+    "ticker": "",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "中",
+    "reasoning": "Fidelity Pacific ex-Japan Equity Research Enhanced UCITS ETF是主动管理型亚太(除日本)股票ETF,通过量化研究模型选股。KIID说明基金可能使用衍生品进行有效投资组合管理和货币对冲。核心策略为股票研究,无专门期权策略。",
+    "sources_checked": "Fidelity KIID/PRIIP documents ; fundslibrary.co.uk ; Hargreaves Lansdown fund information ; Fidelity UK fund page"
+  }
+]

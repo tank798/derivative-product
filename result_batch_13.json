@@ -1,0 +1,262 @@
+[
+  {
+    "name": "Mega TPExFactSet SmcndClNetZeroEltTR ETN",
+    "ticker": "020041",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "兆豐半導體氣候N (Mega Semiconductor Climate ETN) is a Taiwan-listed ETN tracking the TPEx FactSet Semiconductor Climate Net Zero Elite Total Return Index. It selects 10 OTC semiconductor stocks using climate risk (T-Risk) and fundamental (F-Score) metrics. Standard index-tracking ETN with no options strategy — the product simply replicates index returns through the issuer's unsecured debt obligation.",
+    "sources_checked": "https://www.megasec.com.tw/emega/news/in.do?id=20231225095716130093 ; https://goodinfo.tw/tw/BasicInfo.asp?STOCK_ID=020041"
+  },
+  {
+    "name": "Mercer Park Brand Acquisition Corp. A RV",
+    "ticker": "BRND.U",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Mercer Park Brand Acquisition Corp. was a SPAC (Special Purpose Acquisition Company) that merged with Glass House Brands in 2021 to create a cannabis brand-building platform. SPACs are blank-check companies that raise capital through IPOs to acquire existing businesses — they do not employ options strategies. The entity was a corporate shell, not a fund or trading vehicle.",
+    "sources_checked": "https://www.globenewswire.com/en/news-release/2021/04/08/2207128/0/en/Mercer-Park-Brand-Acquisition-Corp-and-Glass-House-Group-Announce-Business-Combination-to-Create-the-Largest-Cannabis-Brand-Building-Platform-in-California.html ; https://hk.marketscreener.com/quote/stock/GLASS-HOUSE-BRANDS-INC-120797574/news/Mercer-Park-Brand-Acquisition-Corp-and-Glass-House-Group-Announce-Business-Combination-to-Create-th-32919678/"
+  },
+  {
+    "name": "President HSTECH Futures Index ETN",
+    "ticker": "020033",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "統一恒生科期N (President HSTECH Futures Index ETN) tracks the Hang Seng Tech Futures Index, which replicates the performance of HSTECH futures near-month contracts via monthly rollover. It holds futures contracts on the Hang Seng Tech Index (30 largest HK-listed tech companies). While it uses futures, it does not use options strategies such as covered calls, puts, spreads, or FLEX options. Futures-based tracking is standard for this product.",
+    "sources_checked": "https://www.tpex.org.tw/en-us/product/etn/product/detail.html?type=foreign&code=020033 ; https://goodinfo.tw/tw/BasicInfo.asp?STOCK_ID=020033 ; https://promote.pscnet.com.tw/Tech-ETN/ETN-products/page10.html"
+  },
+  {
+    "name": "President Low Volatility HD 20 TR ETN",
+    "ticker": "020011",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "統一微波高息20N (President Low Volatility HD 20 TR ETN) is a Taiwan-listed ETN tracking the TIP Enhanced Low Volatility High Dividend Total Return Index. Selects 20 high-dividend Taiwan stocks with low volatility characteristics. Standard equity index-tracking ETN with no embedded options strategy. No listed options exist on this ETN itself.",
+    "sources_checked": "https://www.twse.com.tw/en/products/securities/etn/products/content.html?020011 ; https://goodinfo.tw/tw/BasicInfo.asp?STOCK_ID=020011"
+  },
+  {
+    "name": "President NYSE FactSet Asia Semi NTR ETN",
+    "ticker": "020025",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "統一亞洲半導體N (President NYSE FactSet Asia Semiconductor NTR ETN) tracks semiconductor companies listed in Taiwan, South Korea, Japan, and Hong Kong (16 stocks including SK Hynix, Samsung, TSMC). Standard ETN tracking an equity index — purely passive with no options strategies. The ETN replicates index returns via the issuer's credit obligation.",
+    "sources_checked": "https://www.tpex.org.tw/en-us/product/etn/product/detail.html?type=foreign&code=020025 ; https://promote.pscnet.com.tw/Etn/product/020025 ; https://www.barrons.com/market-data/funds/020025"
+  },
+  {
+    "name": "President TIP Cust TW IC Design TR ETN",
+    "ticker": "020031",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "統一IC設計臺灣N (President TIP Customized Taiwan IC Design TR ETN) tracks a custom index of Taiwan-listed IC design companies including MediaTek, Realtek, Novatek. Standard passive index ETN with 0.95% investor fee. No options strategies employed — simply replicates total return of the underlying equity index.",
+    "sources_checked": "https://wwwc.twse.com.tw/en/products/securities/etn/products/content.html?020031 ; https://goodinfo.tw/tw/BasicInfo.asp?STOCK_ID=020031"
+  },
+  {
+    "name": "President TIP FactSet TWSmartMobEVTR ETN",
+    "ticker": "020030",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "統一智慧電動車N (President TIP FactSet Taiwan Smart Mobility and EV TR ETN) tracks 30 Taiwan-listed EV supply chain stocks across two categories: EV enabling tech/services and auto manufacturing/components. Standard equity index ETN with 0.95% fee. No options strategies — passive index tracking through ETN structure.",
+    "sources_checked": "https://wwwc.twse.com.tw/en/products/securities/etn/products/content.html?020030 ; https://goodinfo.tw/tw/BasicInfo.asp?STOCK_ID=020030 ; https://taiwanindex.com.tw/en/indexes/IR0146"
+  },
+  {
+    "name": "President US Treasury 7-10 Years Idx ETN",
+    "ticker": "02001B",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "統一美國政府債N (President US Treasury 7-10 Years Idx ETN) tracked the FTSE US Government Bond 7-10 Years Index, selecting US Treasury bonds with 7-10 year maturity. Standard fixed-income index ETN. No options strategies. Note: This ETN was delisted on Dec 29, 2025 upon maturity.",
+    "sources_checked": "https://www.tpex.org.tw/zh-tw/product/etn/product/detail.html?type=foreign&code=02001B ; https://promote.pscnet.com.tw/Etn/intro/02001B"
+  },
+  {
+    "name": "Psagot Sal FTSE 250 MidCap (4Da')",
+    "ticker": "PSFT1.81",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "中",
+    "reasoning": "Psagot Sal FTSE 250 MidCap (4Da') is an Israeli tracker fund (ETN/ETF) issued by Psagot Exchange Traded Notes Indexes Ltd., tracking the FTSE 250 mid-cap UK equity index. Israeli 'Sal' (basket) products are passive index-tracking instruments. No evidence of covered call, put writing, or any options strategy. Passive replication of the underlying index.",
+    "sources_checked": "https://au.investing.com/etfs/psgt-fts250-191-ftse-250 ; TASE product listings ; KSM/Psagot product family descriptions (Citywire, Investing.com)"
+  },
+  {
+    "name": "Psagot Sal FTSE 250 MidCap ILS 40a",
+    "ticker": "PSFT1.91",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "中",
+    "reasoning": "Psagot Sal FTSE 250 MidCap ILS (40a') is an Israeli tracker fund tracking the FTSE 250 Index (UK mid-cap equities) with ILS (Shekel) denomination. Listed on TASE with ISIN IL0011313330 and maturity 2039. Standard passive index-tracking ETN. No options strategies employed.",
+    "sources_checked": "https://au.investing.com/etfs/psgt-fts250-191-ftse-250 ; TASE data"
+  },
+  {
+    "name": "Psagot SAL FTSE China 50",
+    "ticker": "PSCHN.56",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "中",
+    "reasoning": "Psagot SAL FTSE China 50 is an Israeli tracker fund providing passive exposure to the FTSE China 50 Index (50 largest Chinese equities). Part of Psagot's 'Sal' family of index-tracking products on TASE. No options strategies — standard passive equity index replication.",
+    "sources_checked": "https://ksm.co.il/ ; TASE product listings ; Psagot fund family analysis (Citywire, S&P DJI Israel listed products sheet)"
+  },
+  {
+    "name": "Psagot Sal Real Estate Europe",
+    "ticker": "PEPRA.15",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "中",
+    "reasoning": "Psagot Sal Real Estate Europe (also listed as EPRA/PSAGOT BASKET on TASE, ticker PEPRA-15.TA) is an Israeli tracker fund linked to the EPRA European real estate index. Passive index-tracking product providing exposure to European real estate securities. No covered call, put writing, or options strategies found.",
+    "sources_checked": "https://hk.finance.yahoo.com/quote/PEPRA-15.TA/ ; Yahoo Finance profile and holdings for PEPRA-15.TA"
+  },
+  {
+    "name": "Psagot Sal Russell 2000",
+    "ticker": "PRUSS.52",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "中",
+    "reasoning": "Psagot Sal Russell 2000 (PSAG RUSSELL52 RTY, ISIN IL0011201873) is an Israeli tracker fund on TASE providing passive exposure to the Russell 2000 small-cap US equity index. Standard equity index tracker with no options strategies.",
+    "sources_checked": "https://www.investing.com/etfs/psag-russell52-user-rankings ; TASE data"
+  },
+  {
+    "name": "Psagot Sal Russell 2000 ILS",
+    "ticker": "PSRTY.66",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "中",
+    "reasoning": "Psagot Sal Russell 2000 ILS (PSGOT RTY 66) is an Israeli tracker fund tracking the Russell 2000 Index with ILS (Shekel) hedging. Passive index-tracking ETN on TASE. No options strategies — standard currency-hedged equity index tracker.",
+    "sources_checked": "https://www.investing.com/etfs/psgot-rty-66---russia ; TASE data"
+  },
+  {
+    "name": "Samsung KOSDAQ 150 TR ETN",
+    "ticker": "",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Samsung Asset Management's KOSDAQ 150 product tracks the KOSDAQ 150 Index (150 leading KOSDAQ-listed stocks, ~74% technology). Available as KODEX KOSDAQ 150 ETF (ticker 229200) with physical replication and 0.25% TER, plus leverage/inverse variants using futures. All are standard passive index-tracking products — no options strategies (covered calls, puts, spreads, etc.). The original 'source' field listed VIX futures links which appear to be erroneous for this product, but the core judgment is correct.",
+    "sources_checked": "https://m.samsungfund.com/eng/etf/product/view.do?id=2ETF54 ; https://cbonds.com/etf/15141/ ; https://stockanalysis.com/quote/krx/229200/ ; https://www.investing.com/etfs/samsung-kodex-kosdaq-150"
+  },
+  {
+    "name": "SSIAM VNX50 ETF",
+    "ticker": "FUESSV50",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "SSIAM VNX50 ETF is a Vietnam-domiciled passive ETF managed by SSI Asset Management, tracking the VNX50 Index on HOSE. The prospectus and monthly reports confirm a passive investment strategy: 'the fund employs a passive investment strategy and does not actively seek returns above the benchmark, nor does it use defensive strategies.' No options strategies are used.",
+    "sources_checked": "https://ssiam.com.vn/en/fund-information-vnx50?nav_page=531 ; https://ssiam.com.vn/upload/files/QuanLyQuy/Prospectus_SSIAM-VNX50-ETF%20-%20clean%20082023.pdf ; Monthly reports confirming passive strategy"
+  },
+  {
+    "name": "T50 J.P. Morgan Resilient EM Bond ETF",
+    "ticker": "",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "T50 J.P. Morgan Resilient EM Bond UCITS ETF is an Irish-domiciled UCITS ETF (Central Bank of Ireland authorized Dec 2025, ref C573636) focusing on emerging market sovereign bonds through a risk-aware approach. It is a sub-fund of T50 Capital ICAV with Carne Global Fund Managers as AIFM and State Street as depositary. Standard passive bond ETF with no options strategy — invests in EM government bonds, not options.",
+    "sources_checked": "http://registers.centralbank.ie/(X(1)S(ibfhujmdqaefdsqklhcoxdak))/FundRegisterDataPage.aspx?fundReferenceNumber=C573636&register=28 ; https://lei-ireland.ie/detailed-information/58632526/254900EM8010RLX9EI70/t50-j-p-morgan-resilient-em-bond-ucits-etf/ ; https://wealthdfm.com/ex-invesco-emea-sustainable-investing-head-launches-t50-capital-management/"
+  },
+  {
+    "name": "Tachlit China",
+    "ticker": "TCCHN.38",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "中",
+    "reasoning": "Tachlit China (TCCHN.38) is an Israeli tracker fund under the Tachlit brand (managed by Meitav Investment House), providing passive exposure to Chinese equities. Part of the Tachlit 'Sal' family of index-tracking funds on TASE. Standard passive index tracker with no covered call, put writing, FLEX options, or other options strategies.",
+    "sources_checked": "https://ksm.co.il/ ; TASE product listings ; Tachlit fund family analysis (Citywire, Investing.com)"
+  },
+  {
+    "name": "Tachlit FTSE 250 Midcap ILS",
+    "ticker": "TCFT1.02",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "中",
+    "reasoning": "Tachlit FTSE 250 Midcap ILS (TCFT1.02) is an Israeli tracker fund providing passive exposure to the FTSE 250 UK mid-cap index with ILS (Shekel) denomination. Part of the Tachlit product family on TASE managed by Meitav Investment House. Standard passive index tracker with no options strategies.",
+    "sources_checked": "https://au.investing.com/etfs/tachlit-sal-4a-ftse-250-curr-hedged ; TASE product listings ; Tachlit fund family analysis"
+  },
+  {
+    "name": "Tachlit Italy FTSE MIB (NTR) ILS (40a')",
+    "ticker": "TCFTS.87",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "中",
+    "reasoning": "Tachlit Italy FTSE MIB (NTR) ILS (TCHLIT FTSE 87, TCFTS87) is an Israeli tracker fund tracking the FTSE MIB Index (Italian benchmark equity index). Listed on TASE with ILS denomination. Standard passive index tracker with no options strategies employed.",
+    "sources_checked": "https://www.investing.com/etfs/tchlit-ftse-87-ftse-mib ; TASE data ; Citywire fund analysis"
+  },
+  {
+    "name": "Tachlit Russell 2000",
+    "ticker": "TCRS.66",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "中",
+    "reasoning": "Tachlit Russell 2000 (TCLIT RUSSELL66 RTY, ISIN IL0011279358) is an Israeli tracker fund on TASE providing passive exposure to the Russell 2000 US small-cap index. Standard equity index tracker with no options strategies.",
+    "sources_checked": "https://www.investing.com/etfs/tclit-russell66-rty ; TASE data"
+  },
+  {
+    "name": "Tema Memory ETF",
+    "ticker": "",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "The Memory ETF (originally filed by Tema ETF Trust, later launched as Roundhill Memory ETF / DRAM) is an actively managed ETF investing at least 80% of assets in equity securities of 'Memory Companies' (HBM, DRAM, NAND, NOR flash, HDD companies). The prospectus confirms investment in equity securities and may use swap agreements for RIC diversification compliance, but does not employ options strategies (covered calls, puts, spreads, FLEX, 0DTE, collars). Any 'covered call' references found are about trading options ON this ETF, not the ETF itself using options.",
+    "sources_checked": "https://www.sec.gov/Archives/edgar/data/1944285/000199937126008171/tema-485apos_041326.htm ; https://www.roundhillinvestments.com/etf/dram/ ; https://finance.yahoo.com/markets/stocks/articles/dram-inside-hottest-etf-marketplace-143500339.html ; https://money.usnews.com/funds/etfs/technology/roundhill-memory-etf/dram"
+  },
+  {
+    "name": "Yuanta ESG HD (Payout) ETN",
+    "ticker": "020038",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "元大ESG配息N (Yuanta ESG HD (Payout) ETN) tracks the TIP Customized ESG High Dividend Total Return Index, selecting Taiwan stocks with top ESG scores and high dividends. Top holdings include MediaTek (23.3%), Fubon Financial, UMC. Standard passive index ETN with annual dividend payout. No options strategies.",
+    "sources_checked": "https://wwwc.twse.com.tw/en/products/securities/etn/products/content.html?020038 ; https://www.twse.com.tw/pcversion/en/ETN/productContent/ff80808188c340260188f6e053920052 ; https://www.ctee.com.tw/news/20230703700115-430298"
+  },
+  {
+    "name": "Yuanta ESG HD ETN",
+    "ticker": "020029",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "元大ESG高股息N (Yuanta ESG HD ETN) tracks the same TIP Customized ESG High Dividend Total Return Index as 020038 but is the reinvestment version (no payout — dividends compound into NAV). Standard passive index ETN. No options strategies.",
+    "sources_checked": "https://www.warrantwin.com.tw/prod/etn/Info.aspx?WID=020029 ; https://www.ctee.com.tw/news/20230427700141-430298 ; https://www.chinatimes.com/realtimenews/20230426005316-260410"
+  },
+  {
+    "name": "Yuanta EVR Total Return ETN",
+    "ticker": "020028",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "元大特選電動車N (Yuanta EVR Total Return ETN) tracks the TIP Customized Taiwan Electric Vehicles Supply Chain Representatives Total Return Index (Taiwan EV supply chain stocks). Standard passive index ETN with 0.9% fee. No options strategies — simply tracks total return of the underlying equity index.",
+    "sources_checked": "https://www.twse.com.tw/en/products/securities/etn/products/content.html?020028 ; https://goodinfo.tw/tw/BasicInfo.asp?STOCK_ID=020028"
+  },
+  {
+    "name": "Yuanta Financial DH TR (Payout) ETN",
+    "ticker": "020036",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "元大金融配息N (Yuanta Financial DH TR (Payout) ETN) tracks the TIP Customized Finance Dividend Highlight Total Return Index, selecting Taiwan-listed financial stocks with high dividend yields. Top holdings include CTBC Financial, Cathay Financial, Fubon Financial, E.Sun Financial. Standard passive index ETN with annual dividend distribution. No options strategies.",
+    "sources_checked": "https://wwwc.twse.com.tw/en/products/securities/etn/products/content.html?020036 ; https://www.twse.com.tw/pcversion/en/ETN/productContent/ff808081872b866301877df5582f014a ; https://www.warrantwin.com.tw/prod/etn/Info.aspx"
+  }
+]

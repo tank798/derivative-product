@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Shinhan S&P500 VIX S/T Futures ETN D",
+    "ticker": "500076",
+    "secid": "F00001RVYQ",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://ipathetn.barclays/vxx ; https://www.proshares.com/our-etfs/strategic/vixm ; https://www.spglobal.com/spdji/en/indices/strategy/sp-500-vix-short-term-futures-index/",
+    "confidence": "高",
+    "explanation": "推断。新韩证券发行的VIX短期期货ETN D类，追踪S&P 500 VIX Short-Term Futures Index，通过VIX期货合约实现回报，不使用期权。；产品暴露为 S&P 500 VIX Short-Term/Mid-Term Futures 等 VIX 期货指数；VIX指数由期权隐含波动率计算，但该产品本身不是持有期权或卖期权的期权策略产品。"
+  },
+  {
+    "name": "Shinhan S&P500 VIX S/T Futures ETN E",
+    "ticker": "500095",
+    "secid": "F00001QUX9",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://ipathetn.barclays/vxx ; https://www.proshares.com/our-etfs/strategic/vixm ; https://www.spglobal.com/spdji/en/indices/strategy/sp-500-vix-short-term-futures-index/",
+    "confidence": "高",
+    "explanation": "推断。新韩证券发行的VIX短期期货ETN E类，追踪S&P 500 VIX Short-Term Futures Index，通过VIX期货合约实现回报，不使用期权。；产品暴露为 S&P 500 VIX Short-Term/Mid-Term Futures 等 VIX 期货指数；VIX指数由期权隐含波动率计算，但该产品本身不是持有期权或卖期权的期权策略产品。"
+  },
+  {
+    "name": "TREND LBMA PRATA FIIM",
+    "ticker": "SLVR11",
+    "secid": "F00001UJKB",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.wisdomtree.com/investments/etfs/alternatives/gdt ; https://ci.com/en/investment-solutions/funds/ci-auspice-broad-commodity-fund ; https://www.auspicecapital.com/indices/broad-commodity-index",
+    "confidence": "中",
+    "explanation": "已核实。巴西XP Allocation管理的白银ETF，追踪LBMA白银价格，通过iShares Silver Trust等白银ETF/现货实现回报，不使用期权。；公开资料显示暴露主要来自商品、利率、黄金/白银或期货指数；未见期权策略说明。"
+  },
+  {
+    "name": "TREND S&P / B3 DOLAR FIIM",
+    "ticker": "DOLX11",
+    "secid": "F00001T3X5",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.invesco.com/us/financial-products/etfs/product-detail?productId=ETF-UUP ; https://www.invesco.com/us/financial-products/etfs/product-detail?productId=ETF-UDN ; https://www.wisdomtree.com/investments/etfs/currency/usdu",
+    "confidence": "中",
+    "explanation": "已核实。巴西XP Allocation管理的美元/雷亚尔汇率ETF，追踪S&P/B3 BRL-USD Mini Futures Index，通过迷你货币期货合约实现回报，不使用期权。；公开资料显示主要为美元/货币指数或货币期货暴露，未见期权作为核心策略。"
+  }
+]

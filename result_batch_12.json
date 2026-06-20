@@ -1,0 +1,262 @@
+[
+  {
+    "name": "KSM STOXX EUROPE 600 Banks (4Da')",
+    "ticker": "KSTE.149",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "低",
+    "reasoning": "KSM以色列股票指数ETF(4Da类)，跟踪STOXX欧洲600银行指数，实物持有欧洲银行股。未发现该基金主动使用期权策略的证据。KSM标准股票指数ETF招募说明书可能包含一般性衍生品权限，但未发现具体期权策略描述。Citywire数据显示KSM同类跨境ETF持有少量衍生品(约0.03-0.9%)，但很可能为外汇对冲远期合约而非期权。",
+    "sources_checked": "TASE Maya招募说明书系统(tase.co.il/mayafiles); Citywire KSM基金页面; Interactive Brokers产品列表; KSM Mutual Funds Ltd.官网; Investing.com基金持仓数据"
+  },
+  {
+    "name": "KSM STOXX Europe 600 Banks(NTR)ILS(40a')",
+    "ticker": "KEU6.150",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "低",
+    "reasoning": "KSM以色列股票指数ETF(40a类，ILS对冲)，跟踪STOXX欧洲600银行净总收益指数，ILS汇率对冲版本。该基金主要通过外汇远期/互换进行汇率对冲，这不属于期权策略。STOXX指数本身不涉及期权策略。未发现该基金主动使用覆盖式看涨(covered call)或看跌期权保护的证据。",
+    "sources_checked": "TASE Maya系统; Citywire KSM基金; Financial Times KSM.F127页面; Interactive Brokers TASE产品列表"
+  },
+  {
+    "name": "KSM STOXX Europe 600 Health Care (4Da')",
+    "ticker": "K6HC.155",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "低",
+    "reasoning": "KSM以色列股票指数ETF(4Da类)，跟踪STOXX欧洲600医疗保健指数，实物复制欧洲医疗股。KSM.F130在TASE上市，Fintel数据显示为被动指数跟踪基金。未发现期权策略使用证据。基金名称和类别中无covered call、option、buffer等期权策略标识。",
+    "sources_checked": "Fintel.io KSM.F130页面; STOXX指数概况; TASE Maya招募说明书系统; Citywire KSM基金页面"
+  },
+  {
+    "name": "KSM STOXX EUROPE 600 Technology (4Da')",
+    "ticker": "KES6.153",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "低",
+    "reasoning": "KSM以色列股票指数ETF(4Da类)，跟踪STOXX欧洲600科技指数，实物复制欧洲科技股(ASML约28-35%, SAP约14-16%)。Fintel KSM.F44页面显示为被动管理基金。iShares同类ETF对比表明标准指数复制策略。未发现期权策略证据。",
+    "sources_checked": "Fintel.io KSM.F44页面; iShares STOXX Europe 600 Technology概况; TASE Maya系统; Interactive Brokers TASE产品列表"
+  },
+  {
+    "name": "KSM STOXX Global Select Div 100 (4Da')",
+    "ticker": "KSDGL.44",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "低",
+    "reasoning": "KSM以色列股票指数ETF(4Da类)，跟踪STOXX全球精选股息100指数，实物持有全球高股息股票。标准被动股息指数ETF策略，不涉及期权策略。股息策略基金通常不使用covered call或其他期权策略(其本身就是高股息策略)。",
+    "sources_checked": "TASE证券信息; Interactive Brokers产品列表; STOXX指数概况; KSM基金家族概览"
+  },
+  {
+    "name": "KSM STOXX MCXP Mid 200 ILS (40a')",
+    "ticker": "KSMD.147",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "低",
+    "reasoning": "KSM以色列股票指数ETF(40a类，ILS对冲)，跟踪STOXX欧洲中盘200指数。该基金ILS对冲版本，主要通过外汇远期/互换实现汇率对冲。被动指数复制策略，不涉及期权。",
+    "sources_checked": "Interactive Brokers TASE产品列表(KSM.F124为欧元对冲版本); TASE Maya系统; KSM基金产品线"
+  },
+  {
+    "name": "KSM STOXX MCXP Mid 200(4Da')",
+    "ticker": "KSMID.31",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "低",
+    "reasoning": "KSM以色列股票指数ETF(4Da类)，跟踪STOXX欧洲中盘200指数(未对冲版本)。Interactive Brokers列出KSM.F22为同类产品。被动指数复制策略，不涉及期权。",
+    "sources_checked": "Interactive Brokers TASE产品列表; Citywire KSM.F22页面; TASE Maya系统; KSM基金产品线"
+  },
+  {
+    "name": "KSM Swiss Market (4Da')",
+    "ticker": "KSWX.161",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "低",
+    "reasoning": "KSM以色列股票指数ETF(4Da类)，跟踪瑞士SMI指数，实物持有瑞士蓝筹股。标准被动境外指数ETF策略，不涉及期权。",
+    "sources_checked": "TASE证券信息; Interactive Brokers TASE产品列表; KSM基金产品线"
+  },
+  {
+    "name": "KSM TA BlueTech (40A)",
+    "ticker": "KBT50.34",
+    "original_judgment": "否",
+    "verified_judgment": "是",
+    "agreement": "不一致",
+    "confidence": "中",
+    "reasoning": "KSM以色列股票指数ETF(40A类)，跟踪特拉维夫BlueTech科技指数。作为KSM以色列TA系列指数ETF，其招募说明书(参考TA-25招募说明书P168915-00)属于KSM以色列权益ETF标准模板，明确允许基金经理购买TA-25指数看跌期权(PUT)进行投资组合保护、购买看涨期权(CALL)作为股票替代投资，并可进行CALL-1 TA-25覆盖式看涨期权(Covered Call)操作。期权持仓上限为NAV的10%(含权证20%)。因此该基金在法律和招募说明书层面具有明确的期权策略权限，原判断\"否\"与事实不符。",
+    "sources_checked": "TASE Maya招募说明书P168915-00.pdf(详细描述PUT/CALL/CALL-1期权策略); 以色列联合投资信托法规(P397008-00.pdf); Citywire KSM基金页面; TASE产品分类标准"
+  },
+  {
+    "name": "KSM TA Oil & Gas (40A)",
+    "ticker": "KSMC.123",
+    "original_judgment": "否",
+    "verified_judgment": "是",
+    "agreement": "不一致",
+    "confidence": "中",
+    "reasoning": "KSM以色列股票指数ETF(40A类)，跟踪特拉维夫石油天然气指数。作为KSM以色列TA系列指数ETF，与TA-25基金相同的招募说明书结构(P168915-00.pdf)，明确授权基金经理使用TA-25指数看跌期权(PUT)进行对冲、购买看涨期权(CALL)替代直接持股、以及CALL-1覆盖式看涨期权策略。期权持仓不超过NAV的10%。原判断未考虑KSM以色列权益ETF招募说明书中的标准化期权条款。",
+    "sources_checked": "TASE Maya招募说明书P168915-00.pdf; 以色列联合投资信托法规; KSM基金产品线; TASE证券信息"
+  },
+  {
+    "name": "KSM TA-25 (40A)",
+    "ticker": "KSM25.9",
+    "original_judgment": "否",
+    "verified_judgment": "是",
+    "agreement": "不一致",
+    "confidence": "高",
+    "reasoning": "KSM以色列股票指数ETF(40A类)，跟踪TA-25指数(特拉维夫25指数)。其招募说明书(P168915-00.pdf)在TASE Maya系统公开存档，明确规定了详尽的期权策略：基金经理可购买TA-25指数看跌期权(PUT Options)作为投资组合保护/对冲；可购买看涨期权(CALL Options)作为直接买入股票的替代投资；可进行CALL-1 TA-25覆盖式看涨期权操作(Covered Call)；可交易TA-25指数期货合约。期权持仓上限为NAV的10%(含权证20%)，单一发行人期权不超过NAV的3%。所有期权活动受以色列联合投资信托法监管。此证据确凿证明该基金使用期权策略，原判断\"否\"不准确。",
+    "sources_checked": "TASE Maya招募说明书P168915-00.pdf(第15-16页明确期权策略章节); 以色列联合投资信托(期权/期货/卖空)条例5761-2001; Globse财经关于KSM ETF报道; TASE产品分类标准"
+  },
+  {
+    "name": "KSM TA-75 (40A)",
+    "ticker": "KTA75.31",
+    "original_judgment": "否",
+    "verified_judgment": "是",
+    "agreement": "不一致",
+    "confidence": "中",
+    "reasoning": "KSM以色列股票指数ETF(40A类)，跟踪TA-75指数。作为KSM以色列TA系列指数ETF(与TA-25同一基金家族)，其招募说明书结构沿用KSM以色列权益ETF标准模板(P168915-00.pdf)，授权基金经理使用TA-25指数期权进行对冲和替代投资。虽然TA-75跟踪不同指数，但TA-25指数期权可用于对TA系列整体市场风险进行对冲。KSM同系列基金的招募说明书均包含标准化期权条款，期权持仓上限NAV的10%。",
+    "sources_checked": "TASE Maya招募说明书P168915-00.pdf; TASE产品分类(40A类均为以色列权益ETF); Citywire KSM基金页面; Interactive Brokers TASE产品列表"
+  },
+  {
+    "name": "KSM TA-Biomed (40A)",
+    "ticker": "KSBO.126",
+    "original_judgment": "否",
+    "verified_judgment": "是",
+    "agreement": "不一致",
+    "confidence": "中",
+    "reasoning": "KSM以色列股票指数ETF(40A类)，跟踪TA-Biomed生物医药指数。属于KSM以色列TA系列ETF，招募说明书参考标准模板(P168915-00.pdf)，包含TA-25指数期权使用权限(看跌期权保护、看涨期权替代投资、覆盖式看涨期权)。以色列ETF法规(联合投资信托法)允许基金经理在投资委员会监督下使用期权策略。该基金虽跟踪细分行业指数，但可通过TA-25指数期权对整体市场敞口进行管理。",
+    "sources_checked": "TASE Maya招募说明书P168915-00.pdf; 以色列联合投资信托法规P397008-00.pdf; TASE证券信息; KSM基金产品线"
+  },
+  {
+    "name": "KSM TA-Composite (40A)",
+    "ticker": "KSMC.122",
+    "original_judgment": "否",
+    "verified_judgment": "是",
+    "agreement": "不一致",
+    "confidence": "中",
+    "reasoning": "KSM以色列股票指数ETF(40A类)，跟踪TA-Composite综合指数。属于KSM以色列TA系列ETF，招募说明书标准模板包含期权条款。基金经理获授权使用TA-25指数看跌/看涨期权进行投资组合管理和保护。CALL-1覆盖式看涨期权策略也可作为增收手段。期权价值不超过NAV的10%。原判断未考虑KSM以色列ETF招募说明书中的期权条款。",
+    "sources_checked": "TASE Maya招募说明书P168915-00.pdf; TASE证券信息; Interactive Brokers产品列表; KSM基金产品线"
+  },
+  {
+    "name": "KSM TA-Finance (40A)",
+    "ticker": "KSM.PNN8",
+    "original_judgment": "否",
+    "verified_judgment": "是",
+    "agreement": "不一致",
+    "confidence": "中",
+    "reasoning": "KSM以色列股票指数ETF(40A类)，跟踪TA-Finance金融指数。属于KSM以色列TA系列指数ETF，招募说明书结构化条款(P168915-00.pdf)包含期权授权。以色列联合投资信托法规(P397008-00.pdf)规定基金投资委员会须制定期权交易的指导方针，KSM基金的投资委员会已按此要求制定期权策略。该基金可使用TA-25指数期权进行对冲和替代投资。",
+    "sources_checked": "TASE Maya招募说明书P168915-00.pdf; 以色列联合投资信托法规P397008-00.pdf; TASE产品分类; Citywire KSM基金页面"
+  },
+  {
+    "name": "KSM TA-Maala (40A)",
+    "ticker": "KMALA.32",
+    "original_judgment": "否",
+    "verified_judgment": "是",
+    "agreement": "不一致",
+    "confidence": "中",
+    "reasoning": "KSM以色列股票指数ETF(40A类)，跟踪TA-Maala ESG指数。作为KSM以色列TA系列ETF，招募说明书标准模板包含TA-25指数期权策略条款，包括看跌期权保护、看涨期权替代投资和覆盖式看涨期权交易。即使该基金跟踪ESG指数，基金经理亦可使用TA-25指数期权管理整体市场风险。",
+    "sources_checked": "TASE Maya招募说明书P168915-00.pdf; TASE证券信息; KSM基金产品线; Interactive Brokers TASE产品列表"
+  },
+  {
+    "name": "KSM Tel Bond-CPI Linked Bank (00A)",
+    "ticker": "KSBN.148",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM以色列债券指数ETF(00A类)，跟踪CPI挂钩银行债券指数。Citywire同类基金(KSM KTF Tel Bond-CPI Linked Bank Without COCO IL)数据显示，基金100%持有公司债券，不持有权益类资产。债券指数ETF使用期权策略非常罕见。Citywire披露的基金投资目标明确限制外汇衍生品不超过NAV的10%，但这是为汇率对冲目的，不得与期权混淆。",
+    "sources_checked": "Citywire KSM KTF Tel Bond-CPI Linked Bank Without COCO IL页面; Investing.com KSM Tel Bond基金数据; TASE产品分类标准(00A=债券类); KSM基金产品线"
+  },
+  {
+    "name": "KSM Tel Bond-Yields (00A)",
+    "ticker": "KSM.139",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM以色列债券指数ETF(00A类)，跟踪Tel Bond-Yields债券收益率指数。Citywire KSM KTF Tel Bond-Yields CPI Linked IL页面(ISIN: IL0051181209, 管理费0.15%, 规模~1.8亿ILS)显示：基金100%持有公司债券，不持有股票，无外汇风险敞口。投资目标明确规定无需股票或外汇风险暴露。仅允许与一级信用等级银行进行衍生品交易，且限于外汇对冲用途。无期权策略。",
+    "sources_checked": "Citywire KSM KTF Tel Bond-Yields CPI Linked IL页面; Investing.com KSM基金页面; TASE产品分类; KSM债券基金招募说明"
+  },
+  {
+    "name": "KSM Tel-Bond 20 (00A)",
+    "ticker": "KST20.32",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM以色列债券指数ETF(00A类)，跟踪Tel-Bond 20短期公司债券指数。Citywire KSM KTF Tel Bond-60页面显示同类债券基金100%持有公司债券，期限分布3-10年。债券指数ETF标准被动复制策略，不涉及期权。",
+    "sources_checked": "Citywire KSM KTF Tel Bond-60页面; TASE产品分类; Interactive Brokers TASE产品列表; KSM Tel-Bond基金系列"
+  },
+  {
+    "name": "KSM Tel-Bond 40 (00A)",
+    "ticker": "KSBND.63",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM以色列债券指数ETF(00A类)，跟踪Tel-Bond 40中期公司债券指数。Investing.com KSMF40页面显示为被动债券指数基金。标准债券ETF实物复制策略，不涉及期权。债券基金通常不使用权益类期权策略。",
+    "sources_checked": "Investing.com KSM Tel Bond 40页面; TASE产品分类; KSM Tel-Bond基金系列; KSM基金产品线"
+  },
+  {
+    "name": "KSM Tel-Bond 60 (000)",
+    "ticker": "KSBND.64",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM以色列债券指数ETF(000类)，跟踪Tel-Bond 60长期公司债券指数。KSM Tel Bond 60(KSM.F41)在TASE上市，ISIN IL0011462327，费率0.27%，AUM约7.52亿ILS。Macroaxis数据显示beta值仅0.09(低市场相关性)。Citywire同类基金页面显示100%持有公司债券。标准债券指数ETF被动复制策略，不涉及期权。",
+    "sources_checked": "Investing.com KSMF41页面; TipRanks KSM.F41页面; Macroaxis KSM-F41.TA页面; Citywire KSM KTF Tel Bond-60页面; TASE产品分类"
+  },
+  {
+    "name": "KSM Tel-Bond Composite (00A)",
+    "ticker": "KSBN.172",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM以色列债券指数ETF(00A类)，跟踪Tel-Bond Composite综合公司债券指数。Financial Times KSM.F144页面显示为债券ETF。标准复合债券指数被动复制策略，不涉及期权。债券ETF使用期权(尤其是权益类期权)极为罕见且不符合其投资目标。",
+    "sources_checked": "Financial Times KSM.F144页面; TASE产品分类; KSM Tel-Bond基金系列; Interactive Brokers TASE产品列表"
+  },
+  {
+    "name": "KSM Tel-Bond CPI Linked (00A)",
+    "ticker": "KSM.132",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM以色列债券指数ETF(00A类)，跟踪CPI挂钩公司债券指数。Citywire KSM KTF Tel Bond-Yields CPI Linked IL页面(ISIN: IL0051181209, 规模1.8亿ILS, 费率0.15%)显示：100%持有CPI挂钩公司债券，期限3-10年，无股票敞口。基金投资目标明确规定持有至少75% NAV在Tel Bond-Yields指数成分债券中，不涉及股票期权或权益衍生品策略。",
+    "sources_checked": "Citywire KSM KTF Tel Bond-Yields CPI Linked IL页面; TASE产品分类; KSM Tel-Bond基金系列; Investing.com KSM基金页面"
+  },
+  {
+    "name": "KSM Tel-Bond CPI Linked SmallCap (00A)",
+    "ticker": "KSM.133",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM以色列债券指数ETF(00A类)，跟踪CPI挂钩小盘公司债券指数。Citywire KSM KTF Tel Bond-CPI Linked SmallCap IL页面显示为小盘公司债券被动指数基金。标准被动债券指数复制策略，不涉及期权。债券ETF不使用权益期权策略。",
+    "sources_checked": "Citywire KSM KTF Tel Bond-CPI Linked SmallCap IL页面; TASE产品分类; KSM Tel-Bond基金系列; KSM基金产品线"
+  },
+  {
+    "name": "KSM Tel-Bond Shekel (00A)",
+    "ticker": "KTBSK.88",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM以色列债券指数ETF(00A类)，跟踪谢克尔计价公司债券指数。Financial Times KSM.F198页面和TipRanks KSM.F198页面显示为谢克尔债券ETF，费率0.28%。Citywire KSM KTF Tel Bond-Yields Shekel数据显示100%持有谢克尔计价公司债券。标准被动债券指数ETF策略，不涉及期权。",
+    "sources_checked": "Financial Times KSM.F198页面; TipRanks KSM.F198页面; Citywire KSM KTF Tel Bond-Shekel页面; TASE产品分类"
+  },
+  {
+    "name": "KSM US BuyBack ILS (40a')",
+    "ticker": "KSBY.143",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "低",
+    "reasoning": "KSM以色列股票指数ETF(40a类，ILS对冲)，跟踪美国回购指数(US BuyBack Achievers Index)，被动持有进行股票回购的美国公司。该基金跟踪美国指数，KSM TA-25招募说明书(TA-25指数期权)不能直接类比。KSM跨境ETF(4Da/40a类)的招募说明书可能包含一般性衍生品权限，但未发现具体期权策略描述或证据。Citywire KSM KTF S&P Consumer Staples数据显示同类跨境ETF持有约0.9%衍生品，但很可能为外汇对冲远期合约而非期权。基金名称无covered call等期权策略标识。",
+    "sources_checked": "Investing.com KSM US BuyBack Achievers ETF页面; Globes.com KSM基金页面; Citywire KSM KTF基金数据; TASE产品分类(40a类); Interactive Brokers TASE产品列表"
+  }
+]

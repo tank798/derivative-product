@@ -1,0 +1,262 @@
+[
+  {
+    "name": "KSM FTSE 100 (4Da')",
+    "ticker": "KSM.2FT",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM FTSE 100 is a passive index-tracking ETF listed on TASE that tracks the FTSE 100 index via physical replication or swaps. Multiple sources (Investing.com, FINRA, TASE listings) confirm this is a standard tracker product with no options strategy components. KSM's product line for international equity trackers is purely passive replication.",
+    "sources_checked": "Investing.com (KSMF9), TASE product listing, Interactive Brokers TASE ETF listing, KSM corporate product overview"
+  },
+  {
+    "name": "KSM FTSE 100 ILS (40a')",
+    "ticker": "KFTS.164",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM FTSE 100 ILS is the currency-hedged (ILS) share class of the passive FTSE 100 tracker. The '40a' designation indicates currency hedging, not options. Fund tracks FTSE 100 index through physical replication. No options strategy employed.",
+    "sources_checked": "TASE product listing, KSM product category information, Interactive Brokers TASE ETF page"
+  },
+  {
+    "name": "KSM FTSE 250 MidCap (NTR) ILS (40a')",
+    "ticker": "KMCP.163",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM FTSE 250 MidCap is a passive index-tracking ETF tracking the FTSE 250 MidCap Net Total Return index. Currency-hedged version (40a). Part of KSM's international equity tracker family using physical replication. Not an options strategy product.",
+    "sources_checked": "KSM FTSE 250 product information, TASE ETF listings, KSM corporate product lineup (categories do not include options strategies)"
+  },
+  {
+    "name": "KSM FTSE China 25 (4Da')",
+    "ticker": "KSM.5CHN",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM FTSE China 25 is a passive ETF tracking the FTSE China 25 index (also known as FTSE China 50 or similar). Part of KSM's international equity tracker suite. Standard index replication, no options strategy involved.",
+    "sources_checked": "KSM product line overview (FTSE China 50/25 listing), TASE securities data, Interactive Brokers ETF categories"
+  },
+  {
+    "name": "KSM Future ICE CO1 ILS (40a')",
+    "ticker": "KOIL.100",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM Future ICE CO1 tracks ICE原油期货 (ICE crude oil futures). This is a commodity futures tracker, using futures contracts to gain exposure to crude oil prices. KSM's commodity products (like KSMF14 Bloomberg Brent Crude) use futures, not options. Futures-based products are classified as 'no options strategy' per guidelines.",
+    "sources_checked": "ICE contract specifications, KSM Brent Crude ETF product data (KSMF14, KSMF84), Bloomberg commodity ETF listings"
+  },
+  {
+    "name": "KSM Future NYMEX NG1 (4Da')",
+    "ticker": "KGAS.117",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM Future NYMEX NG1 tracks NYMEX天然气期货 (natural gas futures). It holds natural gas futures contracts for exposure. Part of KSM's commodity futures product line. Futures alone = no options strategy. No evidence of options overlay in the product structure.",
+    "sources_checked": "NYMEX/ICE natural gas futures data, KSM commodity product line information, TASE product listings"
+  },
+  {
+    "name": "KSM General Gov.Bond (000)",
+    "ticker": "KBNDG.89",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM General Government Bond is a passive bond ETF holding Israeli general government bonds directly. Investing.com data shows portfolio consists entirely of Israeli government bonds (e.g., Israel 3.75% 2029, 1% 2030, etc.). Fund is 100% allocated to bonds with no options or derivatives strategy.",
+    "sources_checked": "Investing.com (KBNDG89 profile and holdings), KSM bond fund category, KSM product line listing"
+  },
+  {
+    "name": "KSM HSCEI ILS (40a')",
+    "ticker": "KHSCE.92",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM HSCEI tracks the Hang Seng China Enterprises Index (H股指数). Currency-hedged version (ILS). Standard passive index tracker using physical replication or swaps. Part of KSM's international equity line - no options strategy.",
+    "sources_checked": "TASE product listing, KSM international equity tracker lineup, KSM product categories"
+  },
+  {
+    "name": "KSM Ibovespa (GTR) (4Da')",
+    "ticker": "KBVSP.50",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM Ibovespa tracks the Brazilian Ibovespa (Bovespa) index (Gross Total Return). Confirmed as a standard equity ETF by Investing.com (KSMF31) and TASE data. Passive index replication, no options strategy involved.",
+    "sources_checked": "Investing.com (KSMF31/KSM 4D IBOVESPA), TASE product data, Interactive Brokers ETF listings"
+  },
+  {
+    "name": "KSM iBoxx $ Liquid High Yield(GTR)(0Da')",
+    "ticker": "KSIBX.34",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM iBoxx USD Liquid High Yield is a passive bond ETF tracking the iBoxx USD Liquid High Yield index. Investing.com (KSMF19) confirms this is a high-yield corporate bond ETF. Direct bond holdings, no options strategy employed.",
+    "sources_checked": "Investing.com (KSMF19/KSM 0D iBoxx US Liquid High Yield), KSM bond ETF product line"
+  },
+  {
+    "name": "KSM iBoxx Euro Liq Corp (0Da')",
+    "ticker": "KSCO.127",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM iBoxx Euro Liquid Corp tracks the iBoxx Euro Liquid Corporates index (investment-grade euro corporate bonds). Investing.com (KSCO127) confirms this is a corporate bond ETF. Passive bond holding strategy, no options involved.",
+    "sources_checked": "Investing.com (KSCO127/KSM COM 127 IB8A), TASE product listing, KSM bond ETF category"
+  },
+  {
+    "name": "KSM iBoxx USD Liq Invest Grd Tp 30(0Da')",
+    "ticker": "KSTP.128",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM iBoxx USD Liquid Investment Grade Tp 30 tracks the iBoxx USD Liquid Investment Grade index (top 30). Investment-grade USD corporate bond ETF. Part of KSM's bond ETF family using direct bond holdings, no options strategy.",
+    "sources_checked": "TASE product listings, KSM bond ETF category, Interactive Brokers TASE ETF listings"
+  },
+  {
+    "name": "KSM Insurance Sector (40A)",
+    "ticker": "KSBT.60",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM Insurance Sector is a sector index ETF tracking the Israeli insurance industry index. Standard industry sector tracker using physical replication of constituent stocks. No options strategy. Part of KSM's domestic sector ETF family.",
+    "sources_checked": "KSM sector ETF product line, Interactive Brokers TASE ETF categories, TASE product data"
+  },
+  {
+    "name": "KSM Kospi 200 (4Db')",
+    "ticker": "KSMKR.15",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM Kospi 200 tracks the Korean KOSPI 200 index. Investing.com (KSMKR) and Globes confirm this is a South Korea equity tracker ETF. Passive index replication of KOSPI 200 stocks. No options strategy used.",
+    "sources_checked": "Investing.com (KSMKR/KSM SAL KR 15), Globes financial data (Instrument ID 247570), TASE listing"
+  },
+  {
+    "name": "KSM Mid Cap MDAX (GTR) (4Da')",
+    "ticker": "KMDX.151",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM Mid Cap MDAX tracks the German MDAX (mid-cap) index (Gross Total Return). Standard international equity tracker from KSM. Physical or synthetic replication of MDAX constituents. No options strategy.",
+    "sources_checked": "KSM international equity tracker product line, TASE listings for German equity products"
+  },
+  {
+    "name": "KSM Mid Cap MDAX (GTR) ILS (40a')",
+    "ticker": "KMDX.152",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM Mid Cap MDAX ILS is the currency-hedged (ILS) share class of the MDAX tracker fund. Same underlying MDAX index tracking strategy with currency hedging added. No options strategy involved.",
+    "sources_checked": "KSM international equity tracker product line, TASE listings, KSM currency-hedged share class descriptions"
+  },
+  {
+    "name": "KSM Mid-Cap 50 (40A)",
+    "ticker": "KSM.YT6",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM Mid-Cap 50 tracks the Israeli mid-cap 50 index. Local equity index tracker holding constituent stocks through physical replication. Part of KSM's domestic equity tracker family. No options strategy employed.",
+    "sources_checked": "KSM domestic equity product line, TASE listings for Israeli equity trackers"
+  },
+  {
+    "name": "KSM Morningstar Wide Moat (4Da')",
+    "ticker": "KSMO.142",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM Morningstar Wide Moat tracks the Morningstar Wide Moat Focus index, which selects companies with sustainable competitive advantages. Standard passive equity ETF holding constituent stocks. No options strategy involved.",
+    "sources_checked": "KSM thematic/strategy ETF product line, Morningstar Wide Moat index data, TASE product listings"
+  },
+  {
+    "name": "KSM MSCI AC World (NTR) (4Da')",
+    "ticker": "KALC.101",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM MSCI AC World tracks the MSCI All Country World index (Net Total Return). Investing.com (KALC101/KSM MSCI ALC101) and Globes confirm this is a global equity tracker. Passive replication of global equity markets. No options strategy.",
+    "sources_checked": "Investing.com (KALC101), Globes financial data (Instrument ID 247574), KSM global equity tracker product line"
+  },
+  {
+    "name": "KSM MSCI Brazil (4Da')",
+    "ticker": "K.MSCI24",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM MSCI Brazil tracks the MSCI Brazil index. Yahoo Finance (K-MSCI24.TA/MXBR KSM SAL S24) confirms this is a Brazil equity tracker. Part of KSM's MSCI country/single-country ETF series using physical replication. No options strategy.",
+    "sources_checked": "Yahoo Finance (K-MSCI24.TA), KSM MSCI country ETF product line, TASE listing"
+  },
+  {
+    "name": "KSM MSCI China (4Da')",
+    "ticker": "K.MSCI27",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM MSCI China tracks the MSCI China index. Yahoo Finance (K-MSCI27.TA/MXCN KSM SAL S27) and Globes confirm this is a China equity tracker ETF. Standard passive index replication of MSCI China constituents. No options strategy.",
+    "sources_checked": "Yahoo Finance (K-MSCI27.TA), Globes financial data (Instrument ID 624239), KSM MSCI country ETF product line"
+  },
+  {
+    "name": "KSM MSCI East Europe (4Da')",
+    "ticker": "K.MXME23",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM MSCI East Europe tracks the MSCI Eastern Europe index. Yahoo Finance (K-MXME23.TA/MXME KSM SAL S23) confirms this is an Eastern Europe equity tracker. Part of KSM's MSCI regional ETF series. No options strategy.",
+    "sources_checked": "Yahoo Finance (K-MXME23.TA), KSM MSCI regional ETF product line, TASE listing"
+  },
+  {
+    "name": "KSM MSCI Emerging Markets (4Da')",
+    "ticker": "K.MXEF19",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM MSCI Emerging Markets tracks the MSCI Emerging Markets index. Standard emerging markets equity tracker. TASE PDF documentation and KSM product line confirm this is a passive index-tracking product. No options strategy involved.",
+    "sources_checked": "TASE prospectus documentation (P1609230), KSM MSCI EM product line, Interactive Brokers TASE ETF categories"
+  },
+  {
+    "name": "KSM MSCI Emerging Markets ILS (40a')",
+    "ticker": "KSM.111E",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM MSCI Emerging Markets ILS is the currency-hedged (ILS) share class of the MSCI Emerging Markets tracker. Investing.com (KSM111E) confirms this is an emerging markets equity ETF. Passive index replication with currency hedging overlay, no options strategy.",
+    "sources_checked": "Investing.com (KSM111E/KSM 111 EMERGE), KSM currency-hedged ETF product line, TASE data (ISIN IL0011235046)"
+  },
+  {
+    "name": "KSM MSCI Europe (4Da')",
+    "ticker": "K.MXEU22",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM MSCI Europe tracks the MSCI Europe index (developed European markets). Investing.com (KMXEU22) confirms this is a European equity tracker ETF. Part of KSM's MSCI regional ETF series using physical replication of European equities. No options strategy.",
+    "sources_checked": "Investing.com (KMXEU22), KSM MSCI regional ETF product line, TASE listing (ISIN IL0011171266)"
+  },
+  {
+    "name": "KSM MSCI Fat East Ex Japan (4Da')",
+    "ticker": "K.MXFE20",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM MSCI Far East Ex Japan tracks the MSCI AC Far East Ex Japan index. Investing.com (KSMF69) and CNBC confirm this is a Far East equity tracker covering markets in the Far East excluding Japan. Passive index replication, no options strategy.",
+    "sources_checked": "Investing.com (KSMF69), CNBC (KSM.F69-IL), Yahoo Finance (K-MXFE20.TA), KSM regional ETF product line"
+  }
+]

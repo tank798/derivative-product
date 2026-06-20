@@ -1,0 +1,262 @@
+[
+  {
+    "name": "KSM S&P ASX 200 (4Da')",
+    "ticker": "KA200.52",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM以色列ILC的被动指数跟踪ETF，追踪标普ASX 200指数，通过实物复制（持有股票）或合成复制（互换）实现跟踪。产品名称和公开说明均未提及任何期权策略（covered call、put、spread、buffer、FLEX等）。该产品系列仅为指数跟踪工具，不涉及期权策略。",
+    "sources_checked": "https://www.investing.com/etfs/ksm-4d-sp-asx-200; https://www.tase.co.il/en/market_data/securities"
+  },
+  {
+    "name": "KSM S&P Financial Select Sector (4Da')",
+    "ticker": "KFSS.157",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM被动指数跟踪ETF，追踪标普金融精选行业指数，实物持有成份股。产品名称为指数跟踪型，无任何期权策略关键词（covered call、option、buffer、FLEX等）。KSM产品族均为以色列交易所挂牌的被动指数/债券/商品跟踪产品，不涉及期权策略。",
+    "sources_checked": "https://www.tase.co.il/en/market_data/securities; https://www.tipranks.com/etf/il:ksm.f109"
+  },
+  {
+    "name": "KSM S&P Growth Israel (GTR) (40A)",
+    "ticker": "KSPB.119",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM被动指数跟踪ETF（40A系列=货币对冲版本），追踪标普以色列成长指数，实物持有成份股。产品名称和KSM产品族公开信息均未显示任何期权策略结构。40A系列为标准的指数跟踪ETF类别。",
+    "sources_checked": "https://www.tase.co.il/en/market_data/securities; https://www.investing.com/etfs/world-etfs?issuer_filter=1611"
+  },
+  {
+    "name": "KSM S&P Homebuilders Slct Indstry(4Da')",
+    "ticker": "KSM.138",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM被动指数跟踪ETF，追踪标普住宅建筑精选行业指数。Cbonds确认其复制方式为Synthetical（合成复制，即使用互换），管理风格为被动指数跟踪。无任何期权策略。",
+    "sources_checked": "https://cbonds.com/etf/327381/; https://fintel.io/sonv/il/ksm.f109"
+  },
+  {
+    "name": "KSM S&P Latin America 40 (4Da')",
+    "ticker": "KSMLT.14",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM被动指数跟踪ETF（4D系列=未对冲版本），追踪标普拉美40指数，通过实物复制或互换实现跟踪。产品名称和KSM产品族分类均无任何期权策略特征。KSM产品族均为以色列交易所挂牌的被动指数/债券/商品跟踪产品。",
+    "sources_checked": "https://www.tase.co.il/en/market_data/securities; https://www.spglobal.com/spdji/en/documents/ticker-info-sheets/spdji-israel-listed-index-linked-products.pdf"
+  },
+  {
+    "name": "KSM S&P Select Sector Consumer Dis(4Da')",
+    "ticker": "KSCD.159",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM被动指数跟踪ETF，追踪标普非必需消费品精选行业指数，实物持有成份股。KSM所有4D系列产品均为标准指数跟踪ETF，无任何期权策略组成部分。产品名称和公开信息未见期权策略说明。",
+    "sources_checked": "https://www.tase.co.il/en/market_data/securities; https://www.spglobal.com/spdji/en/documents/ticker-info-sheets/spdji-israel-listed-index-linked-products.pdf"
+  },
+  {
+    "name": "KSM S&P Select Sector Industrials (4Da')",
+    "ticker": "KSPI.158",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM被动指数跟踪ETF，追踪标普工业精选行业指数，实物持有成份股。作为KSM 4D系列产品，为标准的被动指数跟踪基金，不涉及任何期权策略。产品名称和分类均显示为纯指数跟踪结构。",
+    "sources_checked": "https://www.tase.co.il/en/market_data/securities; https://www.tipranks.com/etf/il:ksm.f109"
+  },
+  {
+    "name": "KSM S&P Small Cap 600 ILS (40a')",
+    "ticker": "KSSC.141",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM被动指数跟踪ETF（4A系列=货币对冲版本），追踪标普小盘600指数ILS对冲份额。Investing.com确认其为标准指数跟踪ETF，通过实物复制持有美国小盘股并实施货币对冲。无期权策略。",
+    "sources_checked": "https://www.investing.com/etfs/ksm-spsc600-141-sp-600; https://www.investing.com/etfs/ksm-4a-sp-smallcap-600-curhedged"
+  },
+  {
+    "name": "KSM S&P TSX 60 (4Da')",
+    "ticker": "KSKND.46",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM被动指数跟踪ETF（4D系列=未对冲版本），追踪加拿大标普TSX 60指数。Citywire确认其为标准被动指数跟踪基金，于2025年1月推出。通过实物复制持有TSX 60成份股，无任何期权策略成分。",
+    "sources_checked": "https://citywire.com/americas/fund/ksm-etf-4d-s-and-p-or-tsx-60/c941937; https://www.tase.co.il/en/market_data/securities"
+  },
+  {
+    "name": "KSM S&P TSX 60 ILS (40a')",
+    "ticker": "KSPT.121",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM被动指数跟踪ETF（4A系列=货币对冲版本），追踪加拿大标普TSX 60 ILS对冲份额。与KSKND.46相同为被动指数跟踪产品，增加ILS汇率对冲。无任何期权策略。",
+    "sources_checked": "https://www.tase.co.il/en/market_data/securities; https://citywire.com/americas/fund/ksm-etf-4d-s-and-p-or-tsx-60/c941937"
+  },
+  {
+    "name": "KSM S&P Value Israel (GTR) (40A)",
+    "ticker": "KSPB.120",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM被动指数跟踪ETF（40A系列），追踪标普以色列价值指数，实物持有成份股。Yahoo Finance确认其为标准TASE挂牌指数跟踪产品。无任何期权策略特征。",
+    "sources_checked": "https://finance.yahoo.com/quote/KSPB-120.TA/; https://www.tase.co.il/en/market_data/securities"
+  },
+  {
+    "name": "KSM Short CPI Lkd Gv Bds 2-5ys(485)(00A)",
+    "ticker": "KGLL.96",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM空头债券ETF（00A系列=债券反向产品），追踪CPI挂钩政府债券2-5年指数的反向表现。通过互换或期货实现反向敞口，主要使用利率衍生品（互换/期货），而非期权策略。根据KSM产品分类，00A系列为固定收益反向跟踪产品。",
+    "sources_checked": "https://www.tase.co.il/en/market_data/securities; https://www.tipranks.com/etf/il:ksm.f35"
+  },
+  {
+    "name": "KSM Short FTSE China 25 (35000) (6Da')",
+    "ticker": "KSFTS.79",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "中",
+    "reasoning": "KSM空头ETF（6D系列=反向/杠杆产品），追踪FTSE中国25指数反向表现。通过互换或期货实现反向敞口。KSM 6D系列产品通过期货、互换等衍生品实现反向跟踪，而非期权策略。",
+    "sources_checked": "https://www.tase.co.il/en/market_data/securities; https://markets.ft.com/data/etfs/tearsheet/summary?s=KSM.F148:TLV"
+  },
+  {
+    "name": "KSM Short Nn-Lkd Fd It GB 5+ys(720)(00A)",
+    "ticker": "KGL5+.97",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM空头政府债券ETF（00A系列），追踪非挂钩固定利率政府债券5+年指数的反向表现。Investing.com确认其为空头债券跟踪产品。通过互换或期货实现反向敞口，不涉及期权策略。",
+    "sources_checked": "https://www.investing.com/etfs/ksm-00-s-non-lnkd-fx-int-gov-b-5-y; https://www.tase.co.il/en/market_data/securities"
+  },
+  {
+    "name": "KSM Short RealEstate-15 (673) (60A)",
+    "ticker": "KS15.108",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "中",
+    "reasoning": "KSM空头ETF（60A/6A系列=反向产品），追踪房地产指数反向表现。KSM空头产品通过做空股票（实物）、期货或互换实现反向敞口。主要使用期货/互换/融券做空，而非期权策略。",
+    "sources_checked": "https://www.tase.co.il/en/market_data/securities; https://cbonds.com/etf/265707/"
+  },
+  {
+    "name": "KSM Short S&P 500 (3000) (6Da')",
+    "ticker": "KSMS.SP2",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM空头ETF（6D系列），追踪标普500指数反向表现。Investing.com和多方来源确认其为反向ETF（Short/Inverse），通过做空标普500期货或互换实现反向敞口。主要依赖期货衍生品而非期权策略。",
+    "sources_checked": "https://www.investing.com/etfs/ksm-shor-s-p-2---s-p-500; https://www.tase.co.il/en/market_data/securities"
+  },
+  {
+    "name": "KSM Short TA-25 (2555) (60A)",
+    "ticker": "KS25.102",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM空头ETF（60A系列），追踪TA-25指数反向表现。Investing.com确认其为2倍反向ETN结构，使用期货和互换等衍生品实现反向敞口。主要依赖衍生品（期货/互换）而非期权策略。",
+    "sources_checked": "https://au.investing.com/etfs/ksm-ta25-18-profile; https://www.tase.co.il/en/market_data/securities"
+  },
+  {
+    "name": "KSM Short TA-75 (1838) (60A)",
+    "ticker": "KS75.104",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "中",
+    "reasoning": "KSM空头ETF（60A系列），追踪TA-75指数反向表现。与KSM其他空头ETF类似，通过做空成份股、期货或互换实现反向敞口。KSM 60A系列为空头/反向产品类别，不使用期权策略。",
+    "sources_checked": "https://www.tase.co.il/en/market_data/securities; https://cbonds.com/etf/265707/"
+  },
+  {
+    "name": "KSM Short Tel-Bd CPI Linkd SmallCap(00A)",
+    "ticker": "KSBN.135",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "中",
+    "reasoning": "KSM空头债券ETF（00A系列），追踪CPI挂钩小盘债券指数反向表现。KSM 00A系列固定收益反向产品通过互换或期货实现反向敞口。不涉及期权策略。",
+    "sources_checked": "https://www.tase.co.il/en/market_data/securities; https://markets.ft.com/data/etfs/tearsheet/summary?s=KSM.F148:TLV"
+  },
+  {
+    "name": "KSM Short Tel-Bond 40 (470) (00A)",
+    "ticker": "KBN40.94",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "中",
+    "reasoning": "KSM空头债券ETF（00A系列），追踪Tel-Bond 40指数反向表现。KSM空头债券产品通过互换或利率期货实现反向敞口。KSM产品族中00A系列为债券反向跟踪产品，不使用期权策略。",
+    "sources_checked": "https://www.tase.co.il/en/market_data/securities; https://www.investing.com/etfs/ksm-00-short-tel-bond-20"
+  },
+  {
+    "name": "KSM Short Tel-Bond 60 (540) (00A)",
+    "ticker": "KBN60.95",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "中",
+    "reasoning": "KSM空头债券ETF（00A系列），追踪Tel-Bond 60指数反向表现。与KSM其他短债ETF相同，通过互换或期货实现债券反向敞口。主要使用利率衍生品（互换/期货）而非期权策略。",
+    "sources_checked": "https://www.tase.co.il/en/market_data/securities; https://www.investing.com/etfs/ksm-00-short-tel-bond-20"
+  },
+  {
+    "name": "KSM Short Tel-Bond Shekel (500) (00A)",
+    "ticker": "KBNSK.98",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "中",
+    "reasoning": "KSM空头债券ETF（00A系列），追踪谢克尔债券指数反向表现。通过互换或期货实现债券反向敞口。KSM产品族中00A系列是债券和反向债券产品的类别代码，不涉及期权策略。",
+    "sources_checked": "https://www.tase.co.il/en/market_data/securities; https://www.investing.com/etfs/ksm-00-short-tel-bond-20"
+  },
+  {
+    "name": "KSM Short Term Treasury Bill (000)",
+    "ticker": "KSMKM.84",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM短期国库券ETF（000系列），直接持有以色列政府短期MAKAM国库券。Investing.com确认其为标准短期国债ETF，直接持有短期固定收益工具。不涉及任何期权策略或衍生品。",
+    "sources_checked": "https://www.investing.com/etfs/ksm-makam-84---makam; https://www.tase.co.il/en/market_data/securities"
+  },
+  {
+    "name": "KSM STOXX 600 Automobiles & Parts (4Da')",
+    "ticker": "K6AP.156",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM被动指数跟踪ETF（4D系列），追踪STOXX 600汽车零部件行业指数，实物持有成份股。作为KSM 4D系列标准指数跟踪产品，无任何期权策略成分。产品名称和分类均显示为纯指数跟踪结构。",
+    "sources_checked": "https://www.tase.co.il/en/market_data/securities; https://www.spglobal.com/spdji/en/documents/ticker-info-sheets/spdji-israel-listed-index-linked-products.pdf"
+  },
+  {
+    "name": "KSM STOXX Europe 600 (NTR) (4Da')",
+    "ticker": "KSST.145",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM被动指数跟踪ETF（4D系列=未对冲版本），追踪STOXX欧洲600净总收益指数。Investing.com和Globes确认其为标准指数跟踪ETF，通过实物复制或互换实现跟踪。无期权策略。",
+    "sources_checked": "https://www.globes.co.il/finance/instrument/instrument.asp?InstrumentID=247907&Lang=EN; https://www.investing.com/etfs/ksm-4a-stoxx-europe-600-euro-hedged"
+  },
+  {
+    "name": "KSM STOXX Europe 600 (NTR) ILS (40a')",
+    "ticker": "KSST.144",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM被动指数跟踪ETF（40A/4A系列=货币对冲版本），追踪STOXX欧洲600 ILS对冲份额。与KSST.145一样为被动指数跟踪产品，增加ILS货币对冲。无任何期权策略。",
+    "sources_checked": "https://www.globes.co.il/finance/instrument/instrument.asp?InstrumentID=247907&Lang=EN; https://www.tase.co.il/en/market_data/securities"
+  }
+]

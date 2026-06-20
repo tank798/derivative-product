@@ -1,0 +1,17 @@
+# 缓存和临时文件
+.backtest_cache/
+_package/
+_package.zip
+__pycache__/
+*.pyc
+.DS_Store
+.claude/
+
+# API 密钥
+Any Router api.txt
+
+# 二果产品（无关项目）
+二果产品/
+
+# macOS
+.DS_Store

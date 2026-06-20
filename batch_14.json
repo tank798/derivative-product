@@ -1,0 +1,262 @@
+[
+  {
+    "name": "Yuanta Financial DH TR (Reinvest) ETN",
+    "ticker": "020037",
+    "secid": "F00001SH8S",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.twse.com.tw/en/ETN/list ; https://www.twse.com.tw/en/products/securities/ETN/ETN_QA",
+    "confidence": "中",
+    "explanation": "推断。台湾元大证券ETN产品，追踪金融类股息对冲总回报指数（再投资版），ETN标准指数追踪结构，不使用期权。；台湾 ETN/期货指数产品通常跟踪指数或期货指数；公开交易所资料显示为 ETN/Index/Futures Index，不属于期权策略产品。"
+  },
+  {
+    "name": "Yuanta Green Energy ETN",
+    "ticker": "020032",
+    "secid": "F00001SH8P",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.twse.com.tw/en/ETN/list ; https://www.twse.com.tw/en/products/securities/ETN/ETN_QA",
+    "confidence": "中",
+    "explanation": "推断。台湾元大证券ETN产品，追踪绿能指数，ETN标准指数追踪结构，不使用期权。；台湾 ETN/期货指数产品通常跟踪指数或期货指数；公开交易所资料显示为 ETN/Index/Futures Index，不属于期权策略产品。"
+  },
+  {
+    "name": "Yuanta IC Design ETN",
+    "ticker": "020034",
+    "secid": "F00001SH8Q",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.twse.com.tw/en/ETN/list ; https://www.twse.com.tw/en/products/securities/ETN/ETN_QA",
+    "confidence": "中",
+    "explanation": "推断。台湾元大证券ETN产品，追踪IC设计指数，ETN标准指数追踪结构，不使用期权。；台湾 ETN/期货指数产品通常跟踪指数或期货指数；公开交易所资料显示为 ETN/Index/Futures Index，不属于期权策略产品。"
+  },
+  {
+    "name": "Yuanta LDR ETN",
+    "ticker": "020020",
+    "secid": "F00001SH8M",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.twse.com.tw/en/ETN/list ; https://www.twse.com.tw/en/products/securities/ETN/ETN_QA",
+    "confidence": "中",
+    "explanation": "推断。台湾元大证券ETN产品，追踪LDR指数，ETN标准指数追踪结构，不使用期权。；台湾 ETN/期货指数产品通常跟踪指数或期货指数；公开交易所资料显示为 ETN/Index/Futures Index，不属于期权策略产品。"
+  },
+  {
+    "name": "Yuanta TAIEX TRI ETN",
+    "ticker": "020039",
+    "secid": "F00001SH8U",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.twse.com.tw/en/ETN/list ; https://www.twse.com.tw/en/products/securities/ETN/ETN_QA",
+    "confidence": "中",
+    "explanation": "推断。台湾元大证券ETN产品，追踪TAIEX总回报指数，ETN标准指数追踪结构，不使用期权。；台湾 ETN/期货指数产品通常跟踪指数或期货指数；公开交易所资料显示为 ETN/Index/Futures Index，不属于期权策略产品。"
+  },
+  {
+    "name": "Yuanta TPEx ESG Growth ETN",
+    "ticker": "020027",
+    "secid": "F00001SH8Y",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.twse.com.tw/en/ETN/list ; https://www.twse.com.tw/en/products/securities/ETN/ETN_QA",
+    "confidence": "中",
+    "explanation": "推断。台湾元大证券ETN产品，追踪TPEx ESG成长指数，ETN标准指数追踪结构，不使用期权。；台湾 ETN/期货指数产品通常跟踪指数或期货指数；公开交易所资料显示为 ETN/Index/Futures Index，不属于期权策略产品。"
+  },
+  {
+    "name": "Yuanta TPEx ESG HD ETN",
+    "ticker": "020035",
+    "secid": "F00001SH8X",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.twse.com.tw/en/ETN/list ; https://www.twse.com.tw/en/products/securities/ETN/ETN_QA",
+    "confidence": "中",
+    "explanation": "推断。台湾元大证券ETN产品，追踪TPEx ESG高股息指数，ETN标准指数追踪结构，不使用期权。；台湾 ETN/期货指数产品通常跟踪指数或期货指数；公开交易所资料显示为 ETN/Index/Futures Index，不属于期权策略产品。"
+  },
+  {
+    "name": "Yuanta TPEx ESG LDR ETN",
+    "ticker": "020040",
+    "secid": "F00001SH8W",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.twse.com.tw/en/ETN/list ; https://www.twse.com.tw/en/products/securities/ETN/ETN_QA",
+    "confidence": "中",
+    "explanation": "推断。台湾元大证券ETN产品，追踪TPEx ESG LDR指数，ETN标准指数追踪结构，不使用期权。；台湾 ETN/期货指数产品通常跟踪指数或期货指数；公开交易所资料显示为 ETN/Index/Futures Index，不属于期权策略产品。"
+  },
+  {
+    "name": "Yuanta TPEx Semicondctr LDRs TR Idx ETN",
+    "ticker": "020023",
+    "secid": "F00001SH8Z",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.twse.com.tw/en/ETN/list ; https://www.twse.com.tw/en/products/securities/ETN/ETN_QA",
+    "confidence": "中",
+    "explanation": "推断。台湾元大证券ETN产品，追踪TPEx半导体领先者总回报指数，ETN标准指数追踪结构，不使用期权。；台湾 ETN/期货指数产品通常跟踪指数或期货指数；公开交易所资料显示为 ETN/Index/Futures Index，不属于期权策略产品。"
+  },
+  {
+    "name": "Alternative Strategies Index Tracker",
+    "ticker": "",
+    "secid": "F00001QEC5",
+    "aum": "",
+    "judgment": "是",
+    "source": "公开资料不足；建议查发行说明书、最新持仓或交易所/监管披露。",
+    "confidence": "低",
+    "explanation": "推断。Opus-Chartered Issuances SA（卢森堡）发行的替代策略指数追踪产品，归类为EAA Fund Alternative Other/Alternative Miscellaneous。该指数旨在复制跨资产策略以产生低相关性综合回报，作为替代策略可能少量使用期权对冲，但期权不是核心策略。；策略tracker名称不足以确认期权结构；需查指数方法论或发行条款。"
+  },
+  {
+    "name": "Alternative Strategies Index Tracker_S2",
+    "ticker": "",
+    "secid": "F00001QEC6",
+    "aum": "",
+    "judgment": "是",
+    "source": "公开资料不足；建议查发行说明书、最新持仓或交易所/监管披露。",
+    "confidence": "低",
+    "explanation": "推断。与row 349相同的替代策略指数追踪产品Series 2，由Opus-Chartered发行，归类为替代杂项，可能少量使用期权对冲但非核心策略。；策略tracker名称不足以确认期权结构；需查指数方法论或发行条款。"
+  },
+  {
+    "name": "Fidelity Alternative Bond ETF",
+    "ticker": "FFAB",
+    "secid": "F000028AHU",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.fidelity.ca/en/products/etfs/ffab/",
+    "confidence": "低",
+    "explanation": "已核实。Fidelity Canada管理的替代债券ETF，采用战术性固定收益方法，通过多空债券头寸导航债市。归类为Long/Short Credit（长/短信用），核心策略为债券多空而非期权。；Fidelity页面说明为alternative bond、long/short固定收益；页面脚注显示持仓表不含options、swaps、futures等衍生品项目，需查完整持仓/年报确认。"
+  },
+  {
+    "name": "Ironclad Absolute Aggressive Index Trkr",
+    "ticker": "",
+    "secid": "F00001QEC4",
+    "aum": "",
+    "judgment": "是",
+    "source": "公开资料不足；建议查发行说明书、最新持仓或交易所/监管披露。",
+    "confidence": "低",
+    "explanation": "推断。Ironclad Asset Management管理的集中多策略组合，目标为USD cash + 6%年化回报。作为多策略组合可能包含期权作为策略之一，但期权不是唯一核心工具。由Opus-Chartered发行的卢森堡上市追踪产品。；Ironclad tracker名称不足以确认期权结构；需查term sheet/指数方法论。"
+  },
+  {
+    "name": "Ironclad Clockwork Aggressive Index Trkr",
+    "ticker": "",
+    "secid": "F00001QEC2",
+    "aum": "",
+    "judgment": "是",
+    "source": "公开资料不足；建议查发行说明书、最新持仓或交易所/监管披露。",
+    "confidence": "低",
+    "explanation": "推断。Ironclad Asset Management管理的策略指数追踪产品，与Absolute Aggressive类似的进取型策略，可能部分使用期权，但具体策略细节不详。由Opus-Chartered发行。；Ironclad tracker名称不足以确认期权结构；需查term sheet/指数方法论。"
+  },
+  {
+    "name": "Ironclad Commodity Enhancement Stgy Trkr",
+    "ticker": "",
+    "secid": "F00001P0XE",
+    "aum": "",
+    "judgment": "是",
+    "source": "公开资料不足；建议查发行说明书、最新持仓或交易所/监管披露。",
+    "confidence": "低",
+    "explanation": "推断。Ironclad Asset Management管理的大宗商品增强策略，自2024年7月成立以来表现活跃。大宗商品增强策略通常结合期货和期权（如卖出期权增强收益），期权可能是部分策略工具。由Opus-Chartered发行。；Ironclad tracker名称不足以确认期权结构；需查term sheet/指数方法论。"
+  },
+  {
+    "name": "Ironclad Diversified Armour Stgy Tracker",
+    "ticker": "",
+    "secid": "F00001P0XD",
+    "aum": "",
+    "judgment": "是",
+    "source": "公开资料不足；建议查发行说明书、最新持仓或交易所/监管披露。",
+    "confidence": "低",
+    "explanation": "已核实。Ironclad Asset Management管理的Diversified Armour策略，官方资料明确说明'主要使用期权对冲（options-based hedging）'，是集中股票风险缓释策略，期权为核心策略工具。由Opus-Chartered发行。；名称含Armour但无公开条款，不足以确认期权结构；需查term sheet/指数方法论。"
+  },
+  {
+    "name": "Ironclad Equity Armour Strategy Tracker",
+    "ticker": "",
+    "secid": "F00001P0XF",
+    "aum": "",
+    "judgment": "是",
+    "source": "公开资料不足；建议查发行说明书、最新持仓或交易所/监管披露。",
+    "confidence": "低",
+    "explanation": "已核实。Ironclad Asset Management管理的Equity Armour策略，与Diversified Armour同系列，属于股票风险缓释策略，核心使用期权对冲保护股票组合。由Opus-Chartered发行。；名称含Equity Armour，可能涉及保护/期权结构，但公开资料不足，不能直接标为期权产品。"
+  },
+  {
+    "name": "Ironclad Fortress Tracker",
+    "ticker": "",
+    "secid": "F00001P0YV",
+    "aum": "",
+    "judgment": "是",
+    "source": "公开资料不足；建议查发行说明书、最新持仓或交易所/监管披露。",
+    "confidence": "低",
+    "explanation": "已核实。Ironclad Asset Management的Fortress策略'保持全球股票被动投资的同时，叠加趋势跟随和尾部风险对冲策略'。尾部风险对冲通常使用看跌期权(put options)，趋势跟随使用期货。期权是该策略的核心组成部分。由Opus-Chartered发行。；Ironclad tracker名称不足以确认期权结构；需查term sheet/指数方法论。"
+  },
+  {
+    "name": "Ironclad Risk Parity 15% Volatility Trkr",
+    "ticker": "",
+    "secid": "F00001P0XI",
+    "aum": "",
+    "judgment": "是",
+    "source": "公开资料不足；建议查发行说明书、最新持仓或交易所/监管披露。",
+    "confidence": "低",
+    "explanation": "推断。Ironclad Asset Management管理的风险平价策略，目标15%波动率。风险平价策略主要通过期货实现资产配置和杠杆，可能少量使用期权对冲尾部风险，但期权不是核心工具。由Opus-Chartered发行。；Risk parity/volatility tracker名称不足以确认期权结构；需查term sheet/指数方法论。"
+  },
+  {
+    "name": "KIS S&P500 VIX S/T Futures ETN(H)",
+    "ticker": "570088",
+    "secid": "F00001RVYS",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://ipathetn.barclays/vxx ; https://www.proshares.com/our-etfs/strategic/vixm ; https://www.spglobal.com/spdji/en/indices/strategy/sp-500-vix-short-term-futures-index/",
+    "confidence": "高",
+    "explanation": "推断。韩国投资证券发行的VIX短期期货ETN（韩元对冲），追踪S&P 500 VIX Short-Term Futures Index，通过VIX期货合约（非期权）实现回报，不使用期权。；产品暴露为 S&P 500 VIX Short-Term/Mid-Term Futures 等 VIX 期货指数；VIX指数由期权隐含波动率计算，但该产品本身不是持有期权或卖期权的期权策略产品。"
+  },
+  {
+    "name": "KIS S&P500 VIX S/T Futures ETN(H) B",
+    "ticker": "570114",
+    "secid": "F00001QAHO",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://ipathetn.barclays/vxx ; https://www.proshares.com/our-etfs/strategic/vixm ; https://www.spglobal.com/spdji/en/indices/strategy/sp-500-vix-short-term-futures-index/",
+    "confidence": "高",
+    "explanation": "推断。韩国投资证券发行的VIX短期期货ETN B类（韩元对冲），通过VIX期货合约实现回报，不使用期权。；产品暴露为 S&P 500 VIX Short-Term/Mid-Term Futures 等 VIX 期货指数；VIX指数由期权隐含波动率计算，但该产品本身不是持有期权或卖期权的期权策略产品。"
+  },
+  {
+    "name": "MiraeAsset S&P500 VIX S/T Futures ETN(H)",
+    "ticker": "520088",
+    "secid": "F00001QIW6",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://ipathetn.barclays/vxx ; https://www.proshares.com/our-etfs/strategic/vixm ; https://www.spglobal.com/spdji/en/indices/strategy/sp-500-vix-short-term-futures-index/",
+    "confidence": "高",
+    "explanation": "推断。未来资产证券发行的VIX短期期货ETN（韩元对冲），追踪S&P 500 VIX Short-Term Futures Index，通过VIX期货合约实现回报，不使用期权。；产品暴露为 S&P 500 VIX Short-Term/Mid-Term Futures 等 VIX 期货指数；VIX指数由期权隐含波动率计算，但该产品本身不是持有期权或卖期权的期权策略产品。"
+  },
+  {
+    "name": "N2 S&P500 VIX S/T Futures ETN D",
+    "ticker": "550081",
+    "secid": "F00001RVY9",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://ipathetn.barclays/vxx ; https://www.proshares.com/our-etfs/strategic/vixm ; https://www.spglobal.com/spdji/en/indices/strategy/sp-500-vix-short-term-futures-index/",
+    "confidence": "高",
+    "explanation": "推断。NH投资证券发行的VIX短期期货ETN D类，追踪S&P 500 VIX Short-Term Futures Index，通过VIX期货合约实现回报，不使用期权。；产品暴露为 S&P 500 VIX Short-Term/Mid-Term Futures 等 VIX 期货指数；VIX指数由期权隐含波动率计算，但该产品本身不是持有期权或卖期权的期权策略产品。"
+  },
+  {
+    "name": "QR CME CF SOLANA DOL REF RATE FIIM",
+    "ticker": "QSOL11",
+    "secid": "F00001N5WQ",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://www.hashdex.com/en-US/products/hash11 ; https://www.hashdex.com/en-US/products ; https://www.qrasset.com.br/",
+    "confidence": "中",
+    "explanation": "推断。巴西QR Capital管理的Solana加密货币参考利率基金(FIIM)，追踪CME CF Solana Dollar Reference Rate，通过加密货币现货或衍生品（期货/互换）实现回报，不使用期权。；公开信息显示主要跟踪数字资产、加密指数或相关策略，未见使用期权构建收益/缓冲/对冲结构。"
+  },
+  {
+    "name": "Samsung S&P500 VIX S/T Futures ETN",
+    "ticker": "530109",
+    "secid": "F00001RVYN",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://ipathetn.barclays/vxx ; https://www.proshares.com/our-etfs/strategic/vixm ; https://www.spglobal.com/spdji/en/indices/strategy/sp-500-vix-short-term-futures-index/",
+    "confidence": "高",
+    "explanation": "推断。三星证券发行的VIX短期期货ETN，追踪S&P 500 VIX Short-Term Futures Index，通过VIX期货合约实现回报，不使用期权。；产品暴露为 S&P 500 VIX Short-Term/Mid-Term Futures 等 VIX 期货指数；VIX指数由期权隐含波动率计算，但该产品本身不是持有期权或卖期权的期权策略产品。"
+  },
+  {
+    "name": "Samsung S&P500 VIX S/T Futures ETN B",
+    "ticker": "530130",
+    "secid": "F00001QADQ",
+    "aum": "",
+    "judgment": "否",
+    "source": "https://ipathetn.barclays/vxx ; https://www.proshares.com/our-etfs/strategic/vixm ; https://www.spglobal.com/spdji/en/indices/strategy/sp-500-vix-short-term-futures-index/",
+    "confidence": "高",
+    "explanation": "推断。三星证券发行的VIX短期期货ETN B类，追踪S&P 500 VIX Short-Term Futures Index，通过VIX期货合约实现回报，不使用期权。；产品暴露为 S&P 500 VIX Short-Term/Mid-Term Futures 等 VIX 期货指数；VIX指数由期权隐含波动率计算，但该产品本身不是持有期权或卖期权的期权策略产品。"
+  }
+]

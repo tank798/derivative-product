@@ -1,0 +1,262 @@
+[
+  {
+    "name": "Defiance Nasdaq 100 Trgt 30 Wkly Dis ETF",
+    "ticker": "QQQY",
+    "original_judgment": "是",
+    "verified_judgment": "是",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Daily credit call spread strategy (0DTE call spreads) on Nasdaq-100 Index. Sells near-the-money calls and buys further OTM calls daily to generate premium income for weekly 30% target distribution. Options are the core income engine.",
+    "sources_checked": "DefianceETFs.com; Seeking Alpha; Yahoo Finance; Schwab research"
+  },
+  {
+    "name": "Hamilton Enhanced U.S. Equity DayMAX ETF",
+    "ticker": "SDAY",
+    "original_judgment": "是",
+    "verified_judgment": "是",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Canada's first 0DTE ETF, using daily covered call writing on U.S. equities with ~25% coverage ratio and 25% leverage. Generates option premium income through daily-expiry call options, distributed semi-monthly.",
+    "sources_checked": "HamiltonETFs.com; Cboe Canada; Investment Executive; ETFGI.com; Yahoo Finance"
+  },
+  {
+    "name": "Unlimited HFGM Global Macro ETF",
+    "ticker": "HFGM",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "中",
+    "reasoning": "Global macro fund replicating hedge fund returns through long/short futures (equity, commodity, currency, bond futures) across ~30 underlying ETFs and futures. Holdings filings show some put options on E-Mini S&P 500 futures, but these are incidental/hedging. Core strategy is futures-based, not options-based.",
+    "sources_checked": "SEC EDGAR filings (Fast-Edgar); U.S. News; Capedge; AInvest; Finviz"
+  },
+  {
+    "name": "Desjardins Market Neutral ETF CA$ Unhdgd",
+    "ticker": "DANC",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "中",
+    "reasoning": "Long/short equity market neutral pairs trading strategy. Permitted to use derivatives (options, futures) as implementation tools, but core strategy is stock pairs trading (long/short correlated issuers within same sectors). Not an options-based product.",
+    "sources_checked": "Desjardins.com; StockAnalysis; WealthProfessional.ca; Desjardins ADF PDF"
+  },
+  {
+    "name": "BMO Long Short US Equity ETF",
+    "ticker": "ZLSU",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "中",
+    "reasoning": "Long/short US equity strategy. Prospectus permits derivatives including options as alternative to direct equity investing, but core strategy is quantitative stock selection (long underpriced, short overpriced in same industry). Not an options-based product.",
+    "sources_checked": "BMO GAM Prospectus; Globe and Mail; YCharts; SogoTrade"
+  },
+  {
+    "name": "Global X Uranium ETF",
+    "ticker": "HURA",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Passive index-tracking ETF replicating the Solactive Global Uranium Pure-Play Index. Holds uranium mining and exploration stocks (Cameco, Kazatomprom, etc.) plus Sprott Physical Uranium Trust. No options strategy — pure equity sector exposure.",
+    "sources_checked": "GlobalX.ca fact sheet; Bloomberg; StockAnalysis; Global X prospectus"
+  },
+  {
+    "name": "Ninepoint Enhanced CA Highshares ETF",
+    "ticker": "ECHI",
+    "original_judgment": "是",
+    "verified_judgment": "是",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Actively managed fund-of-funds ETF investing in Ninepoint HighShares single-stock ETFs. Underlying ETFs use covered call writing on up to 50% of NAV with 25% leverage. Core strategy is options-based income generation via covered calls.",
+    "sources_checked": "Ninepoint.com; Ninepoint HighShares Brochure; TSX Exchange Bulletin; PortfoliosLab"
+  },
+  {
+    "name": "Mulvihill Canadian Bank Enhanced Y ETF",
+    "ticker": "CBNK",
+    "original_judgment": "是",
+    "verified_judgment": "是",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Invests in Big Six Canadian banks, uses active covered call and cash-covered put options writing combined with ~25% leverage. Option writing covers ~19% of portfolio on average (10-12% calls, 9-10% puts). Core to the enhanced yield strategy.",
+    "sources_checked": "Mulvihill.com; ETFGI.com; Yahoo Finance; PortfoliosLab; Mulvihill Financial Reports"
+  },
+  {
+    "name": "Invesco DB US Dollar Bearish",
+    "ticker": "UDN",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Tracks Deutsche Bank Short USD Currency Portfolio Index by holding short DX (USDX) futures contracts on ICE. Strategy is purely short futures-based. Fund does not write or buy options as part of its investment strategy.",
+    "sources_checked": "Invesco.com; SEC EDGAR 424B3; Weiss Ratings; Market Chameleon"
+  },
+  {
+    "name": "Global X Seasonal Rotation ETF Comm",
+    "ticker": "HAC",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "中",
+    "reasoning": "Seasonal rotation strategy allocating among equities, fixed income, commodities, and currencies based on seasonal trends. May use futures contracts. Classified as alternative mutual fund with broad derivative authority, but no explicit options strategy. Holdings show sector ETFs and cash.",
+    "sources_checked": "GlobalX.ca fact sheet; StockAnalysis; Morningstar; Global X product page"
+  },
+  {
+    "name": "Ardea Real Outcome Bond Complex ETF",
+    "ticker": "XARO",
+    "original_judgment": "是",
+    "verified_judgment": "是",
+    "agreement": "一致",
+    "confidence": "中",
+    "reasoning": "Australian bond relative value strategy exploiting mispricings in fixed-income securities. Uses futures, options, and swaps as part of relative value arbitrage toolkit. Options are one component of the derivatives toolkit but not the defining strategy. Still, options are used.",
+    "sources_checked": "Ardea.com.au; Morningstar; FINA; Roic AI"
+  },
+  {
+    "name": "Federated Hermes MDT Market Neutral ETF",
+    "ticker": "MKTN",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Quantitative long/short equity market neutral ETF using MDT model (screening Russell 3000 stocks). No options strategy. Pure stock long-short, targeting zero correlation to broad market. Beta vs S&P 500 is 0.02 — effectively no market exposure.",
+    "sources_checked": "Nasdaq.com; Markets Insider; PortfoliosLab; AAII; Investors Hangout"
+  },
+  {
+    "name": "AltShares Merger Arbitrage ETF",
+    "ticker": "ARB",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Merger arbitrage ETF: long takeover targets, short acquirers in stock-for-stock deals. Uses forward currency contracts for hedging but no options strategy. Pure stock long/short merger arbitrage.",
+    "sources_checked": "AltSharesETFs.com; ETF Research Center; etfrc.com; Market Chameleon; Yahoo Finance"
+  },
+  {
+    "name": "First Trust Multi-Strat Alt ETF",
+    "ticker": "LALT",
+    "original_judgment": "是",
+    "verified_judgment": "是",
+    "agreement": "一致",
+    "confidence": "低",
+    "reasoning": "Fund-of-funds ETF investing in alternative strategy ETFs (FAAR, FTLS, FMF, MARB, etc.). Some underlying funds (FAAR, FTLS) may use options overlays/hedging. Options exposure is indirect through sub-holdings, not direct at LALT level.",
+    "sources_checked": "FT Portfolios; BestETF.net; Financial Times; Barchart"
+  },
+  {
+    "name": "Defiance R2000 Target 30 Weekly Dis ETF",
+    "ticker": "IWMY",
+    "original_judgment": "是",
+    "verified_judgment": "是",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Uses daily credit call spread strategy (0DTE) on Russell 2000 Index. Sells daily call credit spreads to generate premium income for weekly 30% distribution target. Options are the sole income engine.",
+    "sources_checked": "DefianceETFs.com; Seeking Alpha; AInvest; Investing.com"
+  },
+  {
+    "name": "QR CME CF BITCOIN REF RATE FIIM",
+    "ticker": "QBTC11",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "中",
+    "reasoning": "Brazilian Bitcoin ETF tracking CME CF Bitcoin Reference Rate. Physically holds Bitcoin or Bitcoin-related investments. No options strategy. Pure digital asset exposure.",
+    "sources_checked": "Investing.com; StockAnalysis; moomoo; BitpushNews"
+  },
+  {
+    "name": "Evolve Canadian Equity UltraYield ETF",
+    "ticker": "CANY",
+    "original_judgment": "是",
+    "verified_judgment": "是",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Invests in leading Canadian equities, writes covered call options on ~50% of portfolio, and uses 33% leverage to enhance yield. Options premium is a core income source. Semi-monthly distributions.",
+    "sources_checked": "EvolveETFs.com; Barchart; Cantech Letter; PortfoliosLab; Yahoo Finance"
+  },
+  {
+    "name": "IT NOW BLOOMBERG GALAXY BITCOIN FIIM",
+    "ticker": "BITI11",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "中",
+    "reasoning": "Brazilian physically backed Bitcoin ETF (BVMF), tracking Bloomberg Galaxy Bitcoin Index. Holds spot Bitcoin directly via Galaxy Digital/Itau partnership. No options strategy.",
+    "sources_checked": "Galaxy.com; Itau.com.br; Blockworks; MarketScreener"
+  },
+  {
+    "name": "Defiance S&P 500 Trgt 30 Wkly Dis ETF",
+    "ticker": "WDTE",
+    "original_judgment": "是",
+    "verified_judgment": "是",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Daily credit call spread strategy (0DTE) on S&P 500 Index. Sells near-the-money calls and buys further OTM calls daily. Options premium generates weekly distributions targeting 30% annual yield.",
+    "sources_checked": "DefianceETFs.com; SoFi; ETF Strategy; Seeking Alpha; YCharts"
+  },
+  {
+    "name": "JH Glb IG Crdt Crv Stpnr ETF EUR Acc",
+    "ticker": "TCRS",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Credit curve steepener strategy executed through CDS index positions (iTraxx Europe and CDX North America IG). Uses credit default swaps, not options. Synthetic swap-based replication. No options contracts used.",
+    "sources_checked": "Janus Henderson (justETF); Tabula/Janus Henderson KID; Fact Sheet"
+  },
+  {
+    "name": "Desjardins Global Macro ETF",
+    "ticker": "DGLM",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "中",
+    "reasoning": "Systematic quantitative global macro strategy using trend, carry, value, and fundamental signals. Implements via futures across equity, currency, commodity, and fixed income asset classes. Classified as alternative ETF, may use options in toolkit, but core is futures-based macro.",
+    "sources_checked": "Desjardins.com; StockAnalysis; DayTrading.com"
+  },
+  {
+    "name": "BMO Long Short Canadian Equity ETF",
+    "ticker": "ZLSC",
+    "original_judgment": "是",
+    "verified_judgment": "否",
+    "agreement": "不一致",
+    "confidence": "中",
+    "reasoning": "Long/short Canadian equity strategy. Prospectus allows options as one of several permitted derivative tools, but actual holdings show stock positions + 48% money market fund. No evidence of actual options positions. Core is stock long-short, not options-based. Original judgment of '是' appears inconsistent with the explanation which admits options are not core.",
+    "sources_checked": "BMO GAM Prospectus; StockAnalysis; TipRanks; Yahoo Finance; Globe and Mail"
+  },
+  {
+    "name": "Brompton Global Equity HighPay ETF",
+    "ticker": "PAYG",
+    "original_judgment": "是",
+    "verified_judgment": "是",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Actively managed covered call strategy on global equities with ~25% leverage. Writes short-dated (1-2 month) OTM covered calls on select holdings, generating premium income. Core to the high distribution strategy.",
+    "sources_checked": "Bromptongroup.com; Barchart; Business Insider; Brompton Covered Call Primer"
+  },
+  {
+    "name": "Evolve All-in-One UltraYield ETF",
+    "ticker": "EASY",
+    "original_judgment": "是",
+    "verified_judgment": "是",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Fund-of-funds ETF investing in BIGY (US), CANY (Canada), INTY (International) UltraYield ETFs. Each underlying fund writes covered call options on ~50% of portfolio with 33% leverage. Options premium is core to the income strategy.",
+    "sources_checked": "EvolveETFs.com; Barchart; Globe and Mail; TipRanks"
+  },
+  {
+    "name": "Amundi US Curve Stpng 2-10 ETF Acc",
+    "ticker": "STPU",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Tracks Solactive USD Daily (x7) Steepener 2-10 Index. Long 2-year US Treasury Note futures, short Ultra 10-Year US Treasury Note futures with 7x leverage. Uses futures and swaps (synthetic replication), not options.",
+    "sources_checked": "AJ Bell; ETF Stream; Amundi KID; Morningstar"
+  },
+  {
+    "name": "Brompton Split Corp. Enhanced Eq Inc ETF",
+    "ticker": "CLSA",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "中",
+    "reasoning": "Invests in split share corporation Class A shares (Dividend 15 Split, Life & Banc Split, etc.). The underlying split corps may use covered call strategies, but CLSA itself does not directly write options. It is a fund-of-funds holding other split corp shares. No direct options strategy at the ETF level.",
+    "sources_checked": "Bromptongroup.com; Brompton CLSA Interim MRFP; TSX"
+  }
+]

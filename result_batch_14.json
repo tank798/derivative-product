@@ -1,0 +1,262 @@
+[
+  {
+    "name": "Yuanta Financial DH TR (Reinvest) ETN",
+    "ticker": "020037",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Confirmed via TWSE and Taiwan Index Plus data. ETN tracks the 'TIP Customized Finance Dividend Highlight Total Return Index', a passive equity index of 10 Taiwan financial stocks selected by dividend yield and market cap. Standard index-tracking ETN with no options strategy.",
+    "sources_checked": "TWSE ETN product page (020037), Taiwan Index Plus (IR0174), Yuanta Securities ETN product page"
+  },
+  {
+    "name": "Yuanta Green Energy ETN",
+    "ticker": "020032",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Confirmed via TWSE and Taiwan Index Plus. ETN tracks the 'TIP Customized Taiwan Green Energy Total Return Index', selecting 20 Taiwan solar and wind energy stocks. Passive equity index tracker, no options.",
+    "sources_checked": "TWSE ETN product page (020032), Taiwan Index Plus (IR0165), Yuanta Securities ETN product page"
+  },
+  {
+    "name": "Yuanta IC Design ETN",
+    "ticker": "020034",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Confirmed via TWSE and news reports. ETN tracks the 'TIP Customized Taiwan IC Design Representatives Total Return Index', selecting 15 Taiwan IC design stocks by market cap. Passive equity index tracker, no options.",
+    "sources_checked": "Yuanta Securities ETN product page (020034), Taiwan Index Plus, Commercial Times news reports"
+  },
+  {
+    "name": "Yuanta LDR ETN",
+    "ticker": "020020",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Confirmed via TWSE. ETN tracks the 'TIP Customized Taiwan LDR Total Return Index', selecting 15 Taiwan leading companies (TSMC 26.63%, Delta 17.64%, MediaTek 14.76%). Passive equity index tracker, no options.",
+    "sources_checked": "TWSE ETN product page (020020), Goodinfo TW, Yuanta Securities"
+  },
+  {
+    "name": "Yuanta TAIEX TRI ETN",
+    "ticker": "020039",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Confirmed via TWSE. ETN tracks the TAIEX Total Return Index (over 900 Taiwan stocks). Zero management fee, 3-year term. Standard broad market index tracker, no options.",
+    "sources_checked": "TWSE ETN product page (020039), Yuanta press release, Goodinfo TW"
+  },
+  {
+    "name": "Yuanta TPEx ESG Growth ETN",
+    "ticker": "020027",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Confirmed via TWSE/TPEx. ETN tracks the TPEx ESG Growth Total Return Index, selecting 10 OTC stocks with ESG scores and growth metrics. Passive equity index tracker, no options.",
+    "sources_checked": "TPEx ETN product page (020027), Yuanta Securities, Goodinfo TW"
+  },
+  {
+    "name": "Yuanta TPEx ESG HD ETN",
+    "ticker": "020035",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Confirmed via TPEx. ETN tracks the TPEx ESG High Dividend Total Return Index, selecting 10-15 OTC stocks with ESG scores and high dividend yield. Passive equity index tracker with annual distributions, no options.",
+    "sources_checked": "TPEx, Yuanta Securities ETN product page (020035), Goodinfo TW, Commercial Times"
+  },
+  {
+    "name": "Yuanta TPEx ESG LDR ETN",
+    "ticker": "020040",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Confirmed via TPEx. ETN tracks the TPEx ESG Market Leader Total Return Index, selecting 10-20 OTC stocks with leadership criteria and ESG scores. Passive equity index tracker, no options.",
+    "sources_checked": "TPEx ETN product page (020040), TPEx press release, Goodinfo TW"
+  },
+  {
+    "name": "Yuanta TPEx Semicondctr LDRs TR Idx ETN",
+    "ticker": "020023",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Confirmed via TPEx. ETN tracks the TPEx Semiconductor Leaders Total Return Index, selecting OTC semiconductor companies. Passive equity index tracker, no options.",
+    "sources_checked": "TPEx ETN product page (020023), Goodinfo TW"
+  },
+  {
+    "name": "Alternative Strategies Index Tracker",
+    "ticker": "",
+    "original_judgment": "是",
+    "verified_judgment": "是",
+    "agreement": "一致",
+    "confidence": "中",
+    "reasoning": "Product issued by Opus-Chartered Issuances SA (Luxembourg), classified under 'EAA Fund Alternative Other' category. 'Alternative Strategies' trackers typically invest in multi-strategy/fund-of-funds approaches that include options (hedge fund replication, tail hedging, volatility strategies). The Opus platform issues tracker certificates on actively managed indices that can employ derivatives including options. Limited public documentation available for the specific compartment/ISIN.",
+    "sources_checked": "Opus-Chartered Issuances SA website, Morningstar category classification, Instifolio/Opus AMC 2.0 product documentation"
+  },
+  {
+    "name": "Alternative Strategies Index Tracker_S2",
+    "ticker": "",
+    "original_judgment": "是",
+    "verified_judgment": "是",
+    "agreement": "一致",
+    "confidence": "中",
+    "reasoning": "Series 2 version of the same Alternative Strategies Index Tracker from Opus-Chartered Issuances SA. Same structure and strategy approach. As an alternative strategies tracker, likely includes options as part of multi-strategy allocation.",
+    "sources_checked": "Opus-Chartered Issuances SA website, Morningstar category classification, Instifolio/Opus documentation"
+  },
+  {
+    "name": "Fidelity Alternative Bond ETF",
+    "ticker": "FFAB",
+    "original_judgment": "否",
+    "verified_judgment": "是",
+    "agreement": "不一致",
+    "confidence": "中",
+    "reasoning": "Fidelity Canada Alternative Mutual Fund (TSX: FFAB). The fund's simplified prospectus explicitly lists 'Options' as a permitted derivative for both hedging and non-hedging purposes. The fund strategy description mentions 'credit options' as part of its tactical fixed income toolkit. While the core strategy is long/short credit, options are a confirmed component of the fund's permitted and utilized instruments. Original judgment focused on holdings table not showing options, but the prospectus confirms options usage.",
+    "sources_checked": "Fidelity.ca Alternative Bond Fund page, Fidelity Simplified Prospectus Part A (prospectus-fidelityfunds-part-a-en.pdf), Investcom fund data"
+  },
+  {
+    "name": "Ironclad Absolute Aggressive Index Trkr",
+    "ticker": "",
+    "original_judgment": "是",
+    "verified_judgment": "否",
+    "agreement": "不一致",
+    "confidence": "中",
+    "reasoning": "Ironclad Absolute Aggressive Index (ISIN: DE000A4AJAD5) is a systematic, rules-based quantitative strategy generating buy/sell signals across market indices and equities. The methodology mentions allocations based on price activity, liquidity, technical data, and news flow. No evidence of options as a strategy component. Typical implementation for such systematic momentum/trend strategies is via futures and ETFs, not options.",
+    "sources_checked": "Instifolio Ironclad Absolute Aggressive Index page, LIXX Index Administrator"
+  },
+  {
+    "name": "Ironclad Clockwork Aggressive Index Trkr",
+    "ticker": "",
+    "original_judgment": "是",
+    "verified_judgment": "否",
+    "agreement": "不一致",
+    "confidence": "中",
+    "reasoning": "Ironclad Clockwork Aggressive Index (ISIN: DE000A4AJAE3) is a systematic quantitative strategy using proprietary algorithms for allocation decisions. Similar to Absolute Aggressive, it generates buy/sell signals without specific reference to options. The strategy focuses on equity indices and cash/money market instruments. No evidence of options usage.",
+    "sources_checked": "Instifolio Ironclad Clockwork Aggressive Index page, LIXX Index Administrator"
+  },
+  {
+    "name": "Ironclad Commodity Enhancement Stgy Trkr",
+    "ticker": "",
+    "original_judgment": "是",
+    "verified_judgment": "否",
+    "agreement": "不一致",
+    "confidence": "中",
+    "reasoning": "Ironclad Commodity Enhancement Strategy Index (ISIN: DE000A4AGEA9) uses a systematic quantitative algorithm for allocation across market components. The related COMMOENH index tracks 24 commodity futures contracts from the Bloomberg Commodity Index family. The strategy's commodity exposure is achieved through futures contracts, not options. No evidence of options being used in the strategy.",
+    "sources_checked": "Instifolio Ironclad Commodity Enhancement Strategy Index page, COMMOENH Methodology (compassft.com), LIXX"
+  },
+  {
+    "name": "Ironclad Diversified Armour Stgy Tracker",
+    "ticker": "",
+    "original_judgment": "是",
+    "verified_judgment": "是",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Ironclad Asset Management's Diversified Armour strategy explicitly uses 'option-based tail risk hedging' as a core component. The strategy combines put option purchases for tail risk protection (catching fast market crashes) with trend-following (handling slow declines). Academic paper co-authored by Ironclad's Bruno Schwalbach details the options overlay methodology. Options are a confirmed core strategy component.",
+    "sources_checked": "Ironcladam.com, Verum Capital GEO Global Armour factsheet, Investment Analysts Journal 2023 paper 'Leveraging defence into offence'"
+  },
+  {
+    "name": "Ironclad Equity Armour Strategy Tracker",
+    "ticker": "",
+    "original_judgment": "是",
+    "verified_judgment": "是",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Ironclad Asset Management's Equity Armour strategy uses explicit put option purchases for tail risk hedging. The strategy is part of the same Armour series as Diversified Armour, both using option-based protections combined with trend-following overlays. Academic research and fund documentation confirm options as a core component for equity protection.",
+    "sources_checked": "Verum Capital GEO Global Armour factsheet, Investment Analysts Journal 2023, Ironclad Asset Management website"
+  },
+  {
+    "name": "Ironclad Fortress Tracker",
+    "ticker": "",
+    "original_judgment": "是",
+    "verified_judgment": "是",
+    "agreement": "一致",
+    "confidence": "中",
+    "reasoning": "Ironclad Fortress strategy described as maintaining global equity passive investment with trend-following and tail risk hedging overlays. Consistent with Ironclad's established approach across their Armour and Fortress product lines. Tail risk hedging typically uses put options. While a specific Fortress factsheet was not located, the strategy pattern aligns with Ironclad's documented options-based hedging methodology.",
+    "sources_checked": "Ironclad Asset Management website, Ironclad research publications on tail risk hedging"
+  },
+  {
+    "name": "Ironclad Risk Parity 15% Volatility Trkr",
+    "ticker": "",
+    "original_judgment": "是",
+    "verified_judgment": "否",
+    "agreement": "不一致",
+    "confidence": "中",
+    "reasoning": "Ironclad Risk Parity (15% Volatility) Index follows a standard risk parity methodology allocating across global equities, commodities (via futures), US Treasuries (via 10-Year and Ultra Treasury Bond futures), and TIPS (via PIMCO LTPZ ETF). Exposure is achieved through futures contracts and ETFs. The Solactive fact sheet and S&P Risk Parity methodology confirm futures-based implementation. No options identified in the strategy.",
+    "sources_checked": "Solactive Advanced Research Risk Parity Index fact sheet (DE000SLA9Q71), S&P Risk Parity Indices methodology, Ironclad/Instifolio product page"
+  },
+  {
+    "name": "KIS S&P500 VIX S/T Futures ETN(H)",
+    "ticker": "570088",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Korean Investment Securities ETN tracking the S&P 500 VIX Short-Term Futures Index. The index holds a rolling long position in 1st and 2nd month VIX futures contracts only. S&P DJI methodology confirms the index is purely futures-based with no options component. The VIX index itself is calculated from S&P 500 option prices, but the futures-based ETN does not hold or trade options.",
+    "sources_checked": "S&P DJI VIX Futures Indices Methodology, KRX listing data, Barclays iPath VXX prospectus reference"
+  },
+  {
+    "name": "KIS S&P500 VIX S/T Futures ETN(H) B",
+    "ticker": "570114",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Class B shares of the same KIS VIX Short-Term Futures ETN (Korean Won hedged). Same underlying index (S&P 500 VIX Short-Term Futures Index) which is purely futures-based. No options strategy.",
+    "sources_checked": "S&P DJI VIX Futures Indices Methodology, KRX listing data"
+  },
+  {
+    "name": "MiraeAsset S&P500 VIX S/T Futures ETN(H)",
+    "ticker": "520088",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Mirae Asset Securities ETN tracking the S&P 500 VIX Short-Term Futures Index. Futures-based index with daily rolling of VIX futures contracts. No options component.",
+    "sources_checked": "S&P DJI VIX Futures Indices Methodology, KRX listing data"
+  },
+  {
+    "name": "N2 S&P500 VIX S/T Futures ETN D",
+    "ticker": "550081",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "NH Investment & Securities ETN tracking the S&P 500 VIX Short-Term Futures Index. Class D shares. Futures-based index with no options component.",
+    "sources_checked": "S&P DJI VIX Futures Indices Methodology, KRX listing data"
+  },
+  {
+    "name": "QR CME CF SOLANA DOL REF RATE FIIM",
+    "ticker": "QSOL11",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "QR Asset Management Solana ETF listed on Brazil's B3 exchange (BVMF: QSOL11). Tracks the CME CF Solana Dollar Reference Rate index. Classified as a Brazilian foreign investment index fund (FIIM). The fund tracks Solana spot/cash prices via the CME CF reference rate. No options or derivatives strategy involved.",
+    "sources_checked": "B3 exchange documentation, QR Asset Management, StockAnalysis.com QSOL11 page, BeInCrypto news"
+  },
+  {
+    "name": "Samsung S&P500 VIX S/T Futures ETN",
+    "ticker": "530109",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Samsung Securities ETN tracking the S&P 500 VIX Short-Term Futures Index. Futures-based index with daily rolling of VIX futures contracts. No options component.",
+    "sources_checked": "S&P DJI VIX Futures Indices Methodology, KRX listing data"
+  },
+  {
+    "name": "Samsung S&P500 VIX S/T Futures ETN B",
+    "ticker": "530130",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "Class B shares of Samsung Securities VIX Short-Term Futures ETN. Same underlying futures-based index (S&P 500 VIX Short-Term Futures Index). No options strategy.",
+    "sources_checked": "S&P DJI VIX Futures Indices Methodology, KRX listing data"
+  }
+]

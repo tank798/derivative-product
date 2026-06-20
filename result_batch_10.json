@@ -1,0 +1,262 @@
+[
+  {
+    "name": "KSM MSCI India (4Da')",
+    "ticker": "K.MSCI25",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM '4Da' series product tracking MSCI India index; standard passive index ETF using physical replication (holding underlying stocks) or swap-based synthetic replication, neither of which involves options strategies. No evidence of covered calls, puts, or options overlays. KSM ETF family does not include options-based funds; their options-related products are limited to leveraged 6D/6A series which are different products.",
+    "sources_checked": "TASE market data site, Interactive Brokers ETF listings, Yahoo Finance (no options chains), Cbonds, TradingView, KSM fund filings on TASE"
+  },
+  {
+    "name": "KSM MSCI Japan (4Da')",
+    "ticker": "K.MXJP21",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM '4Da' series product tracking MSCI Japan index; standard passive index ETF. Physical or swap-based replication, no options strategies. No mention of covered calls, puts, or option overlays in any documentation.",
+    "sources_checked": "Interactive Brokers TASE ETF listings, Yahoo Finance, Cbonds, TradingView, TASE fund data"
+  },
+  {
+    "name": "KSM MSCI Nordic Countries (4Da')",
+    "ticker": "K.MSCI29",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM '4Da' series product tracking MSCI Nordic Countries index; standard passive index ETF. Physical or swap-based replication, no options strategies or overlays.",
+    "sources_checked": "Interactive Brokers TASE ETF listings, Yahoo Finance, TASE market data"
+  },
+  {
+    "name": "KSM MSCI Singapore (4Da')",
+    "ticker": "KMSCI.48",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM '4Da' series product tracking MSCI Singapore index; standard passive index ETF. Physical or swap-based replication, no options strategies or overlays.",
+    "sources_checked": "Interactive Brokers TASE ETF listings, Yahoo Finance, TASE market data"
+  },
+  {
+    "name": "KSM MSCI South Africa (4Da')",
+    "ticker": "K.MSCI26",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM '4Da' series product tracking MSCI South Africa index; standard passive index ETF. Physical or swap-based replication, no options strategies.",
+    "sources_checked": "Interactive Brokers TASE ETF listings, Yahoo Finance, TASE market data"
+  },
+  {
+    "name": "KSM MSCI Spain (4Da')",
+    "ticker": "K.MSCI30",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM '4Da' series product tracking MSCI Spain index; standard passive index ETF. Physical or swap-based replication, no options strategies.",
+    "sources_checked": "Interactive Brokers TASE ETF listings, Yahoo Finance, TASE market data"
+  },
+  {
+    "name": "KSM MSCI Taiwan (4Da')",
+    "ticker": "KSMTW.17",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM '4Da' series product tracking MSCI Taiwan index; standard passive index ETF. Physical or swap-based replication, no options strategies.",
+    "sources_checked": "Interactive Brokers TASE ETF listings, Yahoo Finance, TASE market data"
+  },
+  {
+    "name": "KSM MSCI Turkey (4Da')",
+    "ticker": "K.MSCI28",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM '4Da' series product tracking MSCI Turkey index; standard passive index ETF. Physical or swap-based replication, no options strategies.",
+    "sources_checked": "Interactive Brokers TASE ETF listings, Yahoo Finance, TASE market data"
+  },
+  {
+    "name": "KSM MSCI World (4Da')",
+    "ticker": "K.MXWO18",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM '4Da' series product tracking MSCI World index (also listed as KSM-F68.TA); standard passive global equity index ETF. Physical or swap-based replication, no options strategies. Yahoo Finance shows no options chain available.",
+    "sources_checked": "Yahoo Finance (KSM-F68.TA), Interactive Brokers, Bloomberg (KSMF76:IT), TASE market data"
+  },
+  {
+    "name": "KSM MSCI World (NTR) ILS (40a')",
+    "ticker": "KSMW.171",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM '40a' series product tracking MSCI World NTR index with ILS currency hedging. Currency hedging uses FX forwards/derivatives (which are not options). Underlying index tracking via physical or swap-based replication. No options strategies (covered calls, puts, spreads).",
+    "sources_checked": "Interactive Brokers TASE listings, TASE market data, Bloomberg, KSM fund documentation"
+  },
+  {
+    "name": "KSM Nasdaq 100 (4Da')",
+    "ticker": "KSM.3NDX",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM '4Da' series product tracking Nasdaq 100 index; standard passive index ETF. Holds underlying stocks or uses swaps. No covered call, put writing, or options overlay strategies. No options-based income generation.",
+    "sources_checked": "Interactive Brokers TASE ETF listings, Yahoo Finance, TASE market data, Cbonds"
+  },
+  {
+    "name": "KSM Nasdaq 100 ILS (40a')",
+    "ticker": "KSNAS.91",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM '40a' series product tracking Nasdaq 100 with ILS currency hedging; standard passive ETF. Currency hedging via FX forwards, index tracking via physical replication. No options strategies.",
+    "sources_checked": "Interactive Brokers TASE listings, TASE market data, Bloomberg"
+  },
+  {
+    "name": "KSM NASDAQ Internationl BuyBck ILS(40a')",
+    "ticker": "KMBY.170",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM '40a' series product tracking Nasdaq International Buyback Achievers index with ILS hedging. Follows companies with share buyback programs, not an options strategy. Physical or swap replication with FX hedging. No covered call or options overlay.",
+    "sources_checked": "Interactive Brokers TASE listings, TASE market data, Yahoo Finance"
+  },
+  {
+    "name": "KSM NASDAQ OMX 30 (4Da')",
+    "ticker": "KSOMX.35",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM '4Da' series product tracking NASDAQ OMX 30 index; standard passive index ETF. Physical or swap-based replication. No options strategies.",
+    "sources_checked": "Interactive Brokers TASE listings, Yahoo Finance, TASE market data"
+  },
+  {
+    "name": "KSM Nasdaq US Buyback Achievers (4Da')",
+    "ticker": "KSBY.146",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM '4Da' series product tracking Nasdaq US Buyback Achievers index; holds US stocks with active buyback programs. Standard equity index ETF, no options strategies or overlays.",
+    "sources_checked": "Interactive Brokers TASE listings, Yahoo Finance, TASE market data"
+  },
+  {
+    "name": "KSM NIKKEI 225 (4Da')",
+    "ticker": "KSNKY.38",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM '4Da' series product tracking Nikkei 225 index; standard passive Japanese equity index ETF. Physical or swap-based replication. No options strategies.",
+    "sources_checked": "Interactive Brokers TASE listings, Yahoo Finance, TASE market data, Bloomberg"
+  },
+  {
+    "name": "KSM Non-Linkd Fixd Int Gv Bds 0-2ys(000)",
+    "ticker": "KSSHR.57",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM '00' series product tracking Israeli non-linked fixed-rate government bonds 0-2 years. Directly holds physical Israeli government bonds. Plain vanilla bond ETF, no options strategies. KSM's bond ETFs are explicitly described as holding physical bonds.",
+    "sources_checked": "TipRanks (KSM.F214), Investing.com (KSMF58), TASE market data, Cbonds, Bloomberg"
+  },
+  {
+    "name": "KSM Non-Linkd Fixd Int Gv Bds 2-5ys(000)",
+    "ticker": "KSSHR.59",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM '00' series product tracking Israeli non-linked fixed-rate government bonds 2-5 years. Directly holds physical Israeli government bonds. Plain vanilla bond ETF, no options strategies.",
+    "sources_checked": "TipRanks, Investing.com, TASE market data, Cbonds"
+  },
+  {
+    "name": "KSM Non-Linkd Fixd Int Gv Bds 5+ ys(00A)",
+    "ticker": "KSSH5.58",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM '00' series product tracking Israeli non-linked fixed-rate government bonds 5+ years. Directly holds physical Israeli government bonds. Plain vanilla long-term bond ETF, no options strategies.",
+    "sources_checked": "TipRanks (KSM.F38), Investing.com (KSMF153), TASE market data"
+  },
+  {
+    "name": "KSM RDX USD (4Da')",
+    "ticker": "KSMRU.16",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM '4Da' series product tracking RDX USD index (Russian Depositary Index, USD-denominated). Standard passive index ETF. Physical or swap-based replication. No options strategies.",
+    "sources_checked": "Yahoo Finance (KSM-F22.TA), Interactive Brokers TASE listings, TASE market data"
+  },
+  {
+    "name": "KSM RealEstate-15 (40A)",
+    "ticker": "KSM.ND7",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM '40A' series product tracking Israel Real Estate 15 index. Holds underlying real estate stocks. Standard equity index ETF, no options strategies.",
+    "sources_checked": "TASE market data, Interactive Brokers TASE listings"
+  },
+  {
+    "name": "KSM Russell 2000 (4Da')",
+    "ticker": "KSMRS.10",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM '4Da' series product tracking Russell 2000 small-cap index. Standard passive index ETF using physical or swap-based replication. No options strategies or overlays.",
+    "sources_checked": "Interactive Brokers TASE listings, Yahoo Finance, TASE market data"
+  },
+  {
+    "name": "KSM Russell 2000 ILS (40a')",
+    "ticker": "KRTY.112",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM '40a' series product tracking Russell 2000 with ILS currency hedging. Standard passive ETF. Currency hedging via FX forwards, index tracking via physical or swap replication. No options strategies.",
+    "sources_checked": "Interactive Brokers TASE listings, TASE market data, Yahoo Finance"
+  },
+  {
+    "name": "KSM S&P 500 (4Da')",
+    "ticker": "KS500.39",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM '4Da' series product tracking S&P 500 index. Standard passive index ETF holding underlying S&P 500 stocks or using swaps. No covered call, put writing, or options overlay strategies. KSM's S&P 500 ETFs are plain-vanilla tracking products.",
+    "sources_checked": "Interactive Brokers TASE listings, Yahoo Finance (KS500.39), Bloomberg (KSMF82:IT), TASE market data"
+  },
+  {
+    "name": "KSM S&P 500 ILS (40a')",
+    "ticker": "KSS&P.90",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM '40a' series product tracking S&P 500 with ILS currency hedging. Standard passive ETF. Currency hedging via FX forwards, index tracking via physical replication. No options strategies.",
+    "sources_checked": "Interactive Brokers TASE listings, Bloomberg, TASE market data"
+  },
+  {
+    "name": "KSM S&P 500 Low Volatility Hgh Div(4Da')",
+    "ticker": "KMTN.160",
+    "original_judgment": "否",
+    "verified_judgment": "否",
+    "agreement": "一致",
+    "confidence": "高",
+    "reasoning": "KSM '4Da' series product tracking S&P 500 Low Volatility High Dividend index (also listed as KSM-F142.TA). Smart-beta equity ETF selecting low-volatility, high-dividend stocks. Despite income focus, this is a stock selection strategy, not an options strategy. No covered call or put writing involved. Physical replication holding underlying equities.",
+    "sources_checked": "Yahoo Finance (KSM-F142.TA), Investing.com (KSMF142), Financial Times (KSM.F111:TLV), TASE market data"
+  }
+]
