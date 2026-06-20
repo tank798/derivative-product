@@ -298,7 +298,7 @@ def generate_chapter2(doc, ref, opt, mgr, perf_lu):
          "AUM加权费率", "策略覆盖"],
         overview_rows, font_size=7.8)
     add_src(doc, ref,
-        "Morningstar、管理人产品资料、易方达产品研究。数据截至2026年5月31日，使用期权产品按二级复核后分类。")
+        "Morningstar、管理人产品资料、易方达产品研究。数据截至2026年5月31日，使用期权产品按SecId唯一产品口径统计，并对同一品牌下不同注册实体做管理人名称归并。")
     add_note(doc, ref,
         "AUM加权费率 = Σ（各产品费率×AUM）/ Σ（AUM），反映投资者实际承担的费率水平。"
         f"全球使用期权ETF总AUM约{total_opt_aum_亿:.2f}亿美元。")
@@ -960,8 +960,7 @@ def main():
         return name_s
     opt['Firm Name'] = opt['Firm Name'].apply(normalize_firm)
     raw['Firm Name'] = raw['Firm Name'].apply(normalize_firm)
-    # Dedup by ticker to avoid double-counting share classes
-    opt = opt.sort_values('Fund Size USD', ascending=False).drop_duplicates(subset=['Ticker'], keep='first')
+    # Keep the same SecId-level unique product口径 as Chapter 1.
     perf_lu = get_perf(raw)
     print(f"  使用期权产品: {len(opt)} 只, AUM ${opt['Fund Size USD'].sum()/1e8:.2f}亿")
 
